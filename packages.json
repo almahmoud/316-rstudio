@@ -17594,7 +17594,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "XVector",
         "zlibbioc"
@@ -20655,7 +20654,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -21986,7 +21984,6 @@
         "BiocGenerics"
     ],
     "randRotation": [],
-    "RankProd": [],
     "RareVariantVis": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -27826,9 +27823,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "synlet": [
-        "RankProd"
-    ],
+    "synlet": [],
     "SynMut": [
         "BiocGenerics",
         "Biostrings",
@@ -28869,7 +28864,6 @@
         "Heatplus",
         "IRanges",
         "KEGGREST",
-        "RankProd",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
