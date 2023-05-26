@@ -6534,7 +6534,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "CORREP": [],
     "coseq": [
         "AnnotationDbi",
         "Biobase",
