@@ -10802,7 +10802,6 @@
         "graph",
         "zlibbioc"
     ],
-    "GladiaTOX": [],
     "Glimma": [
         "AnnotationDbi",
         "Biobase",
