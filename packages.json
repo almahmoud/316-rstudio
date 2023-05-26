@@ -4245,7 +4245,6 @@
         "genomeIntervals",
         "zlibbioc"
     ],
-    "Chicago": [],
     "chimeraviz": [
         "AnnotationDbi",
         "AnnotationFilter",
