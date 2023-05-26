@@ -14263,7 +14263,6 @@
         "treeio",
         "zlibbioc"
     ],
-    "M3Drop": [],
     "m6Aboost": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -24340,7 +24339,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "M3Drop",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -25676,7 +25674,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "M3Drop",
         "MAST",
         "ProtGenerics",
         "ResidualMatrix",
