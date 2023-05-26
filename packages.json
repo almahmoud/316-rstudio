@@ -1142,7 +1142,6 @@
         "preprocessCore",
         "zlibbioc"
     ],
-    "ASAFE": [],
     "ASICS": [
         "Biobase",
         "BiocBaseUtils",
