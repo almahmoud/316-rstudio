@@ -9718,9 +9718,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "gCrisprTools": [
         "Biobase",
         "ComplexHeatmap",
@@ -12825,7 +12823,6 @@
         "zlibbioc"
     ],
     "les": [],
-    "lfa": [],
     "limmaGUI": [],
     "LineagePulse": [
         "Biobase",
