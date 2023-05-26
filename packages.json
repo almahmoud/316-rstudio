@@ -9673,7 +9673,6 @@
         "genefilter",
         "geneplotter",
         "rtracklayer",
-        "sSeq",
         "sva",
         "zlibbioc"
     ],
@@ -15368,7 +15367,6 @@
         "annotate",
         "edgeR",
         "geneplotter",
-        "sSeq",
         "zlibbioc"
     ],
     "MMAPPR2": [
@@ -24683,7 +24681,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
