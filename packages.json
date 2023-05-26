@@ -11115,7 +11115,6 @@
         "flowViz"
     ],
     "flowGraph": [],
-    "flowMap": [],
     "flowMatch": [
         "Biobase",
         "BiocGenerics",
