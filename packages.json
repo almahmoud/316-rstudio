@@ -7796,7 +7796,6 @@
         "sparseMatrixStats",
         "zlibbioc"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "Biobase",
         "BiocGenerics",
@@ -9103,7 +9102,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "decoupleR",
         "geneplotter",
         "interactiveDisplayBase",
         "preprocessCore",
@@ -22698,8 +22696,7 @@
     ],
     "progeny": [
         "Biobase",
-        "BiocGenerics",
-        "decoupleR"
+        "BiocGenerics"
     ],
     "projectR": [
         "Biobase",
