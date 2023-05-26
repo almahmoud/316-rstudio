@@ -4637,7 +4637,6 @@
         "edgeR",
         "zlibbioc"
     ],
-    "ClusterSignificance": [],
     "clusterStab": [
         "Biobase"
     ],
