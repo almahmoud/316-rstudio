@@ -10716,7 +10716,6 @@
         "treeio",
         "zlibbioc"
     ],
-    "GGPA": [],
     "ggspavis": [
         "Biobase",
         "BiocFileCache",
