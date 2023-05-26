@@ -17576,8 +17576,7 @@
         "MsCoreUtils",
         "ProtGenerics",
         "S4Vectors",
-        "Spectra",
-        "rawrr"
+        "Spectra"
     ],
     "MsCoreUtils": [
         "BiocGenerics",
@@ -22123,7 +22122,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "BiocGenerics",
