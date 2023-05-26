@@ -1811,7 +1811,6 @@
         "annotate",
         "beachmat",
         "biomformat",
-        "dearseq",
         "edgeR",
         "genefilter",
         "geneplotter",
@@ -6414,7 +6413,6 @@
         "ncdfFlow",
         "zlibbioc"
     ],
-    "dearseq": [],
     "debCAM": [
         "Biobase",
         "DelayedArray",
