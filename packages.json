@@ -14247,7 +14247,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "iGC": [],
     "IgGeneUsage": [
         "Biobase",
         "BiocGenerics",
