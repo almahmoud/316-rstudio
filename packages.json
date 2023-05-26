@@ -13379,7 +13379,6 @@
         "zlibbioc"
     ],
     "MANOR": [],
-    "MantelCorr": [],
     "mAPKL": [
         "AnnotationDbi",
         "Biobase",
