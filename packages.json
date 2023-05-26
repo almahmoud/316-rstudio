@@ -3072,9 +3072,7 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "bridge": [
-        "rama"
-    ],
+    "bridge": [],
     "BridgeDbR": [],
     "BrowserViz": [
         "BiocGenerics"
@@ -21948,7 +21946,6 @@
         "BiocGenerics",
         "multtest"
     ],
-    "rama": [],
     "ramr": [
         "BiocGenerics",
         "GenomeInfoDb",
