@@ -2540,7 +2540,6 @@
         "zlibbioc"
     ],
     "BiocStyle": [],
-    "biocthis": [],
     "biocViews": [
         "Biobase",
         "BiocGenerics",
@@ -13998,9 +13997,7 @@
         "limma",
         "zlibbioc"
     ],
-    "HubPub": [
-        "biocthis"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "Biobase",
         "BiocGenerics",
