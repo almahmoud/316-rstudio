@@ -9853,7 +9853,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "FitHiC": [],
     "flagme": [
         "Biobase",
         "BiocGenerics",
