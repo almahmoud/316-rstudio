@@ -18305,7 +18305,6 @@
         "zlibbioc"
     ],
     "NetPathMiner": [],
-    "netprioR": [],
     "netresponse": [
         "BiocGenerics",
         "BiocStyle",
