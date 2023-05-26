@@ -8012,7 +8012,6 @@
         "geneplotter",
         "zlibbioc"
     ],
-    "deltaGseg": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
