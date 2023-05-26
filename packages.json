@@ -13126,7 +13126,6 @@
         "BiocGenerics",
         "graph"
     ],
-    "GSALightning": [],
     "GSAR": [],
     "GSCA": [
         "Rhdf5lib",
