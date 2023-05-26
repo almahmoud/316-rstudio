@@ -14720,7 +14720,6 @@
         "interactiveDisplayBase",
         "minfi",
         "multtest",
-        "planet",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer",
@@ -18915,7 +18914,6 @@
         "RBGL",
         "graph"
     ],
-    "planet": [],
     "plethy": [
         "Biobase",
         "IRanges",
