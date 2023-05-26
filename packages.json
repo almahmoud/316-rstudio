@@ -19809,9 +19809,7 @@
         "affyio",
         "zlibbioc"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "pareg": [
         "AnnotationDbi",
         "Biobase",
@@ -22402,7 +22400,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "RedeR": [],
     "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
@@ -24015,7 +24012,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RedeR",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -24032,7 +24028,6 @@
         "GenomicRanges",
         "IRanges",
         "RTN",
-        "RedeR",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -24050,7 +24045,6 @@
         "IRanges",
         "RTN",
         "RTNduals",
-        "RedeR",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -28781,7 +28775,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RedeR",
         "S4Vectors",
         "XVector",
         "biomaRt",
@@ -28942,9 +28935,7 @@
         "slingshot",
         "zlibbioc"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [],
     "treekoR": [
         "Biobase",
