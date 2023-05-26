@@ -1095,7 +1095,6 @@
         "vsn",
         "zlibbioc"
     ],
-    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biobase",
