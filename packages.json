@@ -24706,7 +24706,6 @@
         "zlibbioc"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
