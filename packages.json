@@ -3014,7 +3014,6 @@
         "zlibbioc"
     ],
     "bridge": [],
-    "BridgeDbR": [],
     "BrowserViz": [
         "BiocGenerics"
     ],
