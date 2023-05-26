@@ -6259,7 +6259,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "Rbwa",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -22061,7 +22060,6 @@
         "Biobase",
         "BiocGenerics"
     ],
-    "Rbwa": [],
     "Rcade": [
         "Biobase",
         "BiocGenerics",
