@@ -1167,7 +1167,6 @@
         "biomformat",
         "genefilter",
         "geneplotter",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -8380,9 +8379,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "AnnotationDbi",
         "Biostrings",
@@ -8392,8 +8389,7 @@
         "KEGGREST",
         "Maaslin2",
         "SummarizedExperiment",
-        "XVector",
-        "metagenomeSeq"
+        "XVector"
     ],
     "macat": [
         "AnnotationDbi",
@@ -8922,7 +8918,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "DelayedArray",
@@ -9011,7 +9006,6 @@
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
-        "metagenomeSeq",
         "phyloseq",
         "rhdf5",
         "rtracklayer"
@@ -9399,7 +9393,6 @@
         "GenomeInfoDb",
         "XVector",
         "biomformat",
-        "metagenomeSeq",
         "phyloseq",
         "rhdf5"
     ],
@@ -9416,7 +9409,6 @@
         "annotate",
         "biomformat",
         "geneplotter",
-        "metagenomeSeq",
         "rhdf5"
     ],
     "microbiomeMarker": [
@@ -9444,7 +9436,6 @@
         "beachmat",
         "biomformat",
         "geneplotter",
-        "metagenomeSeq",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -9821,8 +9812,7 @@
         "rtracklayer"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "metagenomeSeq"
+        "Maaslin2"
     ],
     "mnem": [],
     "moanin": [
