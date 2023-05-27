@@ -2681,9 +2681,7 @@
         "scuttle",
         "slingshot"
     ],
-    "CONFESS": [
-        "flowMerge"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4793,7 +4791,6 @@
     "flowDensity": [
         "flowWorkspace"
     ],
-    "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
     ],
