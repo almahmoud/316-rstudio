@@ -505,8 +505,8 @@ packaged installation of ‘GenomicFeatures’ as ‘GenomicFeatures_1.50.4_R_x8
 * DONE (GenomicFeatures)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPJBXsh/downloaded_packages’
+	‘/tmp/RtmpWEkY2r/downloaded_packages’
 
-real	5m55.352s
-user	5m24.232s
-sys	0m18.306s
+real	4m58.004s
+user	4m36.378s
+sys	0m16.192s
