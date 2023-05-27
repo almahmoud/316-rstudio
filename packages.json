@@ -2588,7 +2588,6 @@
         "SummarizedExperiment",
         "scuttle"
     ],
-    "CytoML": [],
     "dada2": [
         "GenomicAlignments",
         "GenomicRanges",
