@@ -2397,9 +2397,7 @@
     "MAST": [
         "SingleCellExperiment"
     ],
-    "MatrixQCvis": [
-        "proDA"
-    ],
+    "MatrixQCvis": [],
     "MatrixRider": [
         "BSgenome",
         "CNEr",
@@ -3298,7 +3296,6 @@
         "genefilter",
         "sva"
     ],
-    "proDA": [],
     "proFIA": [
         "ropls",
         "xcms"
