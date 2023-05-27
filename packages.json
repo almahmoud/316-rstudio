@@ -8,7 +8,6 @@
         "tilingArray"
     ],
     "ADImpute": [],
-    "AffiXcan": [],
     "affycoretools": [
         "BSgenome",
         "Category",
