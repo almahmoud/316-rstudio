@@ -5374,8 +5374,7 @@
         "biomaRt"
     ],
     "ReQON": [
-        "Rsamtools",
-        "seqbias"
+        "Rsamtools"
     ],
     "RESOLVE": [
         "BSgenome",
@@ -6049,7 +6048,6 @@
     "seq2pathway": [
         "biomaRt"
     ],
-    "seqbias": [],
     "seqCAT": [
         "BSgenome",
         "GenomicAlignments",
