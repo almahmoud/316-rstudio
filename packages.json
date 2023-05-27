@@ -3010,7 +3010,6 @@
     "omicsPrint": [
         "RaggedExperiment"
     ],
-    "openPrimeRui": [],
     "oppar": [
         "GSVA",
         "SingleCellExperiment"
