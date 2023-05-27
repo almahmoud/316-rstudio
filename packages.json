@@ -1820,7 +1820,6 @@
     "CATALYST": [
         "BiocSingular",
         "DelayedMatrixStats",
-        "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
         "ScaledMatrix",
@@ -2055,7 +2054,6 @@
         "enrichplot"
     ],
     "censcyt": [
-        "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -3535,7 +3533,6 @@
     ],
     "CyTOFpower": [
         "CytoGLMM",
-        "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -4037,7 +4034,6 @@
         "XVector"
     ],
     "diffcyt": [
-        "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -5338,7 +5334,6 @@
     ],
     "flowFP": [],
     "flowMerge": [],
-    "FlowSOM": [],
     "flowStats": [
         "flowWorkspace",
         "ncdfFlow"
@@ -7946,9 +7941,7 @@
         "mygene",
         "rtracklayer"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metagene": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -14932,7 +14925,6 @@
     ],
     "TreeAndLeaf": [],
     "treekoR": [
-        "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
