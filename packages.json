@@ -205,7 +205,6 @@
         "geneplotter"
     ],
     "ANCOMBC": [
-        "DECIPHER",
         "GenomicRanges",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -436,7 +435,6 @@
         "rtracklayer"
     ],
     "AssessORF": [
-        "DECIPHER",
         "GenomicRanges"
     ],
     "ASSIGN": [
@@ -737,7 +735,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "GenomicRanges",
         "KEGGREST",
@@ -2671,7 +2668,6 @@
         "pathview",
         "sva"
     ],
-    "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
         "GenomicRanges",
@@ -6032,7 +6028,6 @@
         "biomaRt"
     ],
     "mia": [
-        "DECIPHER",
         "GenomicRanges",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -6048,7 +6043,6 @@
         "TreeSummarizedExperiment"
     ],
     "miaViz": [
-        "DECIPHER",
         "GenomicRanges",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -6077,7 +6071,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "GenomicRanges",
         "KEGGREST",
@@ -7125,11 +7118,9 @@
         "SummarizedExperiment"
     ],
     "openPrimeR": [
-        "DECIPHER",
         "GenomicRanges"
     ],
     "openPrimeRui": [
-        "DECIPHER",
         "GenomicRanges",
         "openPrimeR"
     ],
@@ -8922,7 +8913,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "sangerseqR": [],
@@ -9105,7 +9095,6 @@
         "SummarizedExperiment"
     ],
     "scifer": [
-        "DECIPHER",
         "sangerseqR"
     ],
     "scmap": [
@@ -10255,9 +10244,7 @@
     "synapter": [
         "cleaver"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "SynMut": [],
     "syntenet": [
         "GenomicAlignments",
