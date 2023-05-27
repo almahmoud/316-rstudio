@@ -3472,7 +3472,6 @@
         "InteractionSet",
         "QDNAseq"
     ],
-    "multiMiR": [],
     "multiOmicsViz": [],
     "multiSight": [
         "DESeq2",
