@@ -8894,7 +8894,6 @@
         "enrichplot",
         "fgsea",
         "ggtree",
-        "pathwayPCA",
         "treeio",
         "zlibbioc"
     ],
@@ -17817,7 +17816,6 @@
         "graph",
         "zlibbioc"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
