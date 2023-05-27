@@ -5869,7 +5869,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "ctc": [],
     "CTDquerier": [
         "S4Vectors"
     ],
@@ -14866,7 +14865,6 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "ctc",
         "genefilter",
         "graph",
         "impute",
@@ -15874,9 +15872,7 @@
         "ropls",
         "zlibbioc"
     ],
-    "multiClust": [
-        "ctc"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "AnnotationDbi",
         "AnnotationFilter",
