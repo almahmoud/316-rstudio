@@ -1,0 +1,121 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''biomaRt'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'biomaRt'
+also installing the dependencies ‘triebeard’, ‘httpcode’, ‘urltools’, ‘fauxpas’, ‘crul’, ‘mockery’, ‘webmockr’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/triebeard_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 189422 bytes (184 KB)
+==================================================
+downloaded 184 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/httpcode_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 32104 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/urltools_1.7.3.tar.gz'
+Content type 'binary/octet-stream' length 294051 bytes (287 KB)
+==================================================
+downloaded 287 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/fauxpas_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 2756509 bytes (2.6 MB)
+==================================================
+downloaded 2.6 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/crul_1.3.tar.gz'
+Content type 'binary/octet-stream' length 632970 bytes (618 KB)
+==================================================
+downloaded 618 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/mockery_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 41581 bytes (40 KB)
+==================================================
+downloaded 40 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/webmockr_0.9.0.tar.gz'
+Content type 'binary/octet-stream' length 713383 bytes (696 KB)
+==================================================
+downloaded 696 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/biomaRt_2.54.1.tar.gz'
+Content type 'application/gzip' length 668401 bytes (652 KB)
+==================================================
+downloaded 652 KB
+
+* installing *binary* package ‘triebeard’ ...
+* ‘triebeard’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘triebeard’ as ‘triebeard_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (triebeard)
+* installing *binary* package ‘httpcode’ ...
+* ‘httpcode’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httpcode’ as ‘httpcode_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httpcode)
+* installing *binary* package ‘mockery’ ...
+* ‘mockery’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mockery’ as ‘mockery_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mockery)
+* installing *source* package ‘biomaRt’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.54.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *binary* package ‘urltools’ ...
+* ‘urltools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘urltools’ as ‘urltools_1.7.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (urltools)
+* installing *binary* package ‘fauxpas’ ...
+* ‘fauxpas’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fauxpas’ as ‘fauxpas_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fauxpas)
+* installing *binary* package ‘crul’ ...
+* ‘crul’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘crul’ as ‘crul_1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (crul)
+* installing *binary* package ‘webmockr’ ...
+* ‘webmockr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webmockr’ as ‘webmockr_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webmockr)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpb4vMhv/downloaded_packages’
+
+real	0m35.723s
+user	0m19.787s
+sys	0m1.929s
+* installing *binary* package ‘mockery’ ...
+* ‘mockery’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mockery’ as ‘mockery_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mockery)
+* installing *binary* package ‘webmockr’ ...
+* ‘webmockr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webmockr’ as ‘webmockr_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webmockr)
+* installing *binary* package ‘vcr’ ...
+* ‘vcr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vcr’ as ‘vcr_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vcr)
