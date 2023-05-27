@@ -2402,7 +2402,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "XVector",
         "annotate",
@@ -2701,7 +2700,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -4984,7 +4982,6 @@
     "DEGraph": [
         "KEGGgraph",
         "NCIgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "DEGreport": [
@@ -6798,9 +6795,7 @@
         "TrajectoryUtils",
         "XVector"
     ],
-    "fedup": [
-        "RCy3"
-    ],
+    "fedup": [],
     "FELLA": [
         "Biostrings",
         "GenomeInfoDb",
@@ -10488,7 +10483,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "XVector",
         "clusterProfiler",
         "enrichplot"
@@ -11565,9 +11559,7 @@
         "basilisk",
         "rhdf5"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
@@ -12444,7 +12436,6 @@
     ],
     "NCIgraph": [
         "KEGGgraph",
-        "RCy3",
         "Rgraphviz"
     ],
     "ncRNAtools": [
@@ -12599,7 +12590,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -14911,7 +14901,6 @@
         "Rcwl",
         "basilisk"
     ],
-    "RCy3": [],
     "RCyjs": [],
     "ReactomePA": [
         "AnnotationDbi",
@@ -15166,7 +15155,6 @@
         "Gviz",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "Rhtslib",
         "Rsamtools",
         "SummarizedExperiment",
@@ -19232,7 +19220,6 @@
         "KEGGREST",
         "Mfuzz",
         "MultiAssayExperiment",
-        "RCy3",
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
@@ -19511,7 +19498,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "RCy3",
         "XVector"
     ],
     "TransView": [
