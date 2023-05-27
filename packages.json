@@ -4245,7 +4245,6 @@
         "IRanges",
         "RaggedExperiment",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SummarizedExperiment",
         "XVector"
@@ -8645,7 +8644,6 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "XVector"
     ],
@@ -8821,7 +8819,6 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "XVector"
@@ -10000,7 +9997,6 @@
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
-        "SNPRelate",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -20424,7 +20420,6 @@
         "IRanges",
         "KEGGREST",
         "S4Vectors",
-        "SNPRelate",
         "XVector"
     ],
     "seqTools": [],
@@ -21214,7 +21209,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "SNPRelate": [],
     "snpStats": [],
     "soGGi": [
         "Biobase",
@@ -23725,7 +23719,6 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "SNPRelate",
         "SeqArray",
         "SeqVarTools",
         "SummarizedExperiment",
