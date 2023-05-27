@@ -515,7 +515,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
