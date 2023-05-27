@@ -22030,7 +22030,6 @@
         "zlibbioc"
     ],
     "SCFA": [],
-    "scFeatureFilter": [],
     "scGPS": [
         "AnnotationDbi",
         "Biobase",
