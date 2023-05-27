@@ -451,7 +451,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [],
     "anota2seq": [
         "AnnotationDbi",
         "Biostrings",
@@ -16413,7 +16412,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "anota",
         "geneplotter",
         "topGO"
     ],
