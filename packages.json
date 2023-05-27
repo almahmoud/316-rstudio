@@ -4916,7 +4916,6 @@
         "enrichplot",
         "geneplotter"
     ],
-    "EGAD": [],
     "EGSEA": [
         "AnnotationDbi",
         "BiocSingular",
