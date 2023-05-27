@@ -3544,8 +3544,7 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "annotate",
-        "viper"
+        "annotate"
     ],
     "COTAN": [
         "ComplexHeatmap"
@@ -4565,9 +4564,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [
         "BiocSingular",
         "DelayedArray",
@@ -4904,8 +4901,7 @@
         "XVector",
         "annotate",
         "geneplotter",
-        "quantiseqr",
-        "viper"
+        "quantiseqr"
     ],
     "EasyCellType": [
         "AnnotationDbi",
@@ -13729,8 +13725,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTNduals": [
         "DelayedArray",
@@ -13738,8 +13733,7 @@
         "GenomicRanges",
         "RTN",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTNsurvival": [
         "DelayedArray",
@@ -13748,8 +13742,7 @@
         "RTN",
         "RTNduals",
         "SummarizedExperiment",
-        "XVector",
-        "viper"
+        "XVector"
     ],
     "RTopper": [],
     "rtracklayer": [
@@ -17144,7 +17137,6 @@
         "annotate",
         "geneplotter"
     ],
-    "viper": [],
     "ViSEAGO": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -17252,8 +17244,7 @@
         "geneplotter",
         "regioneR",
         "rtracklayer",
-        "systemPipeR",
-        "viper"
+        "systemPipeR"
     ],
     "waddR": [
         "DelayedArray",
