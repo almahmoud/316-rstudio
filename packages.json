@@ -619,7 +619,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
     "CellBench": [
         "SingleCellExperiment"
     ],
