@@ -648,9 +648,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "Cepo": [
         "GSEABase",
         "SingleCellExperiment"
@@ -1144,8 +1142,7 @@
         "SingleCellExperiment"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
-        "diffcyt"
+        "CytoGLMM"
     ],
     "CytoGLMM": [],
     "cytomapper": [
@@ -1310,7 +1307,6 @@
         "rtracklayer",
         "systemPipeR"
     ],
-    "diffcyt": [],
     "DifferentialRegulation": [
         "SingleCellExperiment"
     ],
@@ -4655,8 +4651,7 @@
     ],
     "TreeAndLeaf": [],
     "treekoR": [
-        "SingleCellExperiment",
-        "diffcyt"
+        "SingleCellExperiment"
     ],
     "TreeSummarizedExperiment": [
         "SingleCellExperiment"
