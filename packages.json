@@ -4834,9 +4834,7 @@
         "scran",
         "scuttle"
     ],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowCL": [],
     "flowCut": [
         "flowDensity",
@@ -4845,7 +4843,6 @@
     "flowDensity": [
         "flowWorkspace"
     ],
-    "flowFP": [],
     "flowMerge": [],
     "flowStats": [
         "flowWorkspace"
@@ -4983,9 +4980,7 @@
         "rtracklayer",
         "sva"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "Biostrings",
         "GenomeInfoDb",
