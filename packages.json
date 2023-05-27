@@ -985,7 +985,6 @@
         "enrichplot",
         "sva"
     ],
-    "deco": [],
     "DEComplexDisease": [
         "DESeq2"
     ],
