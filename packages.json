@@ -2128,7 +2128,6 @@
         "geneplotter"
     ],
     "hummingbird": [],
-    "iasva": [],
     "icetea": [
         "BSgenome",
         "DESeq2",
