@@ -6450,7 +6450,6 @@
         "phyloseq",
         "rtracklayer"
     ],
-    "MetCirc": [],
     "MethCP": [
         "BSgenome",
         "Biostrings",
