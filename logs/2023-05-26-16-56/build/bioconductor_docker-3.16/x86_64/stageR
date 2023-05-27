@@ -346,8 +346,8 @@ packaged installation of ‘DEXSeq’ as ‘DEXSeq_1.44.0_R_x86_64-pc-linux-gnu.
 * DONE (DEXSeq)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp68hNzu/downloaded_packages’
+	‘/tmp/Rtmp6EjjrC/downloaded_packages’
 
-real	6m23.460s
-user	5m36.974s
-sys	0m21.885s
+real	4m12.860s
+user	3m42.818s
+sys	0m14.810s
