@@ -53,9 +53,7 @@
     "alpine": [
         "GenomicFeatures"
     ],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [
         "DESeq2"
     ],
@@ -98,9 +96,7 @@
     "ArrayExpress": [
         "oligo"
     ],
-    "ArrayExpressHTS": [
-        "ShortRead"
-    ],
+    "ArrayExpressHTS": [],
     "arrayMvout": [
         "GenomicFeatures",
         "bumphunter",
@@ -185,9 +181,7 @@
         "MLInterfaces",
         "pRoloc"
     ],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "Basic4Cseq": [
         "BSgenome"
     ],
@@ -221,8 +215,7 @@
     ],
     "BEARscc": [],
     "BEAT": [
-        "BSgenome",
-        "ShortRead"
+        "BSgenome"
     ],
     "benchdamic": [
         "ANCOMBC",
@@ -445,9 +438,7 @@
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [
         "Category"
@@ -536,7 +527,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "ShortRead",
         "chipseq",
         "systemPipeR"
     ],
@@ -544,15 +534,9 @@
         "GenomicFeatures",
         "enrichplot"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
-    "ChIPseqR": [
-        "ShortRead"
-    ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "chipseq": [],
+    "ChIPseqR": [],
+    "ChIPsim": [],
     "ChIPXpress": [
         "frma",
         "oligo"
@@ -588,8 +572,7 @@
     "CircSeqAlignTk": [
         "GenomicFeatures",
         "Rhisat2",
-        "SGSeq",
-        "ShortRead"
+        "SGSeq"
     ],
     "CiteFuse": [
         "scran",
@@ -709,7 +692,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "ensembldb"
     ],
     "consensusOV": [
@@ -737,7 +719,6 @@
         "regioneR"
     ],
     "CopywriteR": [
-        "ShortRead",
         "chipseq"
     ],
     "corral": [],
@@ -837,9 +818,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "BSgenome",
         "CNEr",
@@ -856,7 +835,6 @@
         "DESeq2",
         "EDASeq",
         "GenomicFeatures",
-        "ShortRead",
         "sva"
     ],
     "dasper": [
@@ -952,7 +930,6 @@
         "BSgenome",
         "DESeq2",
         "GreyListChIP",
-        "ShortRead",
         "systemPipeR"
     ],
     "DifferentialRegulation": [],
@@ -1041,15 +1018,12 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "easyRNASeq": [
-        "ShortRead"
-    ],
+    "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
     ],
     "EDASeq": [
-        "GenomicFeatures",
-        "ShortRead"
+        "GenomicFeatures"
     ],
     "edge": [
         "sva"
@@ -1180,7 +1154,6 @@
         "CNEr",
         "ChIPseeker",
         "GenomicFeatures",
-        "ShortRead",
         "TFBSTools",
         "clusterProfiler",
         "enrichplot",
@@ -1233,9 +1206,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fCCAC": [
         "BSgenome",
         "genomation"
@@ -1316,7 +1287,6 @@
         "EDASeq",
         "GenomicFeatures",
         "MLSeq",
-        "ShortRead",
         "sva"
     ],
     "gcapc": [
@@ -1405,9 +1375,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [],
     "Glimma": [
         "DESeq2"
@@ -1438,8 +1406,7 @@
         "Category"
     ],
     "GOTHiC": [
-        "BSgenome",
-        "ShortRead"
+        "BSgenome"
     ],
     "GRaNIE": [
         "DESeq2"
@@ -1532,7 +1499,6 @@
     "HTSeqGenie": [
         "BSgenome",
         "GenomicFeatures",
-        "ShortRead",
         "VariantAnnotation",
         "VariantTools",
         "chipseq",
@@ -1545,7 +1511,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "iCheck": [
@@ -1618,9 +1583,7 @@
         "DEXSeq",
         "GenomicFeatures"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "IPO": [
         "CAMERA",
         "xcms"
@@ -1835,7 +1798,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "ShortRead",
         "bsseq"
     ],
     "metavizr": [
@@ -2064,7 +2026,6 @@
         "BSgenome",
         "GenomicFeatures",
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
@@ -2204,9 +2165,7 @@
         "GenomicFeatures"
     ],
     "normr": [],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nullranges": [
         "plyranges"
     ],
@@ -2218,8 +2177,7 @@
         "EDASeq",
         "GSVA",
         "GenomicFeatures",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "ODER": [
         "BSgenome",
@@ -2270,9 +2228,7 @@
     "OrganismDbi": [
         "GenomicFeatures"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures"
@@ -2401,7 +2357,6 @@
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
-        "ShortRead",
         "chipseq",
         "enrichplot",
         "rGREAT",
@@ -2489,7 +2444,6 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "R3CPET": [
@@ -2505,7 +2459,6 @@
     "R453Plus1Toolbox": [
         "BSgenome",
         "GenomicFeatures",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "RadioGx": [],
@@ -2515,7 +2468,6 @@
         "VariantAnnotation"
     ],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
     "Rcade": [],
@@ -2656,7 +2608,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "motifStack"
     ],
@@ -2746,7 +2697,6 @@
     ],
     "RNASeqR": [
         "DESeq2",
-        "ShortRead",
         "ballgown",
         "clusterProfiler",
         "enrichplot",
@@ -2773,16 +2723,13 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
     ],
     "rqt": [],
     "rrvgo": [],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGAToolbox": [
         "GenomicFeatures",
         "TCGAutils"
@@ -2793,8 +2740,7 @@
     ],
     "RUVSeq": [
         "EDASeq",
-        "GenomicFeatures",
-        "ShortRead"
+        "GenomicFeatures"
     ],
     "sagenhaft": [],
     "SC3": [],
@@ -2856,8 +2802,7 @@
     "scone": [
         "EDASeq",
         "GenomicFeatures",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "SCOPE": [
         "BSgenome"
@@ -2883,7 +2828,6 @@
         "BSgenome",
         "GenomicFeatures",
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -2918,9 +2862,7 @@
         "GenomicFeatures",
         "enrichplot"
     ],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "BSgenome",
         "GenomicFeatures",
@@ -2953,7 +2895,6 @@
         "bumphunter",
         "minfi"
     ],
-    "ShortRead": [],
     "SigCheck": [
         "MLInterfaces"
     ],
@@ -3017,7 +2958,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "QuasR",
-        "ShortRead",
         "VariantAnnotation"
     ],
     "SISPA": [
@@ -3052,7 +2992,6 @@
         "VariantAnnotation"
     ],
     "soGGi": [
-        "ShortRead",
         "chipseq"
     ],
     "sojourner": [],
@@ -3178,7 +3117,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "SpatialExperiment",
         "scuttle"
     ],
@@ -3219,9 +3157,7 @@
     ],
     "switchde": [],
     "syntenet": [],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2"
     ],
@@ -3319,7 +3255,6 @@
     "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
-        "ShortRead",
         "chipseq"
     ],
     "transformGamPoi": [
@@ -3389,7 +3324,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "ShortRead",
         "regioneR"
     ],
     "uncoverappLib": [
@@ -3475,7 +3409,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "ShortRead",
         "ensembldb",
         "regioneR",
         "systemPipeR"
