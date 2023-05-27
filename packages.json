@@ -3064,7 +3064,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "AnnotationDbi",
         "Biostrings",
