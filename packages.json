@@ -1616,7 +1616,6 @@
         "sva"
     ],
     "DOSE": [],
-    "doseR": [],
     "dpeak": [
         "BSgenome",
         "GenomicAlignments",
