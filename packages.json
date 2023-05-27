@@ -1864,7 +1864,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "copynumber": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "AnnotationFilter",
