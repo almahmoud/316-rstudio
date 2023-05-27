@@ -2002,7 +2002,6 @@
         "rtracklayer"
     ],
     "MACSQuantifyR": [],
-    "MACSr": [],
     "MADSEQ": [
         "BSgenome",
         "GenomicFeatures",
