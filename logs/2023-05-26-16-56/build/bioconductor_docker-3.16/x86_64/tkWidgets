@@ -53,11 +53,11 @@ packaged installation of ‘tkWidgets’ as ‘tkWidgets_1.76.0_R_x86_64-pc-linu
 * DONE (tkWidgets)
 
 The downloaded source packages are in
-	‘/tmp/RtmpWSWYYz/downloaded_packages’
+	‘/tmp/RtmpUctk2I/downloaded_packages’
 
-real	0m18.585s
-user	0m12.157s
-sys	0m2.142s
+real	0m15.612s
+user	0m10.819s
+sys	0m1.863s
 * installing *source* package ‘hgu95av2’ ...
 ** using staged installation
 ** R
