@@ -6896,7 +6896,6 @@
         "flowWorkspace",
         "ncdfFlow"
     ],
-    "immunoClust": [],
     "INDEED": [],
     "infercnv": [
         "GenomeInfoDb",
