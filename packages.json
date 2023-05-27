@@ -187,7 +187,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [],
     "BaalChIP": [],
     "BadRegionFinder": [
@@ -2982,9 +2981,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "ReactomePA": [
         "DOSE",
