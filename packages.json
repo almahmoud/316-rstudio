@@ -5257,7 +5257,6 @@
     "MPRAnalyze": [
         "SummarizedExperiment"
     ],
-    "MSA2dist": [],
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
