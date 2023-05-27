@@ -3634,7 +3634,6 @@
         "rtracklayer",
         "zlibbioc"
     ],
-    "CGEN": [],
     "CGHbase": [
         "Biobase",
         "marray"
