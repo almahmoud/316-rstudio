@@ -1071,7 +1071,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "coexnet": [],
     "CoGAPS": [
         "SingleCellExperiment"
     ],
