@@ -4635,7 +4635,6 @@
         "ontoProc",
         "restfulSE"
     ],
-    "TEQC": [],
     "terraTCGAdata": [
         "GenomicFeatures",
         "RaggedExperiment",
