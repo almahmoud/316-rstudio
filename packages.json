@@ -2825,8 +2825,7 @@
         "rtracklayer"
     ],
     "cyanoFilter": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
     "cydar": [
         "GenomicRanges",
@@ -2853,7 +2852,6 @@
         "scuttle"
     ],
     "CytoML": [
-        "flowWorkspace",
         "ggcyto",
         "openCyto"
     ],
@@ -2940,8 +2938,7 @@
         "graphite"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
     "debCAM": [
         "GenomicRanges",
@@ -4294,20 +4291,13 @@
     ],
     "flowCL": [],
     "flowCut": [
-        "flowDensity",
-        "flowWorkspace"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "flowWorkspace"
-    ],
-    "flowStats": [
-        "flowWorkspace"
-    ],
+    "flowDensity": [],
+    "flowStats": [],
     "flowVS": [
-        "flowStats",
-        "flowWorkspace"
+        "flowStats"
     ],
-    "flowWorkspace": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biostrings",
@@ -4786,9 +4776,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggcyto": [
-        "flowWorkspace"
-    ],
+    "ggcyto": [],
     "ggmanh": [
         "Biostrings",
         "GenomicRanges",
@@ -5535,9 +5523,7 @@
     "IMMAN": [
         "Biostrings"
     ],
-    "ImmuneSpaceR": [
-        "flowWorkspace"
-    ],
+    "ImmuneSpaceR": [],
     "INDEED": [],
     "infercnv": [
         "GenomicRanges",
@@ -7901,9 +7887,7 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "openCyto": [
-        "flowWorkspace"
-    ],
+    "openCyto": [],
     "openPrimeR": [
         "Biostrings",
         "DECIPHER",
@@ -8150,9 +8134,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "PeacoQC": [
-        "flowWorkspace"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase"
     ],
