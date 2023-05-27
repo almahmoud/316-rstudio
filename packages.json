@@ -350,9 +350,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
@@ -3597,7 +3595,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
         "OmaDB"
