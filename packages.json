@@ -20089,7 +20089,6 @@
         "rhdf5",
         "rhdf5filters"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationDbi",
         "AnnotationForge",
