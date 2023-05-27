@@ -1872,7 +1872,6 @@
         "rtracklayer"
     ],
     "GenomicScores": [],
-    "GenomicSuperSignature": [],
     "genotypeeval": [
         "BSgenome",
         "GenomicFeatures",
