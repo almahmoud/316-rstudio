@@ -3313,9 +3313,7 @@
         "XVector",
         "zlibbioc"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biobase",
@@ -23284,7 +23282,6 @@
         "zlibbioc"
     ],
     "similaRpeak": [],
-    "SIMLR": [],
     "simpleSeg": [
         "Biobase",
         "DelayedArray",
@@ -23358,7 +23355,6 @@
         "GenomicRanges",
         "IRanges",
         "S4Vectors",
-        "SIMLR",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
