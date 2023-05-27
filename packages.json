@@ -11269,9 +11269,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "plethy": [
-        "Streamer"
-    ],
+    "plethy": [],
     "plier": [],
     "PloGO2": [
         "AnnotationDbi",
@@ -15241,7 +15239,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "Streamer": [],
     "struct": [
         "DelayedArray",
         "GenomeInfoDb",
