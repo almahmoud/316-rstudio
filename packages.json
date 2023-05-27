@@ -6333,7 +6333,6 @@
         "genefilter",
         "sva"
     ],
-    "procoil": [],
     "proDA": [
         "SummarizedExperiment"
     ],
