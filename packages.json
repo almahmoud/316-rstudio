@@ -4225,7 +4225,6 @@
         "XVector",
         "exomeCopy"
     ],
-    "CNAnorm": [],
     "CNEr": [
         "AnnotationDbi",
         "Biobase",
