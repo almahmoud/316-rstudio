@@ -547,7 +547,6 @@
         "rtracklayer"
     ],
     "CAMERA": [
-        "MsFeatures",
         "xcms"
     ],
     "canceR": [
@@ -841,7 +840,6 @@
         "rtracklayer"
     ],
     "cliqueMS": [
-        "MsFeatures",
         "xcms"
     ],
     "clusterExperiment": [
@@ -1032,7 +1030,6 @@
         "geneplotter"
     ],
     "cosmiq": [
-        "MsFeatures",
         "xcms"
     ],
     "cosmosR": [
@@ -1737,7 +1734,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "FLAMES": [
@@ -2245,7 +2241,6 @@
     "ipdDb": [],
     "IPO": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "IRISFGM": [
@@ -2348,7 +2343,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "LoomExperiment": [
@@ -2406,7 +2400,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "maser": [
@@ -2491,7 +2484,6 @@
         "genefilter"
     ],
     "Metab": [
-        "MsFeatures",
         "xcms"
     ],
     "MetaboAnnotation": [
@@ -2516,7 +2508,6 @@
     ],
     "metaMS": [
         "CAMERA",
-        "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -2789,7 +2780,6 @@
     ],
     "moanin": [],
     "MobilityTransformR": [
-        "MsFeatures",
         "xcms"
     ],
     "mogsa": [
@@ -2848,7 +2838,6 @@
     "MsExperiment": [
         "QFeatures"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -2982,7 +2971,6 @@
     ],
     "NBSplice": [],
     "ncGTW": [
-        "MsFeatures",
         "xcms"
     ],
     "nearBynding": [
@@ -3335,7 +3323,6 @@
     ],
     "proDA": [],
     "proFIA": [
-        "MsFeatures",
         "ropls",
         "xcms"
     ],
@@ -3710,7 +3697,6 @@
         "rtracklayer"
     ],
     "Risa": [
-        "MsFeatures",
         "xcms"
     ],
     "RITAN": [
@@ -4899,9 +4885,7 @@
     "wiggleplotr": [
         "rtracklayer"
     ],
-    "xcms": [
-        "MsFeatures"
-    ],
+    "xcms": [],
     "xcore": [],
     "XDE": [
         "GeneMeta",
