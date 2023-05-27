@@ -63,7 +63,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "multtest",
@@ -132,9 +131,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "affy": [
-        "affyio"
-    ],
+    "affy": [],
     "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
@@ -143,8 +140,7 @@
         "XVector"
     ],
     "affyContam": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "affycoretools": [
         "AnnotationDbi",
@@ -175,7 +171,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -193,10 +188,8 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
-    "affyio": [],
     "affylmGUI": [
         "AnnotationDbi",
         "Biostrings",
@@ -206,7 +199,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "gcrma"
     ],
     "affyPLM": [
@@ -215,12 +207,10 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "AffyRNADegradation": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "AGDEX": [
         "AnnotationDbi",
@@ -271,7 +261,6 @@
         "XVector",
         "affy",
         "affycoretools",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -362,7 +351,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "hypergraph",
         "makecdfenv"
     ],
@@ -675,7 +663,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -715,7 +702,6 @@
         "XVector",
         "affy",
         "affyContam",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -739,7 +725,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "annotate",
         "beadarray",
         "gcrma",
@@ -1118,7 +1103,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -1440,7 +1424,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "BicARE": [
@@ -1485,7 +1468,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -1947,7 +1929,6 @@
         "Rgraphviz",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "epiNEM",
         "genefilter",
@@ -2262,7 +2243,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "biovizBase",
@@ -2357,7 +2337,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -2654,7 +2633,6 @@
         "RBGL",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -2869,7 +2847,6 @@
         "VariantAnnotation",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "beachmat",
         "biomaRt",
@@ -3129,7 +3106,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "frma",
         "oligo",
         "oligoClasses"
@@ -3441,7 +3417,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -3454,7 +3429,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -3529,7 +3503,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -3768,7 +3741,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "multtest",
         "siggenes",
         "vsn"
@@ -4207,8 +4179,7 @@
         "piano"
     ],
     "Cormotif": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "corral": [
         "DelayedArray",
@@ -4246,7 +4217,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -4542,7 +4512,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligoClasses"
     ],
     "crossmeta": [
@@ -4557,7 +4526,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "oligo",
@@ -4867,7 +4835,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -5209,7 +5176,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -5744,7 +5710,6 @@
     ],
     "Doscheda": [
         "affy",
-        "affyio",
         "vsn"
     ],
     "DOSE": [
@@ -5834,7 +5799,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "oligo",
@@ -6685,8 +6649,7 @@
         "rtracklayer"
     ],
     "ExiMiR": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "exomeCopy": [
         "Biostrings",
@@ -6844,8 +6807,7 @@
         "enrichplot"
     ],
     "farms": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "fastLiquidAssociation": [
         "AnnotationDbi",
@@ -6979,7 +6941,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -7047,7 +7008,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -7279,13 +7239,11 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
     "frmaTools": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "FunChIP": [
         "Biostrings",
@@ -7458,8 +7416,7 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "affy",
-        "affyio"
+        "affy"
     ],
     "GCSscore": [],
     "GDCRNATools": [
@@ -7964,8 +7921,7 @@
     ],
     "GEOquery": [],
     "GEOsubmission": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -7989,7 +7945,6 @@
         "RBGL",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "cellHTS2",
@@ -8687,7 +8642,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "altcdfenvs",
         "hypergraph",
         "makecdfenv"
@@ -8934,8 +8888,7 @@
     "hmdbQuery": [],
     "hopach": [],
     "HTqPCR": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "HTSeqGenie": [
         "AnnotationDbi",
@@ -9051,7 +9004,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -9194,7 +9146,6 @@
         "RBGL",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -9467,7 +9418,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9620,7 +9570,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -9903,7 +9852,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -9917,8 +9865,7 @@
         "XVector"
     ],
     "logitT": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "LOLA": [
         "GenomeInfoDb",
@@ -10005,7 +9952,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -10132,7 +10078,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -10189,7 +10134,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10197,8 +10141,7 @@
         "xcms"
     ],
     "makecdfenv": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -10217,7 +10160,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "marr": [
@@ -10262,7 +10204,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "gcrma"
     ],
     "massiR": [],
@@ -10284,7 +10225,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "pcaMethods",
         "proDA",
         "vsn"
@@ -10361,7 +10301,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligoClasses"
     ],
     "MBQN": [
@@ -10475,7 +10414,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -10603,7 +10541,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10722,7 +10659,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -10778,7 +10714,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "baySeq",
         "beachmat",
@@ -11413,7 +11348,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "gcrma",
         "oligo",
         "oligoClasses"
@@ -11444,7 +11378,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -11498,7 +11431,6 @@
         "SummarizedExperiment",
         "VanillaICE",
         "XVector",
-        "affyio",
         "crlmm",
         "oligoClasses",
         "rtracklayer"
@@ -11810,7 +11742,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12175,7 +12106,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12186,7 +12116,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "msmsEDA",
         "mzID",
         "mzR",
@@ -12197,7 +12126,6 @@
         "IRanges",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12214,7 +12142,6 @@
         "MsCoreUtils",
         "XVector",
         "affy",
-        "affyio",
         "msmsEDA",
         "msmsTests",
         "mzID",
@@ -12275,7 +12202,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12288,7 +12214,6 @@
         "MSstatsQC",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12738,7 +12663,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -12972,8 +12896,7 @@
     "NOISeq": [],
     "nondetects": [
         "HTqPCR",
-        "affy",
-        "affyio"
+        "affy"
     ],
     "NoRCE": [
         "AnnotationDbi",
@@ -13002,7 +12925,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "vsn"
     ],
     "NormqPCR": [
@@ -13197,7 +13119,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligoClasses"
     ],
     "oligoClasses": [
@@ -13207,8 +13128,7 @@
         "GenomicRanges",
         "IRanges",
         "SummarizedExperiment",
-        "XVector",
-        "affyio"
+        "XVector"
     ],
     "OLIN": [],
     "OLINgui": [
@@ -13657,8 +13577,7 @@
         "multtest"
     ],
     "panp": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "pareg": [
         "AnnotationDbi",
@@ -13782,7 +13701,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -13802,7 +13720,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -13817,7 +13734,6 @@
         "ROTS",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter"
     ],
@@ -14105,8 +14021,7 @@
     ],
     "plgem": [],
     "plier": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "PloGO2": [
         "AnnotationDbi",
@@ -14276,7 +14191,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -14299,7 +14213,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rCGH",
@@ -14352,7 +14265,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -14405,7 +14317,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "pvca",
@@ -14440,7 +14351,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -14502,7 +14412,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -14525,7 +14434,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "genefilter",
@@ -14563,7 +14471,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -14629,7 +14536,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -14690,7 +14596,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -14706,7 +14611,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "oligo",
         "oligoClasses"
     ],
@@ -14732,12 +14636,10 @@
         "rtracklayer"
     ],
     "pvac": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "pvca": [
         "affy",
-        "affyio",
         "vsn"
     ],
     "Pviz": [
@@ -14829,8 +14731,7 @@
         "XVector"
     ],
     "qpcrNorm": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "qpgraph": [
         "AnnotationDbi",
@@ -14860,7 +14761,6 @@
         "MsCoreUtils",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -15232,7 +15132,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "biomaRt",
         "multtest",
         "rtracklayer"
@@ -15435,7 +15334,6 @@
         "XVector",
         "affy",
         "affyPLM",
-        "affyio",
         "gcrma"
     ],
     "RegEnrich": [
@@ -15596,7 +15494,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "rtracklayer",
@@ -15970,7 +15867,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -16013,7 +15909,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "biocViews",
         "mzID",
         "mzR",
@@ -16090,7 +15985,6 @@
         "MSnbase",
         "MsCoreUtils",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -16187,7 +16081,6 @@
         "RBGL",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -16450,7 +16343,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "affyio",
         "biomformat",
         "multtest",
         "phyloseq",
@@ -16790,7 +16682,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "oligo",
@@ -17922,7 +17813,6 @@
         "Ringo",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -18184,7 +18074,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -18252,7 +18141,6 @@
         "XVector",
         "aCGH",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "multtest",
@@ -18823,8 +18711,7 @@
         "rtracklayer"
     ],
     "sscore": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "sscu": [
         "Biostrings",
@@ -18933,7 +18820,6 @@
         "RBGL",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "cellHTS2",
         "genefilter",
@@ -18951,8 +18837,7 @@
         "miRNAtap"
     ],
     "STATegRa": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "Statial": [
         "DelayedArray",
@@ -19179,7 +19064,6 @@
         "MsCoreUtils",
         "XVector",
         "affy",
-        "affyio",
         "cleaver",
         "multtest",
         "mzID",
@@ -19630,7 +19514,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "genefilter",
         "vsn"
@@ -19771,7 +19654,6 @@
         "MsCoreUtils",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
@@ -20164,7 +20046,6 @@
     ],
     "TurboNorm": [
         "affy",
-        "affyio",
         "convert"
     ],
     "TVTB": [
@@ -20322,8 +20203,7 @@
     "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR",
-        "affy",
-        "affyio"
+        "affy"
     ],
     "UniProt.ws": [
         "AnnotationDbi",
@@ -20394,7 +20274,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "affyio",
         "crlmm",
         "oligoClasses",
         "rtracklayer"
@@ -20654,8 +20533,7 @@
         "XVector"
     ],
     "vsn": [
-        "affy",
-        "affyio"
+        "affy"
     ],
     "vtpnet": [
         "AnnotationDbi",
@@ -20744,7 +20622,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -20783,7 +20660,6 @@
         "KEGGREST",
         "XVector",
         "affy",
-        "affyio",
         "annaffy",
         "gcrma",
         "multtest",
@@ -20832,7 +20708,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "affyio",
         "mzID",
         "mzR",
         "pcaMethods",
