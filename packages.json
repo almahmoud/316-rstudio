@@ -2741,7 +2741,6 @@
     ],
     "proteasy": [
         "GenomicFeatures",
-        "Rcpi",
         "ensembldb",
         "rtracklayer"
     ],
@@ -2866,7 +2865,6 @@
         "rtracklayer"
     ],
     "RcisTarget": [],
-    "Rcpi": [],
     "ReactomePA": [
         "enrichplot"
     ],
