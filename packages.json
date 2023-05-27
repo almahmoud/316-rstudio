@@ -32,14 +32,12 @@
         "Rsamtools",
         "XVector"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "aCGH",
         "annotate",
         "genefilter",
         "snapCGH",
@@ -3569,9 +3567,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CRImage": [
-        "aCGH"
-    ],
+    "CRImage": [],
     "crisprBase": [
         "Biostrings",
         "GenomeInfoDb",
@@ -11764,7 +11760,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "aCGH",
         "biomaRt",
         "rCGH",
         "rtracklayer"
@@ -12504,7 +12499,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "aCGH",
         "biomaRt",
         "rtracklayer"
     ],
@@ -15035,7 +15029,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "XVector",
-        "aCGH",
         "annotate",
         "genefilter",
         "tilingArray",
