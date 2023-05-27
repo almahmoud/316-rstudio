@@ -69,8 +69,8 @@ packaged installation of ‘dir.expiry’ as ‘dir.expiry_1.6.0_R_x86_64-pc-lin
 * DONE (dir.expiry)
 
 The downloaded source packages are in
-	‘/tmp/Rtmpmf364J/downloaded_packages’
+	‘/tmp/Rtmp7KH0lI/downloaded_packages’
 
-real	0m16.863s
-user	0m10.226s
-sys	0m1.649s
+real	0m12.412s
+user	0m8.262s
+sys	0m1.384s
