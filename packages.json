@@ -2463,7 +2463,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "netDx": [],
     "netSmooth": [
         "clusterExperiment",
         "mbkmeans",
