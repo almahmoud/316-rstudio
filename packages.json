@@ -2611,7 +2611,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "MGFM": [],
     "MGFR": [],
     "mia": [
         "SingleCellExperiment",
@@ -3841,7 +3840,6 @@
     ],
     "sagenhaft": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "SBGNview": [],
