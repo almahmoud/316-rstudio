@@ -3444,7 +3444,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "singscore": [],
     "SISPA": [
         "GSVA"
     ],
@@ -3684,7 +3683,6 @@
         "ASSIGN",
         "DESeq2",
         "GSVA",
-        "singscore",
         "sva"
     ],
     "TCC": [
