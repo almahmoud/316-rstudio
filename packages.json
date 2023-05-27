@@ -759,10 +759,7 @@
         "multtest",
         "zlibbioc"
     ],
-    "AnVIL": [],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
     "APAlyzer": [
         "AnnotationDbi",
         "BSgenome",
@@ -3202,7 +3199,6 @@
     ],
     "CausalR": [],
     "cbaf": [
-        "AnVIL",
         "AnnotationDbi",
         "Biobase",
         "BiocIO",
@@ -3250,7 +3246,6 @@
         "zlibbioc"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "AnnotationDbi",
         "Biobase",
         "BiocIO",
@@ -12808,7 +12803,6 @@
         "zlibbioc"
     ],
     "LowMACA": [
-        "AnVIL",
         "AnnotationDbi",
         "BSgenome",
         "Biobase",
@@ -25126,7 +25120,6 @@
     ],
     "ternarynet": [],
     "terraTCGAdata": [
-        "AnVIL",
         "AnnotationDbi",
         "Biobase",
         "BiocIO",
