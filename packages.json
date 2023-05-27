@@ -1352,7 +1352,6 @@
     "EGSEA": [
         "GSVA"
     ],
-    "eisaR": [],
     "ELMER": [
         "BSgenome",
         "GenomicFeatures",
