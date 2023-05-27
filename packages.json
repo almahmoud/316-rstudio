@@ -21429,7 +21429,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "tomoseqr": [],
     "topdownr": [
         "Biobase",
         "Biostrings",
