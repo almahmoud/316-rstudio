@@ -4200,7 +4200,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
@@ -5776,7 +5775,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
@@ -12652,7 +12650,6 @@
         "Rsamtools",
         "SummarizedExperiment"
     ],
-    "SPIA": [],
     "SPIAT": [
         "DelayedMatrixStats",
         "DropletUtils",
@@ -14339,7 +14336,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "graphite",
