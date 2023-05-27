@@ -6303,7 +6303,6 @@
         "annotate",
         "geneplotter"
     ],
-    "DEsingle": [],
     "destiny": [
         "Biobase",
         "DelayedArray",
@@ -11320,7 +11319,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DEsingle",
         "DOSE",
         "DelayedArray",
         "DelayedMatrixStats",
