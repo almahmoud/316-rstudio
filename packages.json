@@ -1274,7 +1274,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "cTRAP": [],
     "CTSV": [
         "DropletUtils",
         "SingleCellExperiment",
