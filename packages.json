@@ -2961,7 +2961,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "restfulSE": [],
     "rGADEM": [
         "BSgenome",
         "rtracklayer"
@@ -3704,9 +3703,7 @@
         "DESeq2"
     ],
     "TENxIO": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "GenomicFeatures",
         "TCGAutils",
