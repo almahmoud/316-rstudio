@@ -2830,7 +2830,6 @@
         "scuttle"
     ],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "dada2": [
@@ -4747,7 +4746,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "ggcyto": [],
     "ggmanh": [
         "Biostrings",
         "GenomicRanges",
