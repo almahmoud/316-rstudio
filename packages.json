@@ -3747,7 +3747,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "DelayedArray",
