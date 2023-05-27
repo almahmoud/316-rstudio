@@ -741,7 +741,6 @@
     "batchelor": [
         "BiocSingular",
         "GenomicRanges",
-        "ResidualMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "scuttle"
@@ -1911,7 +1910,6 @@
         "Biostrings",
         "GenomicAlignments",
         "GenomicRanges",
-        "ResidualMatrix",
         "Rsamtools",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -7377,7 +7375,6 @@
     "mumosa": [
         "BiocSingular",
         "GenomicRanges",
-        "ResidualMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "batchelor",
@@ -9253,7 +9250,6 @@
         "Rsamtools",
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "BSgenome",
         "Biostrings",
@@ -10696,7 +10692,6 @@
         "GenomicRanges",
         "KEGGREST",
         "MAST",
-        "ResidualMatrix",
         "Rsamtools",
         "SingleCellExperiment",
         "SingleR",
