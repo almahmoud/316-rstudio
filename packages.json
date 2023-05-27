@@ -8321,7 +8321,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "target": [],
     "TarSeqQC": [
         "GenomicAlignments",
         "Rsamtools",
