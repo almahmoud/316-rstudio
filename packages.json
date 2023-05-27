@@ -5351,7 +5351,6 @@
     "flowFP": [
         "flowViz"
     ],
-    "flowMatch": [],
     "flowMerge": [
         "flowClust"
     ],
