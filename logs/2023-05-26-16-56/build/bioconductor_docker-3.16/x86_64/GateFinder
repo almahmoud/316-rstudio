@@ -1,0 +1,87 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''GateFinder'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'GateFinder'
+also installing the dependencies ‘sp’, ‘sgeostat’, ‘splancs’, ‘mvoutlier’, ‘diptest’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/sp_1.6-0.tar.gz'
+Content type 'binary/octet-stream' length 1809441 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/sgeostat_1.0-27.tar.gz'
+Content type 'binary/octet-stream' length 142975 bytes (139 KB)
+==================================================
+downloaded 139 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/splancs_2.01-43.tar.gz'
+Content type 'binary/octet-stream' length 345156 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/mvoutlier_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 805808 bytes (786 KB)
+==================================================
+downloaded 786 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/diptest_0.76-0.tar.gz'
+Content type 'binary/octet-stream' length 189654 bytes (185 KB)
+==================================================
+downloaded 185 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GateFinder_1.18.0.tar.gz'
+Content type 'application/gzip' length 488150 bytes (476 KB)
+==================================================
+downloaded 476 KB
+
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.6-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *binary* package ‘sgeostat’ ...
+* ‘sgeostat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sgeostat’ as ‘sgeostat_1.0-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sgeostat)
+* installing *binary* package ‘diptest’ ...
+* ‘diptest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘diptest’ as ‘diptest_0.76-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diptest)
+* installing *binary* package ‘splancs’ ...
+* ‘splancs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘splancs’ as ‘splancs_2.01-43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (splancs)
+* installing *binary* package ‘mvoutlier’ ...
+* ‘mvoutlier’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvoutlier’ as ‘mvoutlier_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvoutlier)
+* installing *source* package ‘GateFinder’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GateFinder’ as ‘GateFinder_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GateFinder)
+
+The downloaded source packages are in
+	‘/tmp/RtmpNVnvQR/downloaded_packages’
+
+real	0m35.303s
+user	0m20.621s
+sys	0m1.807s
