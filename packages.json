@@ -131,7 +131,6 @@
         "XVector"
     ],
     "affy": [],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "GenomeInfoDb",
