@@ -2537,7 +2537,6 @@
         "GSEABase",
         "genefilter"
     ],
-    "InterCellar": [],
     "IntEREst": [
         "DESeq2",
         "DEXSeq",
