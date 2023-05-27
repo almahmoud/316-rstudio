@@ -13872,7 +13872,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "qusage": [],
     "R3CPET": [
         "AnnotationDbi",
         "AnnotationFilter",
