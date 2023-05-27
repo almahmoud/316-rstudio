@@ -999,7 +999,6 @@
         "KEGGREST",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector",
         "affy",
@@ -2115,7 +2114,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -3079,7 +3077,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -3090,7 +3087,6 @@
     "CluMSID": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -3541,7 +3537,6 @@
         "GenomicRanges",
         "IRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "Spectra",
         "XVector"
     ],
@@ -3805,7 +3800,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -4365,7 +4359,6 @@
     "DAPAR": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -4669,7 +4662,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector",
         "affy",
@@ -6334,7 +6326,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -8506,7 +8497,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -8914,7 +8904,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -9168,7 +9157,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -9544,7 +9532,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -9560,16 +9547,13 @@
         "GenomicRanges",
         "IRanges",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
         "SummarizedExperiment",
         "XVector"
     ],
-    "MetaboCoreUtils": [
-        "MsCoreUtils"
-    ],
+    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -9645,7 +9629,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -9740,7 +9723,6 @@
     "MetaVolcanoR": [],
     "MetCirc": [
         "IRanges",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MethCP": [
@@ -10623,7 +10605,6 @@
         "IRanges",
         "MSnbase",
         "MetaboCoreUtils",
-        "MsCoreUtils",
         "MsFeatures",
         "Spectra",
         "SummarizedExperiment",
@@ -10870,32 +10851,26 @@
     ],
     "MsBackendMassbank": [
         "IRanges",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMgf": [
         "IRanges",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendMsp": [
         "IRanges",
-        "MsCoreUtils",
         "Spectra"
     ],
     "MsBackendRawFileReader": [
         "IRanges",
-        "MsCoreUtils",
         "Spectra"
     ],
-    "MsCoreUtils": [],
     "MsExperiment": [
         "AnnotationFilter",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "Spectra",
@@ -10907,7 +10882,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector"
     ],
@@ -10964,21 +10938,18 @@
     "msmsEDA": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
     "msmsTests": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "msmsEDA",
         "vsn"
     ],
     "MSnbase": [
         "IRanges",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -10990,7 +10961,6 @@
         "IRanges",
         "KEGGREST",
         "MSnbase",
-        "MsCoreUtils",
         "XVector",
         "affy",
         "msmsEDA",
@@ -11018,7 +10988,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "SummarizedExperiment",
@@ -11042,7 +11011,6 @@
     "MSstatsQC": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -11050,7 +11018,6 @@
         "IRanges",
         "MSnbase",
         "MSstatsQC",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -11452,7 +11419,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -12412,7 +12378,6 @@
     "peakPantheR": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -12901,7 +12866,6 @@
     "PrInCE": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -12975,7 +12939,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -13033,7 +12996,6 @@
         "KEGGREST",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector",
         "affy",
@@ -13052,7 +13014,6 @@
         "KEGGREST",
         "MLInterfaces",
         "MSnbase",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector",
         "affy",
@@ -13087,7 +13048,6 @@
         "DAPAR",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -13181,7 +13141,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "SummarizedExperiment",
@@ -13201,7 +13160,6 @@
     "ptairMS": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "rhdf5",
         "vsn"
@@ -13311,7 +13269,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector"
@@ -13321,7 +13278,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "SummarizedExperiment",
         "XVector"
     ],
@@ -13350,7 +13306,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "XVector",
         "affy",
         "vsn"
@@ -14368,7 +14323,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
@@ -14436,7 +14390,6 @@
     "RMassBank": [
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "affy",
         "vsn"
     ],
@@ -15458,7 +15411,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MsCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "SingleCellExperiment",
@@ -16683,8 +16635,7 @@
         "rtracklayer"
     ],
     "Spectra": [
-        "IRanges",
-        "MsCoreUtils"
+        "IRanges"
     ],
     "SpectralTAD": [
         "Biostrings",
@@ -17273,7 +17224,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "XVector",
         "affy",
         "cleaver",
@@ -17818,7 +17768,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "XVector",
         "affy",
         "vsn"
@@ -18782,7 +18731,6 @@
         "GenomicRanges",
         "IRanges",
         "MSnbase",
-        "MsCoreUtils",
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
