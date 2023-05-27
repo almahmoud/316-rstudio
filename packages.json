@@ -371,7 +371,6 @@
     "BioCor": [
         "GSEABase"
     ],
-    "BiocSklearn": [],
     "BioMM": [],
     "biomvRCNS": [
         "BSgenome",
