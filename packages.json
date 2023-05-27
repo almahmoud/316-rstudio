@@ -2089,7 +2089,6 @@
         "enrichplot",
         "geneplotter"
     ],
-    "gemma.R": [],
     "genbankr": [
         "BSgenome",
         "GenomicAlignments",
