@@ -5699,7 +5699,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "microRNA": [],
     "midasHLA": [
         "GenomicRanges",
         "MultiAssayExperiment",
