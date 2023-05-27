@@ -21438,7 +21438,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "sigPathway": [],
     "SigsPack": [
         "AnnotationDbi",
         "BSgenome",
@@ -23910,7 +23909,6 @@
         "geneplotter",
         "graph",
         "multtest",
-        "sigPathway",
         "topGO"
     ],
     "transomics2cytoscape": [
