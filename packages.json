@@ -1297,7 +1297,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "annotate",
-        "epiNEM",
         "genefilter",
         "sva"
     ],
@@ -3278,7 +3277,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "epiNEM",
         "graphite"
     ],
     "ddPCRclust": [
@@ -4287,7 +4285,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "epiNEM": [],
     "epistack": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -8475,9 +8472,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [
         "AnnotationDbi",
         "Biostrings",
