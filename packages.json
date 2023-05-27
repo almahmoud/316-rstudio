@@ -2317,7 +2317,6 @@
         "Biobase",
         "Biostrings",
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -2878,7 +2877,6 @@
     ],
     "Cardinal": [
         "Biobase",
-        "EBImage",
         "S4Vectors",
         "matter"
     ],
@@ -4756,7 +4754,6 @@
     ],
     "CONFESS": [
         "Biobase",
-        "EBImage",
         "Rgraphviz",
         "S4Vectors",
         "cytolib",
@@ -5148,7 +5145,6 @@
     ],
     "CRImage": [
         "Biobase",
-        "EBImage",
         "aCGH",
         "multtest"
     ],
@@ -5642,7 +5638,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -7037,7 +7032,6 @@
         "Biobase",
         "EBarrays"
     ],
-    "EBImage": [],
     "EBSEA": [
         "AnnotationDbi",
         "Biobase",
@@ -8334,9 +8328,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "Biobase",
         "DelayedArray",
@@ -8441,12 +8433,9 @@
         "flowFP",
         "flowViz"
     ],
-    "flowcatchR": [
-        "EBImage"
-    ],
+    "flowcatchR": [],
     "flowCHIC": [
         "Biobase",
-        "EBImage",
         "S4Vectors",
         "cytolib",
         "flowCore"
@@ -10382,7 +10371,6 @@
     ],
     "heatmaps": [
         "Biostrings",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -10965,7 +10953,6 @@
         "Biobase",
         "Biostrings",
         "Category",
-        "EBImage",
         "GSEABase",
         "GenomeInfoDb",
         "IRanges",
@@ -11008,7 +10995,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -21488,7 +21474,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -21904,9 +21889,7 @@
         "chipseq",
         "rtracklayer"
     ],
-    "sojourner": [
-        "EBImage"
-    ],
+    "sojourner": [],
     "SomaticSignatures": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -22956,9 +22939,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synapter": [
         "Biobase",
         "Biostrings",
@@ -25013,7 +24994,6 @@
     "yamss": [
         "Biobase",
         "DelayedArray",
-        "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
