@@ -251,7 +251,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
