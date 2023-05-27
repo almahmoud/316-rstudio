@@ -9134,7 +9134,6 @@
         "flowCore",
         "flowViz"
     ],
-    "flowGraph": [],
     "flowMatch": [
         "Biobase",
         "RProtoBufLib",
