@@ -1,0 +1,167 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''DMCFB'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'DMCFB'
+Warning: dependency ‘speedglm’ is not available
+also installing the dependencies ‘minqa’, ‘nloptr’, ‘RcppEigen’, ‘iterators’, ‘lme4’, ‘abind’, ‘coda’, ‘benchmarkmeData’, ‘doParallel’, ‘foreach’, ‘data.table’, ‘arm’, ‘benchmarkme’, ‘fastDummies’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/minqa_1.2.5.tar.gz'
+Content type 'binary/octet-stream' length 118770 bytes (115 KB)
+==================================================
+downloaded 115 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/nloptr_2.0.3.tar.gz'
+Content type 'binary/octet-stream' length 706888 bytes (690 KB)
+==================================================
+downloaded 690 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/RcppEigen_0.3.3.9.3.tar.gz'
+Content type 'binary/octet-stream' length 1547173 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345456 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/lme4_1.1-32.tar.gz'
+Content type 'binary/octet-stream' length 4224349 bytes (4.0 MB)
+==================================================
+downloaded 4.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/abind_1.4-5.tar.gz'
+Content type 'binary/octet-stream' length 60719 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/benchmarkmeData_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 284508 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 187670 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137791 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/data.table_1.14.8.tar.gz'
+Content type 'binary/octet-stream' length 2127462 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/arm_1.13-1.tar.gz'
+Content type 'binary/octet-stream' length 411993 bytes (402 KB)
+==================================================
+downloaded 402 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/benchmarkme_1.0.8.tar.gz'
+Content type 'binary/octet-stream' length 120862 bytes (118 KB)
+==================================================
+downloaded 118 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/fastDummies_1.6.3.tar.gz'
+Content type 'binary/octet-stream' length 41871 bytes (40 KB)
+==================================================
+downloaded 40 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/DMCFB_1.12.0.tar.gz'
+Content type 'application/gzip' length 1089535 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *binary* package ‘minqa’ ...
+* ‘minqa’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘minqa’ as ‘minqa_1.2.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minqa)
+* installing *binary* package ‘nloptr’ ...
+* ‘nloptr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nloptr’ as ‘nloptr_2.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nloptr)
+* installing *binary* package ‘RcppEigen’ ...
+* ‘RcppEigen’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppEigen’ as ‘RcppEigen_0.3.3.9.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppEigen)
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘benchmarkmeData’ ...
+* ‘benchmarkmeData’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘benchmarkmeData’ as ‘benchmarkmeData_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (benchmarkmeData)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.14.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘lme4’ ...
+* ‘lme4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lme4’ as ‘lme4_1.1-32_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lme4)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘fastDummies’ ...
+* ‘fastDummies’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fastDummies’ as ‘fastDummies_1.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fastDummies)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *binary* package ‘arm’ ...
+* ‘arm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘arm’ as ‘arm_1.13-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (arm)
+* installing *binary* package ‘benchmarkme’ ...
+* ‘benchmarkme’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘benchmarkme’ as ‘benchmarkme_1.0.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (benchmarkme)
+ERROR: dependency ‘speedglm’ is not available for package ‘DMCFB’
+* removing ‘/tmp/tmp/built/DMCFB’
+
+The downloaded source packages are in
+	‘/tmp/RtmpylIPeK/downloaded_packages’
+Warning message:
+In install.packages(...) :
+  installation of package ‘DMCFB’ had non-zero exit status
+
+real	0m37.989s
+user	0m16.361s
+sys	0m2.316s
