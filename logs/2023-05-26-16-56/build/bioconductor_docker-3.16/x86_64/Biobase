@@ -174,8 +174,8 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.26.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp09t43I/downloaded_packages’
+	‘/tmp/RtmpHTJ9wO/downloaded_packages’
 
-real	0m40.824s
-user	0m30.194s
-sys	0m5.073s
+real	0m41.117s
+user	0m30.760s
+sys	0m5.016s
