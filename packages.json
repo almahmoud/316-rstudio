@@ -8483,7 +8483,6 @@
         "SummarizedExperiment"
     ],
     "synapter": [],
-    "SynExtend": [],
     "syntenet": [
         "GenomicAlignments",
         "Rsamtools",
