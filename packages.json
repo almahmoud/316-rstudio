@@ -2756,7 +2756,6 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "MouseFM": [],
     "MPRAnalyze": [],
     "MsExperiment": [
         "QFeatures"
