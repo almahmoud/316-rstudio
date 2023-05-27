@@ -5083,8 +5083,7 @@
     ],
     "cycle": [
         "Biobase",
-        "Mfuzz",
-        "tkWidgets"
+        "Mfuzz"
     ],
     "cydar": [
         "Biobase",
@@ -12128,8 +12127,7 @@
         "Biobase"
     ],
     "Mfuzz": [
-        "Biobase",
-        "tkWidgets"
+        "Biobase"
     ],
     "MGFM": [
         "AnnotationDbi",
@@ -14333,8 +14331,7 @@
     ],
     "OLIN": [],
     "OLINgui": [
-        "OLIN",
-        "tkWidgets"
+        "OLIN"
     ],
     "omada": [
         "Biobase"
@@ -21325,8 +21322,7 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
-        "tkWidgets"
+        "fgsea"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -21372,7 +21368,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "tkWidgets": [],
     "tLOH": [
         "AnnotationDbi",
         "BSgenome",
