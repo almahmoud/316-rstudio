@@ -2827,9 +2827,7 @@
         "SummarizedExperiment",
         "scuttle"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "dada2": [
         "Biostrings",
         "GenomicAlignments",
@@ -7826,7 +7824,6 @@
         "KEGGREST",
         "SummarizedExperiment"
     ],
-    "openCyto": [],
     "openPrimeR": [
         "Biostrings",
         "DECIPHER",
