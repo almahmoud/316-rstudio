@@ -456,9 +456,7 @@
         "genefilter",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [
         "MultiAssayExperiment",
         "MultiDataSet",
@@ -1409,7 +1407,6 @@
         "enrichplot",
         "genefilter",
         "geneplotter",
-        "pathview",
         "sva"
     ],
     "deco": [
@@ -1708,7 +1705,6 @@
         "GSVA",
         "SingleCellExperiment",
         "globaltest",
-        "pathview",
         "safe",
         "topGO"
     ],
@@ -1745,7 +1741,6 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "enrichplot": [
@@ -2124,8 +2119,7 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "geneplotter",
-        "pathview"
+        "geneplotter"
     ],
     "gemma.R": [],
     "genbankr": [
@@ -2350,7 +2344,6 @@
         "EnrichmentBrowser",
         "ExperimentHub",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "gsean": [
@@ -2825,8 +2818,7 @@
         "DOSE",
         "ExperimentHub",
         "clusterProfiler",
-        "enrichplot",
-        "pathview"
+        "enrichplot"
     ],
     "MAI": [],
     "MAIT": [
@@ -3743,7 +3735,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -4472,7 +4463,6 @@
         "enrichplot",
         "genefilter",
         "geneplotter",
-        "pathview",
         "rtracklayer",
         "sva",
         "systemPipeR"
@@ -4570,9 +4560,7 @@
         "MGFR"
     ],
     "satuRn": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "SC3": [
         "SingleCellExperiment"
     ],
@@ -5323,7 +5311,6 @@
         "clusterProfiler",
         "enrichplot",
         "ensembldb",
-        "pathview",
         "rtracklayer",
         "sesame"
     ],
@@ -5774,7 +5761,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
-        "pathview",
         "safe"
     ],
     "zFPKM": [],
