@@ -2802,9 +2802,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "cydar": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -2914,9 +2912,7 @@
         "KEGGREST",
         "graphite"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debCAM": [
         "GenomicRanges",
         "SummarizedExperiment"
@@ -4260,10 +4256,7 @@
         "scuttle"
     ],
     "flowCL": [],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowVS": [],
     "FoldGO": [
         "AnnotationDbi",
