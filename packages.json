@@ -2810,10 +2810,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
-    "GeomxTools": [],
+    "GeoDiff": [],
     "gep2pep": [
         "GSEABase",
         "annotate"
@@ -6374,9 +6371,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [
         "DropletUtils",
         "SingleCellExperiment",
