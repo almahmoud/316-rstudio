@@ -197,7 +197,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "apComplex": [],
     "apeglm": [],
     "APL": [
         "SingleCellExperiment",
