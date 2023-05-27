@@ -13135,7 +13135,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "matchBox": [],
     "MatrixQCvis": [
         "Biobase",
         "ComplexHeatmap",
