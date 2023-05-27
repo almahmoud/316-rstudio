@@ -2296,7 +2296,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "GRmetrics": [],
     "groHMM": [
         "GenomicAlignments",
         "rtracklayer"
