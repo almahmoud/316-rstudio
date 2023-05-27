@@ -863,7 +863,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "rtracklayer"
     ],
     "ASpli": [
@@ -949,7 +948,6 @@
         "annotate",
         "biomaRt",
         "chromVAR",
-        "fgsea",
         "motifmatchr",
         "projectR",
         "rGREAT",
@@ -1680,7 +1678,6 @@
         "XVector",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geNetClassifier",
         "graphite"
     ],
@@ -1850,8 +1847,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "BioNERO": [
         "AnnotationDbi",
@@ -2890,7 +2886,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "fgsea",
         "scater",
         "scuttle"
     ],
@@ -2960,8 +2955,7 @@
         "KEGGREST",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "censcyt": [
         "Biobase",
@@ -3016,7 +3010,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "snpStats"
     ],
@@ -3329,7 +3322,6 @@
         "XVector",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "rtracklayer"
     ],
     "chipseq": [
@@ -3769,8 +3761,7 @@
         "IRanges",
         "KEGGREST",
         "XVector",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "clusterSeq": [
         "GenomeInfoDb",
@@ -3790,8 +3781,7 @@
         "IRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "CMA": [
         "Biobase"
@@ -4299,7 +4289,6 @@
         "bluster",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "scater",
         "scran",
         "scuttle"
@@ -4546,7 +4535,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "piano"
     ],
     "Cormotif": [
@@ -4988,7 +4976,6 @@
         "IRanges",
         "KEGGREST",
         "XVector",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -5350,7 +5337,6 @@
         "apeglm",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "pathview",
@@ -6212,8 +6198,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "doseR": [
         "Biobase",
@@ -6374,8 +6359,7 @@
         "KEGGREST",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "easyRNASeq": [
         "AnnotationDbi",
@@ -6470,7 +6454,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter"
     ],
     "EGAD": [
@@ -6640,8 +6623,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "enrichTF": [
         "AnnotationDbi",
@@ -6667,7 +6649,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame",
         "rtracklayer"
@@ -6760,7 +6741,6 @@
         "annotate",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "genomation",
         "rtracklayer",
@@ -6830,7 +6810,6 @@
         "ReactomePA",
         "XVector",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "EpiMix": [
@@ -7099,7 +7078,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "motifmatchr",
         "pipeFrame",
         "rtracklayer"
@@ -7178,7 +7156,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "fgsea",
         "rhdf5",
         "rhdf5filters",
         "rtracklayer"
@@ -7385,8 +7362,7 @@
         "KEGGREST",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "farms": [
         "Biobase",
@@ -7468,8 +7444,7 @@
         "SummarizedExperiment",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "fcScan": [
         "AnnotationDbi",
@@ -7553,7 +7528,6 @@
         "RBGL",
         "Rgraphviz"
     ],
-    "fgsea": [],
     "FilterFFPE": [
         "Biostrings",
         "GenomeInfoDb",
@@ -7818,9 +7792,7 @@
         "ncdfFlow"
     ],
     "fmcsR": [],
-    "fobitools": [
-        "fgsea"
-    ],
+    "fobitools": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biobase",
@@ -8091,7 +8063,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "pathview"
     ],
@@ -8993,7 +8964,6 @@
         "XVector",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "goProfiles"
     ],
     "goSTAG": [
@@ -9184,8 +9154,7 @@
         "KEGGREST",
         "PPInfer",
         "XVector",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "GSReg": [
         "AnnotationDbi",
@@ -10278,7 +10247,6 @@
         "bluster",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "scater",
         "scran",
         "scuttle"
@@ -10677,7 +10645,6 @@
         "MultiDataSet",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "pcaMethods",
         "ropls"
     ],
@@ -11002,7 +10969,6 @@
         "XVector",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "pathview"
     ],
     "MAI": [
@@ -11270,7 +11236,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "rtracklayer"
     ],
     "MDTS": [
@@ -11443,8 +11408,7 @@
         "KEGGREST",
         "MeSHDbi",
         "XVector",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "meshr": [
         "AnnotationDbi",
@@ -11641,12 +11605,9 @@
         "RCy3",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
-    "metapone": [
-        "fgsea"
-    ],
+    "metapone": [],
     "metaSeq": [
         "Biobase",
         "NOISeq"
@@ -11952,7 +11913,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "methylumi",
         "minfi",
@@ -12295,8 +12255,7 @@
         "KEGGREST",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [
         "Biobase",
@@ -12597,7 +12556,6 @@
         "clusterProfiler",
         "enrichplot",
         "fabia",
-        "fgsea",
         "graphite",
         "miRspongeR",
         "multtest",
@@ -12621,7 +12579,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "missMethyl": [
@@ -12904,8 +12861,7 @@
         "XVector",
         "biomaRt",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "mosaics": [
         "Biobase",
@@ -13420,7 +13376,6 @@
         "IRanges",
         "KEGGREST",
         "XVector",
-        "fgsea",
         "graphite",
         "multtest"
     ],
@@ -13485,7 +13440,6 @@
         "biosigner",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "graphite",
         "multtest",
@@ -13770,8 +13724,7 @@
         "XVector"
     ],
     "NanoTube": [
-        "Biobase",
-        "fgsea"
+        "Biobase"
     ],
     "NBAMSeq": [
         "AnnotationDbi",
@@ -13899,8 +13852,7 @@
         "KEGGREST",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "netDx": [
         "Biobase",
@@ -14433,8 +14385,7 @@
         "GenomicRanges",
         "IRanges",
         "SummarizedExperiment",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "ompBAM": [],
     "oncomix": [
@@ -14800,7 +14751,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "multtest"
     ],
     "panp": [
@@ -14818,8 +14768,7 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "XVector",
-        "fgsea"
+        "XVector"
     ],
     "PAST": [
         "Biobase",
@@ -14931,7 +14880,6 @@
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
-        "fgsea",
         "genefu",
         "piano"
     ],
@@ -15051,8 +14999,7 @@
         "Rgraphviz",
         "XVector",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "phantasus": [
         "AnnotationDbi",
@@ -15068,7 +15015,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "fgsea",
         "geneplotter",
         "rhdf5",
         "rhdf5filters"
@@ -15084,7 +15030,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "piano"
     ],
     "phemd": [
@@ -15195,8 +15140,7 @@
         "XVector"
     ],
     "piano": [
-        "Biobase",
-        "fgsea"
+        "Biobase"
     ],
     "PICS": [
         "Biobase",
@@ -15225,7 +15169,6 @@
         "XVector",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "PING": [
@@ -15451,8 +15394,7 @@
         "IRanges",
         "KEGGREST",
         "XVector",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -15698,7 +15640,6 @@
         "biomaRt",
         "chipseq",
         "enrichplot",
-        "fgsea",
         "rGREAT",
         "rtracklayer",
         "soGGi"
@@ -16368,7 +16309,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "piano"
     ],
     "RaggedExperiment": [
@@ -16593,7 +16533,6 @@
         "KEGGREST",
         "XVector",
         "enrichplot",
-        "fgsea",
         "graphite"
     ],
     "ReadqPCR": [
@@ -16769,7 +16708,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "fgsea",
         "geneplotter"
     ],
     "regioneR": [
@@ -17696,7 +17634,6 @@
         "ballgown",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "pathview",
@@ -18808,7 +18745,6 @@
         "XVector",
         "annotate",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "graphite",
         "meshr",
@@ -18920,7 +18856,6 @@
         "bamsignals",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "rtracklayer"
     ],
     "segmentSeq": [
@@ -19316,7 +19251,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "rhdf5",
         "rhdf5filters"
     ],
@@ -21013,7 +20947,6 @@
         "clusterProfiler",
         "enrichplot",
         "ensembldb",
-        "fgsea",
         "maftools",
         "pathview",
         "rtracklayer",
@@ -21299,8 +21232,7 @@
         "XVector",
         "biomaRt",
         "clusterProfiler",
-        "enrichplot",
-        "fgsea"
+        "enrichplot"
     ],
     "TIN": [
         "AnnotationDbi",
@@ -21454,7 +21386,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "piano"
     ],
     "TPP": [
@@ -22320,7 +22251,6 @@
         "KEGGREST",
         "XVector",
         "biomaRt",
-        "fgsea",
         "topGO"
     ],
     "vissE": [
@@ -22614,7 +22544,6 @@
         "PharmacoGx",
         "SummarizedExperiment",
         "XVector",
-        "fgsea",
         "piano"
     ],
     "XINA": [],
