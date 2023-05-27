@@ -9718,7 +9718,6 @@
         "annotate",
         "geneplotter"
     ],
-    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "Biobase",
         "DelayedArray",
