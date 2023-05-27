@@ -84,25 +84,19 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
         "oligoClasses",
         "rtracklayer"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "AnnotationDbi",
         "KEGGREST",
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "AnnotationDbi",
         "GSEABase",
@@ -138,7 +132,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -394,7 +387,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter"
     ],
     "artMS": [
@@ -780,9 +772,7 @@
         "KEGGREST",
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "AnnotationDbi",
         "GSEABase",
@@ -4024,7 +4014,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "gcrma": [],
     "GDCRNATools": [
         "AnnotationDbi",
         "DESeq2",
@@ -5523,8 +5512,7 @@
     ],
     "maPredictDSC": [
         "AnnotationDbi",
-        "KEGGREST",
-        "gcrma"
+        "KEGGREST"
     ],
     "marr": [
         "GenomicRanges",
@@ -5547,9 +5535,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -6147,7 +6133,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -8205,8 +8190,7 @@
         "rtracklayer"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "AnnotationDbi",
@@ -11173,8 +11157,7 @@
     "webbioc": [
         "AnnotationDbi",
         "KEGGREST",
-        "annaffy",
-        "gcrma"
+        "annaffy"
     ],
     "weitrix": [
         "GenomicRanges",
