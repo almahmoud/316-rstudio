@@ -1237,7 +1237,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE"
     ],
@@ -1673,9 +1672,7 @@
     "groHMM": [
         "rtracklayer"
     ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "gsean": [],
     "GSReg": [
         "GenomicFeatures",
@@ -4091,8 +4088,6 @@
         "rtracklayer"
     ],
     "zellkonverter": [],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "zinbwave": []
 }
