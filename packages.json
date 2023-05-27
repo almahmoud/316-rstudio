@@ -1389,8 +1389,7 @@
     ],
     "easier": [
         "DESeq2",
-        "geneplotter",
-        "quantiseqr"
+        "geneplotter"
     ],
     "EasyCellType": [
         "DOSE",
@@ -3327,7 +3326,6 @@
         "genefilter",
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "GenomicFeatures",
         "bumphunter",
