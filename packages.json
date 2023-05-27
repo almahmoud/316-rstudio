@@ -2641,7 +2641,6 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [],
     "lefser": [],
     "LineagePulse": [
         "SingleCellExperiment"
