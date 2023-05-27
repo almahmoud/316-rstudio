@@ -834,7 +834,6 @@
         "GenomicFeatures",
         "plyranges"
     ],
-    "dce": [],
     "debrowser": [
         "DESeq2",
         "clusterProfiler",
