@@ -1,0 +1,229 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''genefilter'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'genefilter'
+also installing the dependencies ‘org.Hs.eg.db’, ‘widgetTools’, ‘DynDoc’, ‘bookdown’, ‘hgu95av2.db’, ‘tkWidgets’, ‘ALL’, ‘ROC’, ‘BiocStyle’
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/org.Hs.eg.db_3.16.0.tar.gz'
+Content type 'application/gzip' length 88437137 bytes (84.3 MB)
+==================================================
+downloaded 84.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/widgetTools_1.76.0.tar.gz'
+Content type 'application/gzip' length 127381 bytes (124 KB)
+==================================================
+downloaded 124 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/DynDoc_1.76.0.tar.gz'
+Content type 'application/gzip' length 11218 bytes (10 KB)
+==================================================
+downloaded 10 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/bookdown_0.33.tar.gz'
+Content type 'binary/octet-stream' length 1085608 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/hgu95av2.db_3.13.0.tar.gz'
+Content type 'application/gzip' length 529584 bytes (517 KB)
+==================================================
+downloaded 517 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/tkWidgets_1.76.0.tar.gz'
+Content type 'application/gzip' length 336467 bytes (328 KB)
+==================================================
+downloaded 328 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/ALL_1.40.0.tar.gz'
+Content type 'application/gzip' length 11383132 bytes (10.9 MB)
+==================================================
+downloaded 10.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ROC_1.74.0.tar.gz'
+Content type 'application/gzip' length 256772 bytes (250 KB)
+==================================================
+downloaded 250 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocStyle_2.26.0.tar.gz'
+Content type 'application/gzip' length 757136 bytes (739 KB)
+==================================================
+downloaded 739 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/genefilter_1.80.3.tar.gz'
+Content type 'application/gzip' length 715678 bytes (698 KB)
+==================================================
+downloaded 698 KB
+
+* installing *source* package ‘org.Hs.eg.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Hs.eg.db’ as ‘org.Hs.eg.db_3.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Hs.eg.db)
+* installing *source* package ‘widgetTools’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+no DISPLAY variable so Tk is not available 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘widgetTools’ as ‘widgetTools_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (widgetTools)
+* installing *source* package ‘DynDoc’ ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DynDoc’ as ‘DynDoc_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DynDoc)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘ALL’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ALL’ as ‘ALL_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ALL)
+* installing *source* package ‘ROC’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ROC.cc -o ROC.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ROC.so ROC.o -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-ROC/00new/ROC/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ROC’ as ‘ROC_1.74.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROC)
+* installing *source* package ‘genefilter’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c half_range_mode.cpp -o half_range_mode.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nd.c -o nd.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pAUC.c -o pAUC.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowPAUCs.c -o rowPAUCs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowttests.c -o rowttests.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c ttest.f -o ttest.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o genefilter.so half_range_mode.o init.o nd.o pAUC.o rowPAUCs.o rowttests.o ttest.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-genefilter/00new/genefilter/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genefilter’ as ‘genefilter_1.80.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genefilter)
+* installing *source* package ‘hgu95av2.db’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hgu95av2.db’ as ‘hgu95av2.db_3.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hgu95av2.db)
+* installing *source* package ‘tkWidgets’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+no DISPLAY variable so Tk is not available 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tkWidgets’ as ‘tkWidgets_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tkWidgets)
+* installing *source* package ‘BiocStyle’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+
+The downloaded source packages are in
+	‘/tmp/RtmpkOcSO6/downloaded_packages’
+
+real	6m12.651s
+user	5m49.949s
+sys	0m12.373s
