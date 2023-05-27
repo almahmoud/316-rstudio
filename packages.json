@@ -2059,7 +2059,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "GeneAccord": [],
     "geneAttribution": [
         "GenomicAlignments",
         "GenomicFeatures",
