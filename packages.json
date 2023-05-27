@@ -240,7 +240,6 @@
         "GSEABase"
     ],
     "autonomics": [],
-    "awst": [],
     "BaalChIP": [],
     "BadRegionFinder": [
         "BSgenome",
