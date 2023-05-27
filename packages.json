@@ -6750,7 +6750,6 @@
         "rtracklayer",
         "sparseMatrixStats"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [
         "Biobase",
         "Biostrings",
