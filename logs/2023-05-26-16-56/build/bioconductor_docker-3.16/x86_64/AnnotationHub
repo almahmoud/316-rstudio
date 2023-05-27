@@ -1,0 +1,563 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''AnnotationHub'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'AnnotationHub'
+also installing the dependencies ‘R.methodsS3’, ‘R.oo’, ‘R.utils’, ‘hms’, ‘janeaustenr’, ‘tokenizers’, ‘R.cache’, ‘progress’, ‘clisymbols’, ‘tidytext’, ‘SnowballC’, ‘stringdist’, ‘yesno’, ‘styler’, ‘aws.signature’, ‘BSgenome’, ‘data.table’, ‘biomaRt’, ‘available’, ‘biocthis’, ‘aws.s3’, ‘VariantAnnotation’, ‘AnnotationForge’, ‘rBiopaxParser’, ‘GenomicFeatures’, ‘ExperimentHub’, ‘gdsfmt’, ‘HubPub’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 80411 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.oo_1.25.0.tar.gz'
+Content type 'binary/octet-stream' length 954776 bytes (932 KB)
+==================================================
+downloaded 932 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.utils_2.12.2.tar.gz'
+Content type 'binary/octet-stream' length 1394432 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/hms_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 96547 bytes (94 KB)
+==================================================
+downloaded 94 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/janeaustenr_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 1622809 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/tokenizers_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 640010 bytes (625 KB)
+==================================================
+downloaded 625 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.cache_0.16.0.tar.gz'
+Content type 'binary/octet-stream' length 108012 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/progress_1.2.2.tar.gz'
+Content type 'binary/octet-stream' length 83456 bytes (81 KB)
+==================================================
+downloaded 81 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/clisymbols_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 17762 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/tidytext_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 3030771 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/SnowballC_0.7.0.tar.gz'
+Content type 'binary/octet-stream' length 634794 bytes (619 KB)
+==================================================
+downloaded 619 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/stringdist_0.9.10.tar.gz'
+Content type 'binary/octet-stream' length 584846 bytes (571 KB)
+==================================================
+downloaded 571 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/yesno_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 12424 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/styler_1.9.1.tar.gz'
+Content type 'binary/octet-stream' length 708037 bytes (691 KB)
+==================================================
+downloaded 691 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/aws.signature_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 76545 bytes (74 KB)
+==================================================
+downloaded 74 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BSgenome_1.66.3.tar.gz'
+Content type 'application/gzip' length 5907880 bytes (5.6 MB)
+==================================================
+downloaded 5.6 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/data.table_1.14.8.tar.gz'
+Content type 'binary/octet-stream' length 2127462 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/biomaRt_2.54.1.tar.gz'
+Content type 'application/gzip' length 668401 bytes (652 KB)
+==================================================
+downloaded 652 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/available_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 224572 bytes (219 KB)
+==================================================
+downloaded 219 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/biocthis_1.8.3.tar.gz'
+Content type 'application/gzip' length 643287 bytes (628 KB)
+==================================================
+downloaded 628 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/aws.s3_0.3.21.tar.gz'
+Content type 'binary/octet-stream' length 191547 bytes (187 KB)
+==================================================
+downloaded 187 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/VariantAnnotation_1.44.1.tar.gz'
+Content type 'application/gzip' length 1729605 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/AnnotationForge_1.40.2.tar.gz'
+Content type 'application/gzip' length 3877253 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/rBiopaxParser_2.38.0.tar.gz'
+Content type 'application/gzip' length 783361 bytes (765 KB)
+==================================================
+downloaded 765 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GenomicFeatures_1.50.4.tar.gz'
+Content type 'application/gzip' length 1176770 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ExperimentHub_2.6.0.tar.gz'
+Content type 'application/gzip' length 244618 bytes (238 KB)
+==================================================
+downloaded 238 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/gdsfmt_1.34.1.tar.gz'
+Content type 'application/gzip' length 3010073 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/HubPub_1.6.0.tar.gz'
+Content type 'application/gzip' length 1346849 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/AnnotationHub_3.6.0.tar.gz'
+Content type 'application/gzip' length 1069373 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘janeaustenr’ ...
+* ‘janeaustenr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘janeaustenr’ as ‘janeaustenr_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (janeaustenr)
+* installing *binary* package ‘clisymbols’ ...
+* ‘clisymbols’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clisymbols’ as ‘clisymbols_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clisymbols)
+* installing *binary* package ‘SnowballC’ ...
+* ‘SnowballC’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SnowballC’ as ‘SnowballC_0.7.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SnowballC)
+* installing *binary* package ‘stringdist’ ...
+* ‘stringdist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stringdist’ as ‘stringdist_0.9.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stringdist)
+* installing *binary* package ‘yesno’ ...
+* ‘yesno’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘yesno’ as ‘yesno_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yesno)
+* installing *binary* package ‘aws.signature’ ...
+* ‘aws.signature’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aws.signature’ as ‘aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aws.signature)
+* installing *source* package ‘BSgenome’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.66.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.14.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *source* package ‘AnnotationForge’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘AnnotationForge’ as ‘AnnotationForge_1.40.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AnnotationForge)
+* installing *source* package ‘gdsfmt’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_CoreArray.cpp -o R_CoreArray.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gdsfmt.cpp -o gdsfmt.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c digest.cpp -o digest.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/CoreArray.cpp -o CoreArray/CoreArray.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dAllocator.cpp -o CoreArray/dAllocator.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dAny.cpp -o CoreArray/dAny.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dBase.cpp -o CoreArray/dBase.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dBitGDS.cpp -o CoreArray/dBitGDS.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dEndian.cpp -o CoreArray/dEndian.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dFile.cpp -o CoreArray/dFile.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dParallel.cpp -o CoreArray/dParallel.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dParallel_Ext.c -o CoreArray/dParallel_Ext.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dPlatform.cpp -o CoreArray/dPlatform.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dRealGDS.cpp -o CoreArray/dRealGDS.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dSerial.cpp -o CoreArray/dSerial.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dStrGDS.cpp -o CoreArray/dStrGDS.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dStream.cpp -o CoreArray/dStream.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dStruct.cpp -o CoreArray/dStruct.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dSparse.cpp -o CoreArray/dSparse.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c CoreArray/dVLIntGDS.cpp -o CoreArray/dVLIntGDS.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/adler32.c -o ZLIB/adler32.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/compress.c -o ZLIB/compress.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/crc32.c -o ZLIB/crc32.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/deflate.c -o ZLIB/deflate.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/infback.c -o ZLIB/infback.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/inffast.c -o ZLIB/inffast.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/inflate.c -o ZLIB/inflate.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/inftrees.c -o ZLIB/inftrees.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/trees.c -o ZLIB/trees.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/uncompr.c -o ZLIB/uncompr.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c -g0 ZLIB/zutil.c -o ZLIB/zutil.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LZ4/lz4.c -o LZ4/lz4.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LZ4/lz4hc.c -o LZ4/lz4hc.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LZ4/lz4frame.c -o LZ4/lz4frame.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DUSING_R -D_FILE_OFFSET_BITS=64 -I../inst/include -ICoreArray  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LZ4/xxhash.c -o LZ4/xxhash.o
+cd XZ && tar -xzf xz-5.2.5.tar.gz
+cd XZ/xz-5.2.5 && \
+	./configure CC="gcc" CPP="gcc -E" CXX="g++ -std=gnu++14" CXXCPP="" --build="" \
+	--with-pic --enable-silent-rules --quiet --disable-xz > /dev/null
+cd XZ/xz-5.2.5/src/liblzma && make
+make[1]: Entering directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma'
+Making all in api
+make[2]: Entering directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma/api'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma/api'
+make[2]: Entering directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma'
+  CC       liblzma_la-tuklib_physmem.lo
+  CC       liblzma_la-tuklib_cpucores.lo
+  CC       liblzma_la-common.lo
+  CC       liblzma_la-block_util.lo
+  CC       liblzma_la-easy_preset.lo
+  CC       liblzma_la-filter_common.lo
+  CC       liblzma_la-hardware_physmem.lo
+  CC       liblzma_la-index.lo
+  CC       liblzma_la-stream_flags_common.lo
+  CC       liblzma_la-vli_size.lo
+  CC       liblzma_la-hardware_cputhreads.lo
+  CC       liblzma_la-alone_encoder.lo
+  CC       liblzma_la-block_buffer_encoder.lo
+  CC       liblzma_la-block_encoder.lo
+  CC       liblzma_la-block_header_encoder.lo
+  CC       liblzma_la-easy_buffer_encoder.lo
+  CC       liblzma_la-easy_encoder.lo
+  CC       liblzma_la-easy_encoder_memusage.lo
+  CC       liblzma_la-filter_buffer_encoder.lo
+  CC       liblzma_la-filter_encoder.lo
+  CC       liblzma_la-filter_flags_encoder.lo
+  CC       liblzma_la-index_encoder.lo
+  CC       liblzma_la-stream_buffer_encoder.lo
+  CC       liblzma_la-stream_encoder.lo
+  CC       liblzma_la-stream_flags_encoder.lo
+  CC       liblzma_la-vli_encoder.lo
+  CC       liblzma_la-outqueue.lo
+  CC       liblzma_la-stream_encoder_mt.lo
+  CC       liblzma_la-alone_decoder.lo
+  CC       liblzma_la-auto_decoder.lo
+  CC       liblzma_la-block_buffer_decoder.lo
+  CC       liblzma_la-block_decoder.lo
+  CC       liblzma_la-block_header_decoder.lo
+  CC       liblzma_la-easy_decoder_memusage.lo
+  CC       liblzma_la-filter_buffer_decoder.lo
+  CC       liblzma_la-filter_decoder.lo
+  CC       liblzma_la-filter_flags_decoder.lo
+  CC       liblzma_la-index_decoder.lo
+  CC       liblzma_la-index_hash.lo
+  CC       liblzma_la-stream_buffer_decoder.lo
+  CC       liblzma_la-stream_decoder.lo
+  CC       liblzma_la-stream_flags_decoder.lo
+  CC       liblzma_la-vli_decoder.lo
+  CC       liblzma_la-check.lo
+  CC       liblzma_la-crc32_table.lo
+  CC       liblzma_la-crc32_fast.lo
+  CC       liblzma_la-crc64_table.lo
+  CC       liblzma_la-crc64_fast.lo
+  CC       liblzma_la-sha256.lo
+  CC       liblzma_la-lz_encoder.lo
+  CC       liblzma_la-lz_encoder_mf.lo
+  CC       liblzma_la-lz_decoder.lo
+  CC       liblzma_la-lzma_encoder_presets.lo
+  CC       liblzma_la-lzma_encoder.lo
+  CC       liblzma_la-lzma_encoder_optimum_fast.lo
+  CC       liblzma_la-lzma_encoder_optimum_normal.lo
+  CC       liblzma_la-fastpos_table.lo
+  CC       liblzma_la-lzma_decoder.lo
+  CC       liblzma_la-lzma2_encoder.lo
+  CC       liblzma_la-lzma2_decoder.lo
+  CC       liblzma_la-price_table.lo
+  CC       liblzma_la-delta_common.lo
+  CC       liblzma_la-delta_encoder.lo
+  CC       liblzma_la-delta_decoder.lo
+  CC       liblzma_la-simple_coder.lo
+  CC       liblzma_la-simple_encoder.lo
+  CC       liblzma_la-simple_decoder.lo
+  CC       liblzma_la-x86.lo
+  CC       liblzma_la-powerpc.lo
+  CC       liblzma_la-ia64.lo
+  CC       liblzma_la-arm.lo
+  CC       liblzma_la-armthumb.lo
+  CC       liblzma_la-sparc.lo
+  CCLD     liblzma.la
+  PC       liblzma.pc
+make[2]: Leaving directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma'
+make[1]: Leaving directory '/tmp/RtmpV34OgW/R.INSTALL6a65ea1db2f/gdsfmt/src/XZ/xz-5.2.5/src/liblzma'
+cp XZ/xz-5.2.5/src/liblzma/.libs/liblzma.a  .
+rm -rf XZ/xz-5.2.5/dos
+rm -rf XZ/xz-5.2.5/po
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o gdsfmt.so R_CoreArray.o gdsfmt.o digest.o CoreArray/CoreArray.o CoreArray/dAllocator.o CoreArray/dAny.o CoreArray/dBase.o CoreArray/dBitGDS.o CoreArray/dEndian.o CoreArray/dFile.o CoreArray/dParallel.o CoreArray/dParallel_Ext.o CoreArray/dPlatform.o CoreArray/dRealGDS.o CoreArray/dSerial.o CoreArray/dStrGDS.o CoreArray/dStream.o CoreArray/dStruct.o CoreArray/dSparse.o CoreArray/dVLIntGDS.o ZLIB/adler32.o ZLIB/compress.o ZLIB/crc32.o ZLIB/deflate.o ZLIB/infback.o ZLIB/inffast.o ZLIB/inflate.o ZLIB/inftrees.o ZLIB/trees.o ZLIB/uncompr.o ZLIB/zutil.o LZ4/lz4.o LZ4/lz4hc.o LZ4/lz4frame.o LZ4/xxhash.o ./liblzma.a -lpthread -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-gdsfmt/00new/gdsfmt/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gdsfmt’ as ‘gdsfmt_1.34.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gdsfmt)
+* installing *source* package ‘AnnotationHub’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘AnnotationHub’ as ‘AnnotationHub_3.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (AnnotationHub)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.25.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *binary* package ‘tokenizers’ ...
+* ‘tokenizers’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tokenizers’ as ‘tokenizers_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tokenizers)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘aws.s3’ ...
+* ‘aws.s3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aws.s3’ as ‘aws.s3_0.3.21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aws.s3)
+* installing *source* package ‘rBiopaxParser’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rBiopaxParser’ as ‘rBiopaxParser_2.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rBiopaxParser)
+* installing *source* package ‘ExperimentHub’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ExperimentHub’ as ‘ExperimentHub_2.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ExperimentHub)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *binary* package ‘tidytext’ ...
+* ‘tidytext’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidytext’ as ‘tidytext_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidytext)
+* installing *source* package ‘biomaRt’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.54.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *binary* package ‘R.cache’ ...
+* ‘R.cache’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.cache’ as ‘R.cache_0.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.cache)
+* installing *binary* package ‘available’ ...
+* ‘available’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘available’ as ‘available_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (available)
+* installing *source* package ‘GenomicFeatures’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomicFeatures’ as ‘GenomicFeatures_1.50.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomicFeatures)
+* installing *binary* package ‘styler’ ...
+* ‘styler’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘styler’ as ‘styler_1.9.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (styler)
+* installing *source* package ‘VariantAnnotation’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Biostrings_stubs.c -o Biostrings_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_stubs.c -o IRanges_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_VariantAnnotation.c -o R_init_VariantAnnotation.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XVector_stubs.c -o XVector_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c dna_hash.c -o dna_hash.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rle.c -o rle.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c strhash.c -o strhash.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utilities.c -o utilities.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vcffile.c -o vcffile.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vcftype.c -o vcftype.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/tmp/tmp/built/S4Vectors/include' -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/tmp/tmp/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c writevcf.c -o writevcf.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o VariantAnnotation.so Biostrings_stubs.o IRanges_stubs.o R_init_VariantAnnotation.o XVector_stubs.o dna_hash.o rle.o strhash.o utilities.o vcffile.o vcftype.o writevcf.o /tmp/tmp/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-VariantAnnotation/00new/VariantAnnotation/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘tabulate’ in package ‘VariantAnnotation’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘VariantAnnotation’ as ‘VariantAnnotation_1.44.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (VariantAnnotation)
+* installing *source* package ‘biocthis’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biocthis’ as ‘biocthis_1.8.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biocthis)
+* installing *source* package ‘HubPub’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘HubPub’ as ‘HubPub_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (HubPub)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQn1dY9/downloaded_packages’
+
+real	9m28.017s
+user	8m33.329s
+sys	0m33.317s
