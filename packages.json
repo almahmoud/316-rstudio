@@ -1307,7 +1307,6 @@
         "exomeCopy"
     ],
     "CNVRanger": [
-        "GDSArray",
         "RaggedExperiment"
     ],
     "CNVrd2": [
@@ -2668,7 +2667,6 @@
         "geneplotter",
         "pathview"
     ],
-    "GDSArray": [],
     "gemma.R": [],
     "genbankr": [
         "BSgenome",
@@ -7065,7 +7063,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools"
     ],
     "VariantFiltering": [
