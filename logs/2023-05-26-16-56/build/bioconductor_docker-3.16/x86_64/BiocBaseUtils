@@ -69,11 +69,11 @@ packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.26.0_R_x86_64-pc-linu
 * DONE (BiocStyle)
 
 The downloaded source packages are in
-	‘/tmp/RtmpjcM2Xo/downloaded_packages’
+	‘/tmp/RtmpbgjX2W/downloaded_packages’
 
-real	0m14.462s
-user	0m8.299s
-sys	0m1.388s
+real	0m20.802s
+user	0m9.823s
+sys	0m1.564s
 * installing *binary* package ‘tinytest’ ...
 * ‘tinytest’ was already a binary package and will not be rebuilt
 * creating tarball
