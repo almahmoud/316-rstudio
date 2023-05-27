@@ -3003,7 +3003,6 @@
         "enrichplot"
     ],
     "netDx": [],
-    "NetSAM": [],
     "netSmooth": [
         "SingleCellExperiment",
         "clusterExperiment",
