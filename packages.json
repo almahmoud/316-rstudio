@@ -388,9 +388,7 @@
     "CAGEr": [
         "BSgenome"
     ],
-    "CAMERA": [
-        "xcms"
-    ],
+    "CAMERA": [],
     "canceR": [
         "Category",
         "phenoTest"
@@ -588,9 +586,7 @@
     "cliProfiler": [
         "BSgenome"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "clusterExperiment": [
         "mbkmeans",
         "zinbwave"
@@ -725,9 +721,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "cosmiq": [
-        "xcms"
-    ],
+    "cosmiq": [],
     "countsimQC": [
         "DESeq2"
     ],
@@ -1234,8 +1228,7 @@
     ],
     "fishpond": [],
     "flagme": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "FLAMES": [
         "BSgenome",
@@ -1580,8 +1573,7 @@
     ],
     "IONiseR": [],
     "IPO": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "IRISFGM": [
         "clusterProfiler",
@@ -1656,8 +1648,7 @@
         "spicyR"
     ],
     "LOBSTAHS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "LoomExperiment": [],
     "LowMACA": [
@@ -1698,8 +1689,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "maser": [
         "BSgenome",
@@ -1759,9 +1749,7 @@
     "meshr": [
         "Category"
     ],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "MetaboAnnotation": [
         "QFeatures"
     ],
@@ -1777,8 +1765,7 @@
     ],
     "metagene2": [],
     "metaMS": [
-        "CAMERA",
-        "xcms"
+        "CAMERA"
     ],
     "MetaNeighbor": [],
     "MetaPhOR": [
@@ -1972,9 +1959,7 @@
     "MMDiff2": [
         "BSgenome"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "mogsa": [],
     "monaLisa": [
         "BSgenome",
@@ -2115,9 +2100,7 @@
         "DESeq2"
     ],
     "NBSplice": [],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "plyranges"
@@ -2340,9 +2323,7 @@
     "proBatch": [
         "sva"
     ],
-    "proFIA": [
-        "xcms"
-    ],
+    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
@@ -2610,9 +2591,7 @@
         "karyoploteR",
         "regioneR"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "GenomicFeatures",
         "ensembldb"
@@ -3411,7 +3390,6 @@
         "GenomicFeatures"
     ],
     "wiggleplotr": [],
-    "xcms": [],
     "XDE": [
         "GeneMeta"
     ],
