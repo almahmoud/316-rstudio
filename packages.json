@@ -18479,7 +18479,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "SCFA": [],
     "scGPS": [
         "AnnotationDbi",
         "Biobase",
