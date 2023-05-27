@@ -5662,7 +5662,6 @@
         "flowViz"
     ],
     "flowCL": [],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "DelayedArray",
