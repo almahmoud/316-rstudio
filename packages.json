@@ -20820,7 +20820,6 @@
         "XVector",
         "zlibbioc"
     ],
-    "rnaseqcomp": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
