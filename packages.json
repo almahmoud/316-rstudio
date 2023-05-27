@@ -1378,7 +1378,6 @@
         "DESeq2"
     ],
     "glmGamPoi": [],
-    "glmSparseNet": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
