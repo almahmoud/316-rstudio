@@ -23,7 +23,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "AGDEX": [],
     "aggregateBioVar": [],
     "AgiMicroRna": [
         "BSgenome",
