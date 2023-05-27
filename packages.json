@@ -9888,7 +9888,6 @@
         "XVector",
         "biomaRt"
     ],
-    "oneSENSE": [],
     "ontoProc": [
         "AnnotationDbi",
         "AnnotationHub",
