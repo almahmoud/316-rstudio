@@ -2552,7 +2552,6 @@
     ],
     "oligo": [],
     "omada": [],
-    "OmaDB": [],
     "omicade4": [],
     "omicRexposome": [
         "omicade4",
@@ -2654,9 +2653,7 @@
     "phenoTest": [
         "Category"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
