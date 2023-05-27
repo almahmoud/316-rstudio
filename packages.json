@@ -1826,9 +1826,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "Biobase": [],
     "biobroom": [
         "Biobase"
@@ -3465,7 +3463,6 @@
         "wateRmelon"
     ],
     "ChemmineOB": [],
-    "ChemmineR": [],
     "CHETAH": [
         "Biobase",
         "DelayedArray",
@@ -4694,7 +4691,6 @@
     "CompoundDb": [
         "AnnotationFilter",
         "Biobase",
-        "ChemmineR",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -5543,7 +5539,6 @@
         "AnnotationHub",
         "Biobase",
         "Biostrings",
-        "ChemmineR",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -7169,9 +7164,7 @@
         "sparseMatrixStats",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "eisaR": [
         "Biobase",
         "DelayedArray",
@@ -8625,9 +8618,7 @@
         "graph",
         "ncdfFlow"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fobitools": [
         "fgsea"
     ],
@@ -12706,7 +12697,6 @@
     "MetaboAnnotation": [
         "AnnotationFilter",
         "Biobase",
-        "ChemmineR",
         "CompoundDb",
         "DelayedArray",
         "GenomeInfoDb",
@@ -13373,9 +13363,7 @@
         "siggenes",
         "sparseMatrixStats"
     ],
-    "MetID": [
-        "ChemmineR"
-    ],
+    "MetID": [],
     "MetNet": [
         "Biobase",
         "DelayedArray",
@@ -19280,7 +19268,6 @@
     "RMassBank": [
         "Biobase",
         "ChemmineOB",
-        "ChemmineR",
         "IRanges",
         "MSnbase",
         "MsCoreUtils",
