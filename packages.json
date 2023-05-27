@@ -1568,7 +1568,6 @@
         "SummarizedExperiment",
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "AnnotationDbi",
         "SingleCellExperiment",
