@@ -3520,8 +3520,7 @@
     ],
     "cyanoFilter": [
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "cydar": [
         "GenomeInfoDb",
@@ -3561,7 +3560,6 @@
     "CytoML": [
         "flowWorkspace",
         "ggcyto",
-        "ncdfFlow",
         "openCyto"
     ],
     "dada2": [
@@ -3662,8 +3660,7 @@
     ],
     "ddPCRclust": [
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "debCAM": [
         "GenomeInfoDb",
@@ -5324,28 +5321,22 @@
     "flowCL": [],
     "flowCut": [
         "flowDensity",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowDensity": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowFP": [],
     "flowMerge": [],
     "flowStats": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "flowTrans": [],
     "flowVS": [
         "flowStats",
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "FoldGO": [
         "AnnotationDbi",
         "Biostrings",
@@ -5949,8 +5940,7 @@
         "rtracklayer"
     ],
     "ggcyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "ggmanh": [
         "Biostrings",
@@ -6886,8 +6876,7 @@
         "XVector"
     ],
     "ImmuneSpaceR": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "INDEED": [],
     "infercnv": [
@@ -9443,7 +9432,6 @@
         "geneplotter"
     ],
     "NBSplice": [],
-    "ncdfFlow": [],
     "ncGTW": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9913,8 +9901,7 @@
         "XVector"
     ],
     "openCyto": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "openPrimeR": [
         "Biostrings",
@@ -10230,8 +10217,7 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "flowWorkspace",
-        "ncdfFlow"
+        "flowWorkspace"
     ],
     "peakPantheR": [
         "MSnbase",
