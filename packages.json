@@ -301,7 +301,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "annotate",
-        "biomformat",
         "geneplotter"
     ],
     "annaffy": [
@@ -958,7 +957,6 @@
         "TreeSummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomformat",
         "genefilter",
         "geneplotter",
         "mia",
@@ -1116,7 +1114,6 @@
         "GenomeInfoDb",
         "KEGGREST"
     ],
-    "biomformat": [],
     "BioMM": [
         "AnnotationDbi",
         "Biostrings",
@@ -2624,7 +2621,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "biomformat",
         "phyloseq"
     ],
     "coMET": [
@@ -7014,7 +7010,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "annotate",
-        "biomformat",
         "genefilter",
         "phyloseq",
         "sva"
@@ -7332,7 +7327,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "biomaRt",
-        "biomformat",
         "bumphunter",
         "ensembldb",
         "epivizr",
@@ -7654,13 +7648,11 @@
     "microbiome": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeDASim": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "microbiomeExplorer": [
@@ -7672,7 +7664,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "biomformat",
         "geneplotter"
     ],
     "microbiomeMarker": [
@@ -7694,7 +7685,6 @@
         "TreeSummarizedExperiment",
         "annotate",
         "beachmat",
-        "biomformat",
         "geneplotter",
         "mia",
         "phyloseq",
@@ -9270,7 +9260,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "biomformat",
         "geneplotter",
         "phyloseq"
     ],
@@ -9363,7 +9352,6 @@
     "PERFect": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "periodicDNA": [
@@ -9459,8 +9447,7 @@
     ],
     "phyloseq": [
         "Biostrings",
-        "GenomeInfoDb",
-        "biomformat"
+        "GenomeInfoDb"
     ],
     "Pi": [
         "GenomeInfoDb",
@@ -9644,7 +9631,6 @@
         "RPA",
         "Rsamtools",
         "SummarizedExperiment",
-        "biomformat",
         "phyloseq"
     ],
     "preciseTAD": [
@@ -10293,7 +10279,6 @@
     "RCM": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "Rcpi": [
@@ -10322,7 +10307,6 @@
     "reconsi": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "recount": [
@@ -11121,7 +11105,6 @@
     "RPA": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "rprimer": [
@@ -12034,7 +12017,6 @@
     "SIAMCAT": [
         "Biostrings",
         "GenomeInfoDb",
-        "biomformat",
         "phyloseq"
     ],
     "SICtools": [
@@ -12158,7 +12140,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "biomformat",
         "phyloseq"
     ],
     "SimFFPE": [
@@ -12752,7 +12733,6 @@
         "KEGGREST",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "biomformat",
         "phyloseq"
     ],
     "sRACIPE": [
