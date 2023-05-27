@@ -160,7 +160,6 @@
         "genefilter"
     ],
     "ASICS": [
-        "MultiDataSet",
         "ropls"
     ],
     "ASpediaFI": [
@@ -392,7 +391,6 @@
     ],
     "BioNetStat": [],
     "biosigner": [
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -2354,7 +2352,6 @@
     ],
     "LinkHD": [],
     "lipidr": [
-        "MultiDataSet",
         "ropls"
     ],
     "lisaClust": [
@@ -2477,7 +2474,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
-        "MultiDataSet",
         "VariantAnnotation",
         "biovizBase",
         "bumphunter",
@@ -2901,7 +2897,6 @@
         "SingleCellExperiment"
     ],
     "MultiBaC": [
-        "MultiDataSet",
         "ropls"
     ],
     "multicrispr": [
@@ -2916,7 +2911,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
@@ -2926,7 +2920,6 @@
     "multiSight": [
         "DESeq2",
         "DOSE",
-        "MultiDataSet",
         "ReactomePA",
         "biosigner",
         "clusterProfiler",
@@ -3127,7 +3120,6 @@
     "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
-        "MultiDataSet",
         "genefilter",
         "omicade4",
         "sva"
@@ -3257,7 +3249,6 @@
         "destiny"
     ],
     "phenomis": [
-        "MultiDataSet",
         "ropls"
     ],
     "phenoTest": [
@@ -3365,7 +3356,6 @@
     "proDA": [],
     "proFIA": [
         "MsFeatures",
-        "MultiDataSet",
         "ropls",
         "xcms"
     ],
@@ -3867,9 +3857,7 @@
         "rtracklayer"
     ],
     "ROCpAI": [],
-    "ropls": [
-        "MultiDataSet"
-    ],
+    "ropls": [],
     "Rqc": [
         "BSgenome",
         "GenomicFeatures",
@@ -3881,7 +3869,6 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiDataSet",
         "ropls"
     ],
     "rrvgo": [],
