@@ -3032,7 +3032,6 @@
         "annotate",
         "geneplotter"
     ],
-    "DelayedTensor": [],
     "deltaCaptureC": [
         "AnnotationDbi",
         "Biostrings",
