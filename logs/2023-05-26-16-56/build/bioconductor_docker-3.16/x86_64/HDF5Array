@@ -640,11 +640,11 @@ packaged installation of ‘TENxBrainData’ as ‘TENxBrainData_1.18.0_R_x86_64
 * DONE (TENxBrainData)
 
 The downloaded source packages are in
-	‘/tmp/RtmpPaDBGD/downloaded_packages’
+	‘/tmp/RtmpRzYh11/downloaded_packages’
 
-real	5m28.139s
-user	4m42.013s
-sys	0m22.569s
+real	7m33.554s
+user	6m27.969s
+sys	0m28.068s
 * installing *binary* package ‘data.table’ ...
 * ‘data.table’ was already a binary package and will not be rebuilt
 * creating tarball
