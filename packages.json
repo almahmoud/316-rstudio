@@ -2837,7 +2837,6 @@
     "MetaboSignal": [
         "GenomicAlignments",
         "GenomicFeatures",
-        "MWASTools",
         "ensembldb",
         "mygene",
         "rtracklayer"
@@ -3335,7 +3334,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "MWASTools": [],
     "mygene": [
         "GenomicAlignments",
         "GenomicFeatures",
