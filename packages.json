@@ -2124,7 +2124,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "bridge": [],
     "BSgenome": [
         "BiocIO",
         "Biostrings",
