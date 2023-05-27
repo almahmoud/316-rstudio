@@ -1164,11 +1164,11 @@ packaged installation of ‘ReactomePA’ as ‘ReactomePA_1.42.0_R_x86_64-pc-li
 * DONE (ReactomePA)
 
 The downloaded source packages are in
-	‘/tmp/RtmpljTr9S/downloaded_packages’
+	‘/tmp/RtmpuYdU1J/downloaded_packages’
 
-real	24m15.724s
-user	22m22.041s
-sys	0m40.828s
+real	31m32.387s
+user	26m30.464s
+sys	0m53.410s
 * installing *source* package ‘samr’ ...
 ** package ‘samr’ successfully unpacked and MD5 sums checked
 ** using staged installation
