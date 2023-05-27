@@ -2408,7 +2408,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MAI": [],
     "MAIT": [
         "CAMERA",
         "MsFeatures",
