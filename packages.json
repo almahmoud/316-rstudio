@@ -11348,7 +11348,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -11358,7 +11357,6 @@
         "MsCoreUtils",
         "affy",
         "mzR",
-        "qcmetrics",
         "vsn"
     ],
     "MSstatsSampleSize": [],
@@ -13660,7 +13658,6 @@
         "genefilter"
     ],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "CGHcall",
