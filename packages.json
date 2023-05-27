@@ -1672,7 +1672,6 @@
         "cBioPortalData",
         "motifStack"
     ],
-    "LRcell": [],
     "lumi": [
         "GenomicFeatures",
         "bumphunter",
