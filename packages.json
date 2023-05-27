@@ -3470,7 +3470,6 @@
     ],
     "QDNAseq": [],
     "QFeatures": [],
-    "qmtools": [],
     "qpgraph": [
         "GenomicFeatures",
         "rtracklayer"
