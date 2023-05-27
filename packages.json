@@ -2613,7 +2613,6 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "MPRAnalyze": [],
     "MsExperiment": [
         "QFeatures"
     ],
