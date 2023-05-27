@@ -7037,7 +7037,6 @@
         "zlibbioc"
     ],
     "dir.expiry": [],
-    "Director": [],
     "DirichletMultinomial": [
         "IRanges",
         "S4Vectors"
