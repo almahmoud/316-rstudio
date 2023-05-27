@@ -1157,7 +1157,6 @@
         "diffcyt"
     ],
     "CytoGLMM": [],
-    "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
         "SingleCellExperiment",
