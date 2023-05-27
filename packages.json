@@ -994,7 +994,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "basilisk": [],
     "batchelor": [
         "BiocSingular",
         "DelayedArray",
@@ -1333,8 +1332,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "biocViews": [],
     "biomaRt": [
@@ -2090,9 +2088,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "cbpManager": [
-        "basilisk"
-    ],
+    "cbpManager": [],
     "ccfindR": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -3616,7 +3612,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "crisprBase",
         "crisprBowtie",
@@ -3630,8 +3625,7 @@
         "ExperimentHub",
         "GenomeInfoDb",
         "KEGGREST",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -3700,7 +3694,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "biovizBase",
         "crisprBase",
@@ -3729,7 +3722,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "biovizBase",
         "crisprBase",
@@ -4028,7 +4020,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "biomaRt",
         "megadepth",
         "plyranges",
@@ -4283,9 +4274,7 @@
         "rtracklayer",
         "sva"
     ],
-    "densvis": [
-        "basilisk"
-    ],
+    "densvis": [],
     "DEP": [
         "ComplexHeatmap",
         "DelayedArray",
@@ -5865,7 +5854,6 @@
         "VariantAnnotation",
         "XVector",
         "bambu",
-        "basilisk",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -8337,8 +8325,7 @@
         "ExperimentHub",
         "GenomeInfoDb",
         "KEGGREST",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "made4": [
         "DelayedArray",
@@ -9770,7 +9757,6 @@
     "MOFA2": [
         "DelayedArray",
         "HDF5Array",
-        "basilisk",
         "rhdf5"
     ],
     "MOGAMUN": [],
@@ -10820,7 +10806,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "basilisk",
         "biomaRt",
         "bumphunter",
         "dasper",
@@ -12532,12 +12517,9 @@
         "KEGGREST",
         "XVector"
     ],
-    "Rcwl": [
-        "basilisk"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "Rcwl",
-        "basilisk"
+        "Rcwl"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -12612,7 +12594,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "basilisk",
         "biomaRt",
         "bumphunter",
         "genefilter",
@@ -14162,7 +14143,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "biomaRt",
         "rhdf5",
@@ -14758,7 +14738,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "biomformat",
         "phyloseq",
         "rhdf5"
@@ -15041,9 +15020,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "snifter": [
-        "basilisk"
-    ],
+    "snifter": [],
     "SNPhood": [
         "AnnotationDbi",
         "BSgenome",
@@ -15183,7 +15160,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "rhdf5",
         "scuttle"
@@ -16958,8 +16934,7 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "VegaMC": [
         "AnnotationDbi",
@@ -16979,7 +16954,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "basilisk",
         "beachmat",
         "scuttle",
         "zellkonverter"
@@ -17304,8 +17278,7 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "basilisk"
+        "XVector"
     ],
     "zenith": [
         "AnnotationDbi",
