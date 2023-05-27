@@ -12063,7 +12063,6 @@
     "universalmotif": [
         "Biostrings"
     ],
-    "uSORT": [],
     "VAExprs": [
         "BiocSingular",
         "GenomicRanges",
