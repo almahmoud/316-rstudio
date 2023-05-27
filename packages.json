@@ -15854,7 +15854,6 @@
         "XVector",
         "fgsea"
     ],
-    "parglms": [],
     "PAST": [
         "Biobase",
         "BiocIO",
