@@ -11407,7 +11407,6 @@
         "XVector",
         "biomaRt"
     ],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationDbi",
         "AnnotationFilter",
