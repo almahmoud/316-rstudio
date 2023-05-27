@@ -121,7 +121,6 @@
     "appreci8R": [
         "BSgenome",
         "GenomicFeatures",
-        "GenomicScores",
         "OrganismDbi",
         "VariantAnnotation",
         "rtracklayer"
@@ -190,7 +189,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "GenomicScores",
         "InteractionSet",
         "TFBSTools",
         "ensembldb",
@@ -1754,7 +1752,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "GenomicScores": [],
     "genotypeeval": [
         "BSgenome",
         "GenomicFeatures",
@@ -2730,7 +2727,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "InteractionSet",
         "TFBSTools",
@@ -3048,7 +3044,6 @@
         "BSgenome",
         "CNEr",
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -3223,7 +3218,6 @@
     "RareVariantVis": [
         "BSgenome",
         "GenomicFeatures",
-        "GenomicScores",
         "VariantAnnotation",
         "rtracklayer"
     ],
@@ -4370,7 +4364,6 @@
     "VariantFiltering": [
         "BSgenome",
         "GenomicFeatures",
-        "GenomicScores",
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
