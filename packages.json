@@ -1351,7 +1351,6 @@
     "dittoSeq": [
         "SingleCellExperiment"
     ],
-    "divergence": [],
     "DMCFB": [
         "rtracklayer"
     ],
