@@ -1354,7 +1354,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -2512,7 +2511,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "TCGAbiolinks",
         "genefilter"
     ],
     "miRSM": [
@@ -2581,7 +2579,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot"
     ],
@@ -2696,7 +2693,6 @@
     "musicatk": [
         "BSgenome",
         "GenomicFeatures",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "decompTumor2Sig",
         "rtracklayer"
@@ -4129,14 +4125,12 @@
         "DESeq2",
         "geneplotter"
     ],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "BSgenome",
         "DOSE",
         "ELMER",
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "clusterProfiler",
