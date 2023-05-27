@@ -2113,9 +2113,7 @@
         "methylKit",
         "rtracklayer"
     ],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methrix": [
         "BSgenome",
         "rtracklayer"
@@ -3365,7 +3363,6 @@
     "seqsetvis": [
         "rtracklayer"
     ],
-    "sesame": [],
     "SEtools": [
         "DESeq2",
         "sva"
@@ -3718,8 +3715,7 @@
         "clusterProfiler",
         "enrichplot",
         "ensembldb",
-        "rtracklayer",
-        "sesame"
+        "rtracklayer"
     ],
     "TCGAutils": [
         "GenomicFeatures",
