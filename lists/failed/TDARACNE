@@ -1,0 +1,25 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''TDARACNE'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'TDARACNE'
+Warning: dependency ‘GenKern’ is not available
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/TDARACNE_1.47.0.tar.gz'
+Content type 'application/gzip' length 99822 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+ERROR: dependency ‘GenKern’ is not available for package ‘TDARACNE’
+* removing ‘/tmp/tmp/built/TDARACNE’
+
+The downloaded source packages are in
+	‘/tmp/Rtmp295AhK/downloaded_packages’
+Warning message:
+In install.packages(...) :
+  installation of package ‘TDARACNE’ had non-zero exit status
+
+real	0m6.870s
+user	0m4.138s
+sys	0m0.244s
