@@ -67,7 +67,6 @@
     ],
     "airpart": [
         "SingleCellExperiment",
-        "apeglm",
         "scater",
         "scuttle"
     ],
@@ -130,7 +129,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "apeglm": [],
     "APL": [
         "SingleCellExperiment"
     ],
@@ -756,7 +754,6 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "chipseq",
         "geneplotter",
         "rtracklayer",
@@ -1208,7 +1205,6 @@
     "debrowser": [
         "DESeq2",
         "DOSE",
-        "apeglm",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1325,7 +1321,6 @@
         "DESeq2",
         "GreyListChIP",
         "ShortRead",
-        "apeglm",
         "geneplotter",
         "rtracklayer",
         "systemPipeR"
@@ -4616,7 +4611,6 @@
     "TDARACNE": [],
     "TEKRABber": [
         "DESeq2",
-        "apeglm",
         "geneplotter"
     ],
     "TENxIO": [
@@ -4922,7 +4916,6 @@
         "GreyListChIP",
         "InteractionSet",
         "ShortRead",
-        "apeglm",
         "csaw",
         "ensembldb",
         "geneplotter",
