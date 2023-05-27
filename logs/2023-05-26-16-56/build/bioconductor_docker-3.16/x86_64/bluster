@@ -4446,8 +4446,8 @@ packaged installation of ‘scRNAseq’ as ‘scRNAseq_2.12.0_R_x86_64-pc-linux-
 * DONE (scRNAseq)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp6FO4Gs/downloaded_packages’
+	‘/tmp/RtmpMIzB47/downloaded_packages’
 
-real	13m59.126s
-user	12m27.474s
-sys	0m56.506s
+real	12m53.870s
+user	11m15.386s
+sys	0m44.253s
