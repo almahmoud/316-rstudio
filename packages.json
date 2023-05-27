@@ -1156,7 +1156,6 @@
         "KEGGREST",
         "MAST",
         "MultiAssayExperiment",
-        "NOISeq",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3044,7 +3043,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NOISeq",
         "Rsamtools",
         "XVector",
         "exomeCopy"
@@ -8944,9 +8942,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "AnnotationDbi",
         "BSgenome",
@@ -10765,7 +10761,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "affy"
