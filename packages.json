@@ -7554,7 +7554,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "nempi": [],
     "NetActivity": [
         "AnnotationDbi",
         "Biostrings",
