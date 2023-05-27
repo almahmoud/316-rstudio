@@ -24661,7 +24661,6 @@
         "sparseMatrixStats",
         "zellkonverter"
     ],
-    "VERSO": [],
     "vidger": [
         "AnnotationDbi",
         "Biobase",
