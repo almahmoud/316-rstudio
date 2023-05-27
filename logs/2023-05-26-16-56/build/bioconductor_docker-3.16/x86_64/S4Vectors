@@ -284,8 +284,8 @@ packaged installation of ‘ShortRead’ as ‘ShortRead_1.56.1_R_x86_64-pc-linu
 * DONE (ShortRead)
 
 The downloaded source packages are in
-	‘/tmp/RtmpDfNzTr/downloaded_packages’
+	‘/tmp/RtmppJUcIK/downloaded_packages’
 
-real	1m48.176s
-user	1m35.684s
-sys	0m6.371s
+real	2m2.976s
+user	1m41.762s
+sys	0m6.762s
