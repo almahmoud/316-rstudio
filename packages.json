@@ -294,7 +294,6 @@
         "rtracklayer"
     ],
     "BioCor": [],
-    "BioMM": [],
     "biomvRCNS": [
         "BSgenome",
         "GenomicFeatures",
