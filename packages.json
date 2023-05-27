@@ -3623,7 +3623,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "ReQON": [],
     "RESOLVE": [
         "BSgenome",
         "rtracklayer"
