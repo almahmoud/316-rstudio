@@ -5010,7 +5010,6 @@
         "scater",
         "scuttle"
     ],
-    "microbiome": [],
     "microbiomeExplorer": [
         "AnnotationDbi",
         "DESeq2",
