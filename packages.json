@@ -1360,9 +1360,7 @@
         "geneplotter",
         "sva"
     ],
-    "deco": [
-        "made4"
-    ],
+    "deco": [],
     "DEComplexDisease": [
         "DESeq2",
         "geneplotter"
@@ -2698,7 +2696,6 @@
     "macat": [],
     "MACSQuantifyR": [],
     "MACSr": [],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "GenomicAlignments",
@@ -3507,14 +3504,11 @@
     "oligoClasses": [],
     "omada": [],
     "OmaDB": [],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "MultiDataSet",
         "genefilter",
-        "made4",
         "omicade4",
         "sva"
     ],
