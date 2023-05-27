@@ -4541,7 +4541,6 @@
     "scuttle": [
         "SingleCellExperiment"
     ],
-    "SDAMS": [],
     "sechm": [],
     "segmenter": [
         "ChIPseeker",
