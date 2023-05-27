@@ -2134,9 +2134,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [
-        "LiquidAssociation"
-    ],
+    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "GenomicAlignments",
         "ShortRead"
@@ -2962,7 +2960,6 @@
         "MultiDataSet",
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "DropletUtils",
         "SingleCellExperiment",
