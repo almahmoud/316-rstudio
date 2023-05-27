@@ -2213,9 +2213,7 @@
     "MetaboAnnotation": [
         "QFeatures"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
@@ -3916,10 +3914,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "BSgenome",
         "GenomicFeatures",
