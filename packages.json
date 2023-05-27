@@ -415,9 +415,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "Biobase",
         "Biostrings",
@@ -6015,9 +6013,7 @@
         "pcaMethods",
         "vsn"
     ],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "DepInfeR": [],
     "derfinder": [
         "AnnotationDbi",
@@ -13575,7 +13571,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "AnnotationDbi",
         "Biobase",
@@ -14438,7 +14433,6 @@
         "fgsea",
         "geneplotter",
         "graphite",
-        "mixOmics",
         "multtest",
         "ropls"
     ],
@@ -16515,8 +16509,7 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "geneplotter",
-        "mixOmics"
+        "geneplotter"
     ],
     "PoTRA": [
         "AnnotationDbi",
@@ -22800,9 +22793,7 @@
     "timecourse": [
         "Biobase"
     ],
-    "timeOmics": [
-        "mixOmics"
-    ],
+    "timeOmics": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "Biobase",
