@@ -1566,8 +1566,7 @@
     ],
     "EpiTxDb": [
         "GenomicFeatures",
-        "rtracklayer",
-        "tRNAdbImport"
+        "rtracklayer"
     ],
     "epivizr": [
         "GenomicFeatures",
@@ -4697,7 +4696,6 @@
         "genefilter",
         "sva"
     ],
-    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
         "rtracklayer"
