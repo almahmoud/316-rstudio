@@ -540,7 +540,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "BrainSABER": [],
     "branchpointer": [
         "BSgenome",
         "GenomicAlignments",
