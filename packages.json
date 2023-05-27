@@ -9697,7 +9697,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "Biostrings",
