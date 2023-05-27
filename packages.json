@@ -2843,7 +2843,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "Biostrings",
@@ -8424,9 +8423,7 @@
         "GenomicRanges",
         "XVector"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth",
         "GenomeInfoDb",
