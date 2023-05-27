@@ -17227,7 +17227,6 @@
         "XVector",
         "rtracklayer"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocSingular",
         "DelayedArray",
