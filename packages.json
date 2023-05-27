@@ -2214,7 +2214,6 @@
         "biomaRt",
         "geNetClassifier",
         "genefilter",
-        "hopach",
         "phenoTest"
     ],
     "CancerInSilico": [],
@@ -8313,7 +8312,6 @@
         "rtracklayer"
     ],
     "hmdbQuery": [],
-    "hopach": [],
     "HTqPCR": [
         "affy"
     ],
@@ -13038,8 +13036,7 @@
         "XVector",
         "annotate",
         "biomaRt",
-        "genefilter",
-        "hopach"
+        "genefilter"
     ],
     "PhIPData": [
         "DelayedArray",
@@ -15842,7 +15839,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "hopach",
         "rhdf5"
     ],
     "sccomp": [
@@ -18743,8 +18739,7 @@
         "SummarizedExperiment",
         "XVector",
         "diffcyt",
-        "flowCore",
-        "hopach"
+        "flowCore"
     ],
     "TreeSummarizedExperiment": [
         "Biostrings",
