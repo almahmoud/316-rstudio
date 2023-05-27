@@ -4032,7 +4032,6 @@
         "rtracklayer"
     ],
     "sSNAPPY": [],
-    "ssviz": [],
     "STAN": [
         "BSgenome",
         "GenomicFeatures",
