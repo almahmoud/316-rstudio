@@ -367,9 +367,7 @@
         "XVector",
         "multtest"
     ],
-    "alevinQC": [
-        "tximport"
-    ],
+    "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1654,8 +1652,7 @@
         "biomaRt",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -7661,8 +7658,7 @@
         "fgsea",
         "rhdf5",
         "rhdf5filters",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
     "EWCE": [
         "AnnotationDbi",
@@ -11105,8 +11101,7 @@
         "genefilter",
         "geneplotter",
         "rtracklayer",
-        "tximeta",
-        "tximport"
+        "tximeta"
     ],
     "isomiRs": [
         "AnnotationDbi",
@@ -20983,7 +20978,6 @@
         "scuttle",
         "sparseMatrixStats",
         "sva",
-        "tximport",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -23505,10 +23499,8 @@
         "XVector",
         "biomaRt",
         "ensembldb",
-        "rtracklayer",
-        "tximport"
+        "rtracklayer"
     ],
-    "tximport": [],
     "UCell": [
         "Biobase",
         "BiocNeighbors",
