@@ -20641,7 +20641,6 @@
         "flowCore",
         "sangerseqR"
     ],
-    "scMAGeCK": [],
     "scmap": [
         "Biobase",
         "DelayedArray",
