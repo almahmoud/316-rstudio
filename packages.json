@@ -2683,7 +2683,6 @@
     "pram": [
         "rtracklayer"
     ],
-    "prebs": [],
     "preciseTAD": [
         "GenomicFeatures",
         "rCGH",
