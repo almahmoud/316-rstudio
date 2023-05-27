@@ -6530,7 +6530,6 @@
     "receptLoss": [
         "SummarizedExperiment"
     ],
-    "reconsi": [],
     "recount": [
         "AnnotationDbi",
         "BSgenome",
