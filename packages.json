@@ -3748,7 +3748,6 @@
         "scuttle"
     ],
     "scuttle": [],
-    "sechm": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -3784,7 +3783,6 @@
         "DESeq2",
         "genefilter",
         "geneplotter",
-        "sechm",
         "sva"
     ],
     "sevenC": [
