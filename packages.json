@@ -3146,7 +3146,6 @@
     ],
     "oncomix": [],
     "OncoScore": [],
-    "ontoProc": [],
     "openPrimeRui": [],
     "oppar": [
         "GSEABase",
@@ -3316,9 +3315,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2",
         "geneplotter"
@@ -4616,7 +4613,6 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
