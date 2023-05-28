@@ -2125,7 +2125,6 @@
     "proBatch": [
         "sva"
     ],
-    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
