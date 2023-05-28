@@ -210,7 +210,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "MAST",
         "TreeSummarizedExperiment",
         "mia",
         "scater",
@@ -414,9 +413,7 @@
     ],
     "ccfindR": [],
     "CCPROMISE": [],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -1644,7 +1641,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "MAST": [],
     "MatrixRider": [
         "BSgenome",
         "CNEr",
@@ -2225,9 +2221,7 @@
     "POMA": [
         "DESeq2"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "pram": [],
     "preciseTAD": [
         "GenomicFeatures",
@@ -2823,7 +2817,6 @@
         "DESeq2",
         "DropletUtils",
         "GenomicFeatures",
-        "MAST",
         "TSCAN",
         "TrajectoryUtils",
         "batchelor",
