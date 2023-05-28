@@ -22,7 +22,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "BSgenome",
         "Category",
