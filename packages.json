@@ -259,7 +259,6 @@
     "BioNERO": [
         "sva"
     ],
-    "biosigner": [],
     "BioTIP": [
         "scran",
         "scuttle"
@@ -2003,7 +2002,6 @@
     "multiSight": [
         "DESeq2",
         "ReactomePA",
-        "biosigner",
         "clusterProfiler",
         "enrichplot"
     ],
