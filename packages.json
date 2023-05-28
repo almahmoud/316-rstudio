@@ -2252,7 +2252,6 @@
     "TAPseq": [
         "GenomicFeatures"
     ],
-    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN"
     ],
