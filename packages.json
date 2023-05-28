@@ -94,9 +94,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -129,9 +127,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [
         "GenomicFeatures"
     ],
@@ -152,9 +148,7 @@
     "batchelor": [
         "scuttle"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [
         "scater",
         "scran",
@@ -204,9 +198,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioTIP": [
         "scran",
         "scuttle"
@@ -230,12 +222,8 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "BOBaFIT": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -300,8 +288,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [],
     "CAMERA": [],
@@ -380,7 +367,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -596,8 +582,7 @@
         "ensembldb"
     ],
     "crossmeta": [
-        "oligo",
-        "sva"
+        "oligo"
     ],
     "CSSQ": [
         "GenomicFeatures"
@@ -639,15 +624,13 @@
     ],
     "DaMiRseq": [
         "EDASeq",
-        "GenomicFeatures",
-        "sva"
+        "GenomicFeatures"
     ],
     "dasper": [
         "GenomicFeatures"
     ],
     "debrowser": [
-        "clusterProfiler",
-        "sva"
+        "clusterProfiler"
     ],
     "DEComplexDisease": [],
     "decompTumor2Sig": [
@@ -671,8 +654,7 @@
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
-        "sva"
+        "bsseq"
     ],
     "derfinder": [
         "GenomicFeatures",
@@ -699,9 +681,7 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP",
@@ -753,9 +733,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "dpeak": [],
     "DriverNet": [],
     "DropletUtils": [
@@ -780,9 +758,7 @@
     "EDASeq": [
         "GenomicFeatures"
     ],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -991,8 +967,7 @@
         "DaMiRseq",
         "EDASeq",
         "GenomicFeatures",
-        "MLSeq",
-        "sva"
+        "MLSeq"
     ],
     "gcapc": [],
     "GDCRNATools": [
@@ -1253,9 +1228,7 @@
         "DSS",
         "bsseq"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "LineagePulse": [],
     "lineagespot": [
         "GenomicFeatures",
@@ -1313,9 +1286,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MBECS": [
-        "sva"
-    ],
+    "MBECS": [],
     "mBPCR": [],
     "mCSEA": [
         "GenomicFeatures",
@@ -1334,8 +1305,7 @@
         "ensembldb",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "GenomicFeatures",
@@ -1551,9 +1521,7 @@
         "scran",
         "scuttle"
     ],
-    "MSPrep": [
-        "sva"
-    ],
+    "MSPrep": [],
     "msqrob2": [
         "QFeatures"
     ],
@@ -1674,9 +1642,7 @@
     ],
     "oligo": [],
     "omada": [],
-    "omicRexposome": [
-        "sva"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "GenomicFeatures",
         "HelloRanges",
@@ -1696,9 +1662,7 @@
     "OUTRIDER": [
         "GenomicFeatures"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
@@ -1770,9 +1734,7 @@
     "proBAMr": [
         "GenomicFeatures"
     ],
-    "proBatch": [
-        "sva"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "ChIPseeker",
         "GenomicFeatures",
@@ -1784,9 +1746,7 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "proteasy": [
         "GenomicFeatures",
         "ensembldb"
@@ -1831,12 +1791,8 @@
         "ensembldb"
     ],
     "qsea": [],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [
         "GenomicFeatures",
         "bumphunter",
@@ -2040,7 +1996,6 @@
     "RNASeqR": [
         "ballgown",
         "clusterProfiler",
-        "sva",
         "systemPipeR"
     ],
     "RnaSeqSampleSize": [
@@ -2077,8 +2032,7 @@
     ],
     "SC3": [],
     "SCAN.UPC": [
-        "oligo",
-        "sva"
+        "oligo"
     ],
     "scanMiRApp": [
         "GenomicFeatures",
@@ -2177,9 +2131,7 @@
         "VariantAnnotation"
     ],
     "SeqGSEA": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "sevenC": [],
     "SGSeq": [
         "GenomicFeatures"
@@ -2232,8 +2184,7 @@
         "scDblFinder",
         "scater",
         "scran",
-        "scuttle",
-        "sva"
+        "scuttle"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFeatures",
@@ -2386,7 +2337,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "sva": [],
     "svaNUMT": [
         "GenomicFeatures",
         "StructuralVariantAnnotation",
@@ -2406,8 +2356,7 @@
     ],
     "TarSeqQC": [],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "sva"
+        "ASSIGN"
     ],
     "TCC": [],
     "TCGAbiolinksGUI": [
@@ -2481,9 +2430,7 @@
         "scater",
         "scuttle"
     ],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "tRNAscanImport": [],
     "TSCAN": [],
     "tscR": [],
@@ -2545,8 +2492,7 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFeatures",
