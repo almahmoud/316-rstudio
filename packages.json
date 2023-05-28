@@ -100,7 +100,6 @@
         "minfi"
     ],
     "arrayQualityMetrics": [],
-    "ASICS": [],
     "ASpediaFI": [
         "BSgenome",
         "GenomicFeatures",
