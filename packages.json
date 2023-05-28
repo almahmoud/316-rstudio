@@ -2324,7 +2324,6 @@
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "Statial": [],
     "stJoincount": [
         "DropletUtils",
         "SpatialExperiment",
