@@ -1071,7 +1071,6 @@
         "GenomicFeatures",
         "SGSeq"
     ],
-    "ExCluster": [],
     "exomePeak2": [
         "BSgenome",
         "GenomicFeatures"
