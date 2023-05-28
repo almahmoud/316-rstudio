@@ -522,7 +522,6 @@
         "scuttle"
     ],
     "condiments": [
-        "TrajectoryUtils",
         "distinct",
         "scater",
         "scuttle",
@@ -938,8 +937,7 @@
     ],
     "FEAST": [
         "SC3",
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "ffpe": [
         "GenomicFeatures",
@@ -2228,7 +2226,6 @@
         "DropletUtils",
         "GenomicFeatures",
         "TSCAN",
-        "TrajectoryUtils",
         "batchelor",
         "celda",
         "ensembldb",
@@ -2256,9 +2253,7 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "goseq"
@@ -2463,10 +2458,8 @@
         "ensembldb"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptR": [
         "GenomicFeatures"
     ],
@@ -2476,7 +2469,6 @@
     "traseR": [],
     "Travel": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "TreeAndLeaf": [],
@@ -2494,9 +2486,7 @@
         "sva"
     ],
     "tRNAscanImport": [],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "GenomicFeatures",
