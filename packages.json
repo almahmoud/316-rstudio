@@ -1624,7 +1624,6 @@
     "nearBynding": [
         "GenomicFeatures"
     ],
-    "Nebulosa": [],
     "NetActivity": [],
     "netboxr": [
         "clusterProfiler"
