@@ -477,7 +477,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "CNVRanger": [],
     "CNVrd2": [
         "GenomicFeatures",
         "VariantAnnotation"
