@@ -1726,7 +1726,6 @@
         "clusterProfiler"
     ],
     "phantasus": [],
-    "PharmacoGx": [],
     "phemd": [],
     "phenoTest": [],
     "Pigengene": [
@@ -2604,9 +2603,7 @@
     ],
     "wiggleplotr": [],
     "XDE": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [],
     "YAPSA": [
         "GenomicFeatures",
