@@ -185,7 +185,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -1331,7 +1330,6 @@
     "Glimma": [
         "DESeq2"
     ],
-    "glmGamPoi": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
@@ -3150,9 +3148,7 @@
     "transcriptR": [
         "GenomicFeatures"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2"
     ],
