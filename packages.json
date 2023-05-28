@@ -883,7 +883,6 @@
         "VariantAnnotation"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN"
     ],
     "ffpe": [
@@ -1981,7 +1980,6 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "SC3": [],
     "SCAN.UPC": [
         "oligo"
     ],
