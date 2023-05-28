@@ -280,7 +280,6 @@
         "ggbio"
     ],
     "CAGEr": [],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -891,9 +890,7 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "DropletUtils",
         "GenomicFeatures",
@@ -1145,9 +1142,7 @@
         "DEXSeq",
         "GenomicFeatures"
     ],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "clusterProfiler",
         "scater",
@@ -1199,9 +1194,7 @@
         "SpatialExperiment",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LowMACA": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1231,9 +1224,7 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MAIT": [
-        "CAMERA"
-    ],
+    "MAIT": [],
     "maser": [
         "GenomicFeatures",
         "Gviz",
@@ -1285,9 +1276,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler"
     ],
