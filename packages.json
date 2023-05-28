@@ -1653,7 +1653,6 @@
     "m6Aboost": [
         "BSgenome"
     ],
-    "MACSQuantifyR": [],
     "MADSEQ": [
         "BSgenome",
         "GenomicFeatures",
