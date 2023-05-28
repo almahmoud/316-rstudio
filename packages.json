@@ -2740,7 +2740,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "SpidermiR": [],
     "spiky": [
         "BSgenome"
     ],
@@ -2797,9 +2796,7 @@
         "Category",
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "stJoincount": [
         "DropletUtils",
