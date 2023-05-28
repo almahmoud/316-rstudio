@@ -213,7 +213,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "BEARscc": [],
     "BEAT": [
         "BSgenome"
     ],
