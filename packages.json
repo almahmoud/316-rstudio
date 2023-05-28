@@ -678,9 +678,7 @@
         "RUVSeq",
         "ensembldb"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "consensusSeekeR": [],
     "contiBAIT": [
         "BSgenome",
@@ -1011,9 +1009,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EGSEA": [
-        "GSVA"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "BSgenome",
         "GenomicFeatures",
@@ -1139,7 +1135,6 @@
         "pipeFrame"
     ],
     "escape": [
-        "GSVA",
         "UCell"
     ],
     "EventPointer": [
@@ -1393,7 +1388,6 @@
         "OrganismDbi"
     ],
     "GSRI": [],
-    "GSVA": [],
     "GUIDEseq": [
         "BSgenome",
         "CRISPRseek",
@@ -2129,7 +2123,6 @@
     "octad": [
         "DESeq2",
         "EDASeq",
-        "GSVA",
         "GenomicFeatures",
         "RUVSeq"
     ],
@@ -2163,9 +2156,7 @@
         "VariantAnnotation"
     ],
     "omicsPrint": [],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "ORFhunteR": [
         "BSgenome"
     ],
@@ -2854,7 +2845,6 @@
         "VariantAnnotation"
     ],
     "signifinder": [
-        "GSVA",
         "GenomicFeatures",
         "consensusOV",
         "ensembldb"
@@ -2880,7 +2870,6 @@
     "singleCellTK": [
         "DESeq2",
         "DropletUtils",
-        "GSVA",
         "GenomicFeatures",
         "MAST",
         "TSCAN",
@@ -2905,9 +2894,7 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "SISPA": [
-        "GSVA"
-    ],
+    "SISPA": [],
     "sitadela": [
         "GenomicFeatures"
     ],
@@ -3116,7 +3103,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "sva"
     ],
     "TCC": [
@@ -3177,9 +3163,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "TNBC.CMS": [
-        "GSVA"
-    ],
+    "TNBC.CMS": [],
     "tomoda": [],
     "ToxicoGx": [],
     "trackViewer": [
