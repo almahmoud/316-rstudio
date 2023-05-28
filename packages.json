@@ -1840,7 +1840,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pwrEWAS": [],
     "QFeatures": [],
     "qpgraph": [
         "GenomicFeatures"
