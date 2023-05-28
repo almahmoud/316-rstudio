@@ -1567,7 +1567,6 @@
         "QFeatures"
     ],
     "MuData": [],
-    "MultiBaC": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
