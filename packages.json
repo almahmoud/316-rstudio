@@ -2092,7 +2092,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "scAnnotatR": [],
     "scater": [
         "scuttle"
     ],
