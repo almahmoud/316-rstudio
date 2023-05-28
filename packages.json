@@ -1612,7 +1612,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "PathNet": [],
     "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
