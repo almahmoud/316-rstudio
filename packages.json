@@ -825,7 +825,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCFB": [],
     "DMRcate": [
         "BSgenome",
@@ -2680,7 +2679,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "scuttle"
     ],
     "spicyR": [
