@@ -197,8 +197,7 @@
         "TreeSummarizedExperiment",
         "mia",
         "scater",
-        "scuttle",
-        "zinbwave"
+        "scuttle"
     ],
     "BgeeCall": [
         "GenomicFeatures"
@@ -535,9 +534,7 @@
     "cliProfiler": [
         "BSgenome"
     ],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1925,8 +1922,7 @@
     "netSmooth": [
         "clusterExperiment",
         "scater",
-        "scuttle",
-        "zinbwave"
+        "scuttle"
     ],
     "netZooR": [
         "Category",
@@ -2478,9 +2474,7 @@
     "scater": [
         "scuttle"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scCB2": [
         "DropletUtils",
         "scuttle"
@@ -2644,8 +2638,7 @@
         "scater",
         "scran",
         "scuttle",
-        "sva",
-        "zinbwave"
+        "sva"
     ],
     "SingleMoleculeFootprinting": [
         "BSgenome",
@@ -3097,6 +3090,5 @@
         "quantro"
     ],
     "zellkonverter": [],
-    "zenith": [],
-    "zinbwave": []
+    "zenith": []
 }
