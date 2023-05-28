@@ -387,7 +387,6 @@
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [],
     "cellHTS2": [],
     "CelliD": [
         "scater",
