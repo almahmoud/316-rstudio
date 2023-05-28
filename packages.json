@@ -700,7 +700,6 @@
     "countsimQC": [
         "DESeq2"
     ],
-    "CoverageView": [],
     "cpvSNP": [
         "GenomicFeatures"
     ],
