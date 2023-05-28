@@ -1191,7 +1191,6 @@
         "bsseq"
     ],
     "KnowSeq": [],
-    "LineagePulse": [],
     "lineagespot": [
         "GenomicFeatures",
         "VariantAnnotation"
