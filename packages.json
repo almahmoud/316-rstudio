@@ -1542,7 +1542,6 @@
         "DESeq2",
         "GenomicFeatures"
     ],
-    "InTAD": [],
     "intansv": [
         "BSgenome",
         "GenomicFeatures",
