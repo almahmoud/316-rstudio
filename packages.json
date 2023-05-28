@@ -1163,7 +1163,6 @@
     "geneAttribution": [
         "GenomicFeatures"
     ],
-    "GeneBreak": [],
     "GeneStructureTools": [
         "BSgenome",
         "GenomicFeatures",
