@@ -1936,9 +1936,7 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [
-        "Ringo"
-    ],
+    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "GenomicFeatures",
@@ -1989,7 +1987,6 @@
         "motifStack"
     ],
     "rifi": [],
-    "Ringo": [],
     "RIPAT": [
         "GenomicFeatures",
         "VariantAnnotation",
@@ -2237,9 +2234,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
