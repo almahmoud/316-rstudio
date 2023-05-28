@@ -2562,7 +2562,6 @@
     "schex": [],
     "scHOT": [],
     "scmap": [],
-    "scMerge": [],
     "scMET": [],
     "scmeth": [
         "BSgenome",
@@ -2708,7 +2707,6 @@
         "ensembldb",
         "fishpond",
         "scDblFinder",
-        "scMerge",
         "scater",
         "scds",
         "scran",
