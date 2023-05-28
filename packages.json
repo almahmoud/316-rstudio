@@ -2380,7 +2380,6 @@
         "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
-    "VplotR": [],
     "vtpnet": [
         "GenomicFeatures",
         "VariantAnnotation",
