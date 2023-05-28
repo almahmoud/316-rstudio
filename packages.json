@@ -88,7 +88,6 @@
         "methylumi",
         "minfi"
     ],
-    "arrayQualityMetrics": [],
     "ASpediaFI": [
         "BSgenome",
         "GenomicFeatures",
