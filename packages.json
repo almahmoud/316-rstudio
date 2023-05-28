@@ -1968,7 +1968,6 @@
         "scran"
     ],
     "scGPS": [],
-    "scMET": [],
     "scmeth": [
         "GenomicFeatures",
         "annotatr",
