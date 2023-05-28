@@ -2141,7 +2141,6 @@
     "OrganismDbi": [
         "GenomicFeatures"
     ],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures"
