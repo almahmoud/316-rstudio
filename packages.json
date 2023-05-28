@@ -979,7 +979,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "easyRNASeq": [],
     "EBSEA": [
         "DESeq2"
     ],
@@ -1955,7 +1954,6 @@
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
-        "easyRNASeq",
         "ensembldb",
         "ggbio"
     ],
