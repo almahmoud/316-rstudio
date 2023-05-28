@@ -2417,9 +2417,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "velociraptor": [
-        "zellkonverter"
-    ],
+    "velociraptor": [],
     "vidger": [],
     "ViSEAGO": [],
     "Voyager": [
@@ -2471,6 +2469,5 @@
         "minfi",
         "quantro"
     ],
-    "zellkonverter": [],
     "zenith": []
 }
