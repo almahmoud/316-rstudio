@@ -376,8 +376,7 @@
     "ChIPQC": [
         "DiffBind",
         "GenomicFeatures",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "ChIPseeker": [
         "GenomicFeatures"
@@ -660,8 +659,7 @@
     "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffHic": [],
     "diffUTR": [
@@ -1925,8 +1923,7 @@
     ],
     "RNASeqR": [
         "ballgown",
-        "clusterProfiler",
-        "systemPipeR"
+        "clusterProfiler"
     ],
     "RnaSeqSampleSize": [
         "GenomicFeatures",
@@ -2241,7 +2238,6 @@
         "StructuralVariantAnnotation",
         "VariantAnnotation"
     ],
-    "systemPipeR": [],
     "systemPipeTools": [],
     "TADCompare": [],
     "TAPseq": [
@@ -2407,8 +2403,7 @@
         "GenomicFeatures",
         "GreyListChIP",
         "ensembldb",
-        "regioneR",
-        "systemPipeR"
+        "regioneR"
     ],
     "wateRmelon": [
         "GenomicFeatures",
