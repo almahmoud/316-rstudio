@@ -2817,7 +2817,6 @@
         "GenomicFeatures",
         "ORFik"
     ],
-    "TFutils": [],
     "timeOmics": [],
     "TimiRGeN": [
         "clusterProfiler",
