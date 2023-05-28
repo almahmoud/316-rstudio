@@ -1560,7 +1560,6 @@
     "msqrob2": [
         "QFeatures"
     ],
-    "MuData": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
