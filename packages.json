@@ -952,7 +952,6 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA"
     ],
@@ -2250,7 +2249,6 @@
         "batchelor",
         "celda",
         "ensembldb",
-        "fishpond",
         "scDblFinder",
         "scater",
         "scran",
