@@ -2356,7 +2356,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "EDASeq",
