@@ -1251,7 +1251,6 @@
         "TFBSTools"
     ],
     "MBECS": [],
-    "mBPCR": [],
     "mCSEA": [
         "GenomicFeatures",
         "Gviz",
