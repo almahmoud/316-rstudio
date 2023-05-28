@@ -795,7 +795,6 @@
         "ensembldb",
         "regioneR"
     ],
-    "destiny": [],
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [
@@ -1989,9 +1988,7 @@
     ],
     "phantasus": [],
     "PharmacoGx": [],
-    "phemd": [
-        "destiny"
-    ],
+    "phemd": [],
     "phenomis": [],
     "phenoTest": [],
     "PhyloProfile": [],
