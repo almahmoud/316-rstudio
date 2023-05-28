@@ -310,7 +310,6 @@
         "RTCGAToolbox",
         "TCGAutils"
     ],
-    "ccfindR": [],
     "celaref": [],
     "celda": [
         "scater",
