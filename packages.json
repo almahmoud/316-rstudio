@@ -1281,9 +1281,7 @@
     "MEDIPS": [],
     "meshes": [],
     "meshr": [],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "GenomicFeatures",
         "ensembldb",
@@ -1461,9 +1459,7 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -1476,9 +1472,7 @@
         "scran"
     ],
     "MSPrep": [],
-    "msqrob2": [
-        "QFeatures"
-    ],
+    "msqrob2": [],
     "multicrispr": [
         "CRISPRseek",
         "GenomicFeatures",
@@ -1710,9 +1704,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "puma": [
         "oligo"
     ],
@@ -1727,7 +1719,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "QFeatures": [],
     "qpgraph": [
         "GenomicFeatures"
     ],
@@ -2016,9 +2007,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "DropletUtils"
     ],
