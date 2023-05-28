@@ -1739,7 +1739,6 @@
     "metaMS": [
         "CAMERA"
     ],
-    "MetaNeighbor": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
