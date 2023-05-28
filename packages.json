@@ -2178,7 +2178,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "SPOTlight": [],
     "srnadiff": [
         "GenomicFeatures",
         "Gviz",
