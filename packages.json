@@ -832,9 +832,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [
-        "UCell"
-    ],
+    "escape": [],
     "EventPointer": [
         "GenomicFeatures",
         "SGSeq"
@@ -2318,7 +2316,6 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "UCell": [],
     "Ularcirc": [
         "GenomicFeatures",
         "Organism.dplyr",
