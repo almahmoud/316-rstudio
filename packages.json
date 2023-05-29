@@ -330,9 +330,7 @@
     "CiteFuse": [
         "scran"
     ],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cliProfiler": [],
     "clusterExperiment": [],
     "clusterProfiler": [],
@@ -1326,7 +1324,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "qpgraph": [],
     "qrqc": [
         "VariantAnnotation",
         "biovizBase",
