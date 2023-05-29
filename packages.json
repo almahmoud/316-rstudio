@@ -79,7 +79,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "conumee": [],
     "CopyNumberPlots": [
         "karyoploteR"
     ],
