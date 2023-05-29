@@ -1117,7 +1117,6 @@
         "DropletUtils",
         "SpatialExperiment"
     ],
-    "NoRCE": [],
     "nullranges": [],
     "octad": [
         "RUVSeq"
