@@ -416,9 +416,7 @@
         "ggbio"
     ],
     "flowCL": [],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "funtooNorm": [
         "minfi"
     ],
@@ -736,7 +734,6 @@
         "VariantAnnotation"
     ],
     "Organism.dplyr": [],
-    "OUTRIDER": [],
     "pageRank": [],
     "PanomiR": [],
     "pcaExplorer": [],
