@@ -1136,7 +1136,6 @@
     "motifStack": [
         "TFBSTools"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "OrganismDbi",
         "VariantAnnotation",
