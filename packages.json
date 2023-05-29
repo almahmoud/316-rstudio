@@ -511,7 +511,6 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "dpeak": [],
     "DropletUtils": [],
     "drugTargetInteractions": [
         "ensembldb"
