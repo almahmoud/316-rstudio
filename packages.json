@@ -477,7 +477,6 @@
     "DSS": [
         "bsseq"
     ],
-    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
