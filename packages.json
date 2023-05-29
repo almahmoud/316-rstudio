@@ -489,9 +489,7 @@
         "minfi"
     ],
     "iCNV": [],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [
         "VariantAnnotation"
     ],
@@ -706,7 +704,6 @@
     ],
     "pageRank": [],
     "PanomiR": [],
-    "pcaExplorer": [],
     "PING": [
         "Gviz",
         "VariantAnnotation",
