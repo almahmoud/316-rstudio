@@ -86,9 +86,7 @@
     "cicero": [
         "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CiteFuse": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -188,7 +186,6 @@
     "gmapR": [],
     "GUIDEseq": [],
     "Gviz": [],
-    "gwascat": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -456,9 +453,7 @@
     "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "lumi",
