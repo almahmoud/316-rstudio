@@ -27,9 +27,7 @@
     ],
     "BitSeq": [],
     "BOBaFIT": [],
-    "brainflowprobes": [
-        "derfinderPlot"
-    ],
+    "brainflowprobes": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -73,7 +71,6 @@
         "CytoGLMM"
     ],
     "CytoGLMM": [],
-    "derfinderPlot": [],
     "DMCFB": [],
     "DMRcate": [
         "methylumi",
