@@ -443,7 +443,6 @@
     "deepSNV": [
         "VariantAnnotation"
     ],
-    "DEFormats": [],
     "DegNorm": [],
     "DeMixT": [
         "DSS",
@@ -1253,7 +1252,6 @@
         "regioneR"
     ],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
