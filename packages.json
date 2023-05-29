@@ -131,7 +131,6 @@
         "ensembldb"
     ],
     "bioCancer": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "biomvRCNS": [
@@ -597,9 +596,7 @@
     "epigraHMM": [
         "GreyListChIP"
     ],
-    "epihet": [
-        "ReactomePA"
-    ],
+    "epihet": [],
     "epimutacions": [
         "Gviz",
         "OrganismDbi",
@@ -1064,12 +1061,10 @@
     ],
     "miRLAB": [],
     "miRSM": [
-        "ReactomePA",
         "clusterProfiler",
         "miRspongeR"
     ],
     "miRspongeR": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "missMethyl": [
@@ -1131,7 +1126,6 @@
     ],
     "multiHiCcompare": [],
     "multiSight": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "mumosa": [
@@ -1231,7 +1225,6 @@
     ],
     "phemd": [],
     "Pigengene": [
-        "ReactomePA",
         "clusterProfiler"
     ],
     "PING": [
@@ -1324,7 +1317,6 @@
     "Rbec": [],
     "RCAS": [],
     "rCGH": [],
-    "ReactomePA": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1519,7 +1511,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "ReactomePA",
         "meshr"
     ],
     "scTGIF": [],
