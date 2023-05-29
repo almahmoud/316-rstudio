@@ -1,0 +1,133 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''DEWSeq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'DEWSeq'
+also installing the dependencies ‘R.oo’, ‘R.methodsS3’, ‘slam’, ‘lpsymphony’, ‘fdrtool’, ‘R.utils’, ‘IHW’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.oo_1.25.0.tar.gz'
+Content type 'binary/octet-stream' length 954776 bytes (932 KB)
+==================================================
+downloaded 932 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 80411 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/slam_0.1-50.tar.gz'
+Content type 'binary/octet-stream' length 220397 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/lpsymphony_1.26.3.tar.gz'
+Content type 'application/gzip' length 12406494 bytes (11.8 MB)
+==================================================
+downloaded 11.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/fdrtool_1.2.17.tar.gz'
+Content type 'binary/octet-stream' length 140080 bytes (136 KB)
+==================================================
+downloaded 136 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.utils_2.12.2.tar.gz'
+Content type 'binary/octet-stream' length 1394432 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/IHW_1.26.0.tar.gz'
+Content type 'application/gzip' length 3782574 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/DEWSeq_1.12.0.tar.gz'
+Content type 'application/gzip' length 3451360 bytes (3.3 MB)
+==================================================
+downloaded 3.3 MB
+
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘slam’ ...
+* ‘slam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘slam’ as ‘slam_0.1-50_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slam)
+* installing *source* package ‘lpsymphony’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lp_symphony.cc -o lp_symphony.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o lpsymphony.so lp_symphony.o -lSym -lCgl -lOsiClp -lClp -lOsi -lCoinUtils -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-lpsymphony/00new/lpsymphony/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘lpsymphony’ as ‘lpsymphony_1.26.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpsymphony)
+* installing *binary* package ‘fdrtool’ ...
+* ‘fdrtool’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fdrtool’ as ‘fdrtool_1.2.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fdrtool)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.25.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *source* package ‘IHW’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘nrow’ from package ‘base’ in package ‘IHW’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IHW’ as ‘IHW_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IHW)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘DEWSeq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DEWSeq’ as ‘DEWSeq_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEWSeq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyJPmlC/downloaded_packages’
+
+real	0m52.185s
+user	0m40.773s
+sys	0m4.226s

@@ -387,7 +387,6 @@
         "ensembldb",
         "regioneR"
     ],
-    "DEWSeq": [],
     "DiffBind": [
         "GreyListChIP"
     ],
