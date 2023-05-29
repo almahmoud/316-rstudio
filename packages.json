@@ -60,7 +60,6 @@
         "ensembldb"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
         "motifmatchr",
         "projectR",
         "rGREAT"
@@ -251,7 +250,6 @@
     "ChromSCape": [
         "scran"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
