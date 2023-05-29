@@ -1787,7 +1787,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "velociraptor": [],
     "vidger": [],
     "Voyager": [
         "DropletUtils",
