@@ -292,7 +292,6 @@
     "GA4GHshiny": [
         "GA4GHclient"
     ],
-    "GARS": [],
     "genbankr": [],
     "GeneStructureTools": [
         "Gviz",
