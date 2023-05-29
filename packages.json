@@ -4,7 +4,6 @@
         "snapCGH"
     ],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -14,7 +13,6 @@
         "ggbio"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -98,9 +96,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -243,9 +239,7 @@
     "CATALYST": [
         "scater"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -825,15 +819,12 @@
     "gmapR": [
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [],
     "goseq": [],
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GOstats": [],
     "GOTHiC": [],
     "GRaNIE": [],
     "GreyListChIP": [],
@@ -903,7 +894,6 @@
         "CODEX"
     ],
     "ideal": [
-        "GOstats",
         "goseq",
         "pcaExplorer"
     ],
@@ -1128,12 +1118,9 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "mimager": [],
     "MineICA": [
-        "GOstats",
         "bumphunter",
         "lumi",
         "methylumi",
@@ -1148,9 +1135,7 @@
     "MIRA": [
         "bsseq"
     ],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "ReactomePA",
         "clusterProfiler",
@@ -1271,7 +1256,6 @@
         "scater"
     ],
     "netZooR": [
-        "GOstats",
         "bumphunter",
         "minfi",
         "quantro",
@@ -1322,9 +1306,7 @@
         "clusterProfiler"
     ],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "pdInfoBuilder": [],
     "peco": [
         "scater"
@@ -1351,9 +1333,7 @@
         "scran"
     ],
     "pipeFrame": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [],
     "podkat": [],
     "POMA": [],
@@ -1484,7 +1464,6 @@
     ],
     "Repitools": [],
     "ReportingTools": [
-        "GOstats",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -1647,7 +1626,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "meshr"
     ],
