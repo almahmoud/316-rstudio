@@ -560,7 +560,6 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hiAnnotator": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz",
@@ -576,9 +575,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
