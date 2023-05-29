@@ -1,9 +1,6 @@
 {
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AllelicImbalance": [],
@@ -190,7 +187,6 @@
     "regionReport": [],
     "regutools": [],
     "REMP": [],
-    "ReportingTools": [],
     "RiboProfiling": [],
     "RIPAT": [],
     "RNAAgeCalc": [
