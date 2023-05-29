@@ -1,0 +1,159 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''IPO'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'IPO'
+also installing the dependencies ‘estimability’, ‘rsm’, ‘mtbls2’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/estimability_1.4.1.tar.gz'
+Content type 'binary/octet-stream' length 40540 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rsm_2.10.3.tar.gz'
+Content type 'binary/octet-stream' length 819978 bytes (800 KB)
+==================================================
+downloaded 800 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/mtbls2_1.28.0.tar.gz'
+Content type 'application/gzip' length 192023987 bytes (183.1 MB)
+==================================================
+downloaded 183.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/IPO_1.24.0.tar.gz'
+Content type 'application/gzip' length 745704 bytes (728 KB)
+==================================================
+downloaded 728 KB
+
+* installing *binary* package ‘estimability’ ...
+* ‘estimability’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘estimability’ as ‘estimability_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (estimability)
+* installing *source* package ‘mtbls2’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mtbls2’ as ‘mtbls2_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mtbls2)
+* installing *binary* package ‘rsm’ ...
+* ‘rsm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rsm’ as ‘rsm_2.10.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsm)
+* installing *source* package ‘IPO’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IPO’ as ‘IPO_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IPO)
+
+The downloaded source packages are in
+	‘/tmp/RtmpAyFarq/downloaded_packages’
+
+real	2m34.492s
+user	2m23.757s
+sys	0m5.168s
+* installing *source* package ‘msdata’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msdata’ as ‘msdata_0.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msdata)
+* installing *source* package ‘biocViews’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biocViews’ as ‘biocViews_1.66.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biocViews)
+* installing *source* package ‘Heatplus’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Heatplus’ as ‘Heatplus_3.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Heatplus)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.6-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *source* package ‘mtbls2’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mtbls2’ as ‘mtbls2_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mtbls2)
+* installing *source* package ‘Risa’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Risa’ as ‘Risa_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Risa)
