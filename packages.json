@@ -62,12 +62,9 @@
     ],
     "CancerInSilico": [],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
         "Gviz",
@@ -204,7 +201,6 @@
     "karyoploteR": [],
     "lisaClust": [],
     "LowMACA": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "lumi": [
@@ -357,7 +353,6 @@
         "methylumi"
     ],
     "Rqc": [],
-    "RTCGAToolbox": [],
     "scmeth": [],
     "scruff": [
         "ggbio"
