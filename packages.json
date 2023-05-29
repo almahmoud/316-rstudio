@@ -873,7 +873,6 @@
         "epivizr",
         "epivizrData"
     ],
-    "segmenter": [],
     "seqCAT": [
         "VariantAnnotation"
     ],
