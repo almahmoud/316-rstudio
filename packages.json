@@ -165,7 +165,6 @@
         "ggbio"
     ],
     "branchpointer": [],
-    "BRGenomics": [],
     "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -558,9 +557,7 @@
     "epialleleR": [
         "VariantAnnotation"
     ],
-    "EpiCompare": [
-        "BRGenomics"
-    ],
+    "EpiCompare": [],
     "epigraHMM": [
         "GreyListChIP"
     ],
