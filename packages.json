@@ -741,7 +741,6 @@
         "DaMiRseq",
         "MLSeq"
     ],
-    "gcapc": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
