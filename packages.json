@@ -595,7 +595,6 @@
     ],
     "RTCGAToolbox": [],
     "scanMiRApp": [],
-    "scDblFinder": [],
     "scDD": [],
     "scmeth": [
         "annotatr"
@@ -621,9 +620,7 @@
     "signifinder": [],
     "SigsPack": [],
     "simpleSeg": [],
-    "singleCellTK": [
-        "scDblFinder"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR"
