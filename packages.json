@@ -924,7 +924,6 @@
         "ggbio"
     ],
     "scTensor": [],
-    "scTGIF": [],
     "scTreeViz": [
         "epivizr",
         "epivizrData"
