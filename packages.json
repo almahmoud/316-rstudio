@@ -738,8 +738,7 @@
         "VariantAnnotation"
     ],
     "GARS": [
-        "DaMiRseq",
-        "MLSeq"
+        "DaMiRseq"
     ],
     "GDCRNATools": [
         "clusterProfiler"
@@ -1122,7 +1121,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLSeq": [],
     "MMAPPR2": [
         "VariantAnnotation",
         "VariantTools",
