@@ -472,7 +472,6 @@
         "ensembldb"
     ],
     "crossmeta": [],
-    "CSSQ": [],
     "CTSV": [
         "DropletUtils",
         "SpatialExperiment"
