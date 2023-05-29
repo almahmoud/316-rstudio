@@ -257,7 +257,6 @@
     "esATAC": [],
     "EventPointer": [],
     "exomePeak2": [],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -401,7 +400,6 @@
         "minfi"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "minfi"
     ],
     "methylGSA": [
