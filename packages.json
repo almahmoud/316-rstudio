@@ -299,7 +299,6 @@
         "slingshot"
     ],
     "consensusDE": [
-        "RUVSeq",
         "ensembldb"
     ],
     "contiBAIT": [
@@ -933,9 +932,7 @@
     ],
     "nnSVG": [],
     "nullranges": [],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -1101,7 +1098,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
         "motifStack"
     ],
     "RIPAT": [
@@ -1180,7 +1176,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "RUVSeq": [],
     "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
@@ -1194,9 +1189,7 @@
         "bsseq",
         "regioneR"
     ],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
@@ -1316,9 +1309,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "staRank": [
         "cellHTS2"
     ],
