@@ -210,11 +210,11 @@ packaged installation of ‘PolyPhen.Hsapiens.dbSNP131’ as ‘PolyPhen.Hsapien
 * DONE (PolyPhen.Hsapiens.dbSNP131)
 
 The downloaded source packages are in
-	‘/tmp/RtmpyaOUUI/downloaded_packages’
+	‘/tmp/Rtmp3UISIX/downloaded_packages’
 
-real	7m20.232s
-user	6m27.879s
-sys	0m20.942s
+real	7m56.584s
+user	7m7.638s
+sys	0m23.125s
 * installing *source* package ‘SIFT.Hsapiens.dbSNP132’ ...
 ** using staged installation
 ** R
