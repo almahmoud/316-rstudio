@@ -205,8 +205,7 @@
         "regioneR"
     ],
     "ChIPQC": [
-        "DiffBind",
-        "GreyListChIP"
+        "DiffBind"
     ],
     "ChIPXpress": [],
     "ChromSCape": [],
@@ -365,9 +364,7 @@
         "ensembldb",
         "regioneR"
     ],
-    "DiffBind": [
-        "GreyListChIP"
-    ],
+    "DiffBind": [],
     "diffHic": [],
     "diffUTR": [
         "ensembldb"
@@ -426,9 +423,7 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [],
-    "epigraHMM": [
-        "GreyListChIP"
-    ],
+    "epigraHMM": [],
     "epihet": [],
     "epimutacions": [
         "Gviz",
@@ -550,7 +545,6 @@
     ],
     "GOTHiC": [],
     "GRaNIE": [],
-    "GreyListChIP": [],
     "GUIDEseq": [
         "ChIPpeakAnno",
         "ensembldb",
@@ -1298,7 +1292,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "ensembldb",
         "regioneR"
     ],
