@@ -1685,7 +1685,6 @@
         "StructuralVariantAnnotation",
         "VariantAnnotation"
     ],
-    "systemPipeTools": [],
     "TADCompare": [],
     "TAPseq": [],
     "TBSignatureProfiler": [],
