@@ -8,9 +8,7 @@
         "affycoretools",
         "ggbio"
     ],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "alpine": [],
     "amplican": [],
     "AneuFinder": [],
@@ -19,24 +17,16 @@
         "lumi",
         "methylumi"
     ],
-    "ASpediaFI": [
-        "Gviz"
-    ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpediaFI": [],
+    "ASpli": [],
     "ATACseqQC": [],
     "bigmelon": [
         "lumi",
         "methylumi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [
-        "Gviz"
-    ],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "BindingSiteFinder": [],
+    "biomvRCNS": [],
     "biscuiteer": [
         "dmrseq"
     ],
@@ -54,8 +44,7 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "ggbio"
@@ -67,20 +56,15 @@
     "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
-        "Gviz",
         "lumi",
         "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
-    "chimeraviz": [
-        "Gviz"
-    ],
+    "chimeraviz": [],
     "ChIPexoQual": [],
-    "cicero": [
-        "Gviz"
-    ],
+    "cicero": [],
     "circRNAprofiler": [],
     "CiteFuse": [],
     "CNVfilteR": [
@@ -91,14 +75,9 @@
         "CopyNumberPlots",
         "karyoploteR"
     ],
-    "comapr": [
-        "Gviz"
-    ],
-    "coMET": [
-        "Gviz"
-    ],
+    "comapr": [],
+    "coMET": [],
     "compEpiTools": [
-        "Gviz",
         "methylPipe"
     ],
     "conumee": [],
@@ -109,15 +88,10 @@
         "GUIDEseq"
     ],
     "crisprVerse": [
-        "Gviz",
         "crisprViz"
     ],
-    "crisprViz": [
-        "Gviz"
-    ],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "crisprViz": [],
+    "cummeRbund": [],
     "CyTOFpower": [
         "CytoGLMM"
     ],
@@ -130,29 +104,21 @@
     ],
     "DMCFB": [],
     "DMRcate": [
-        "Gviz",
         "methylumi",
         "missMethyl"
     ],
-    "DMRforPairs": [
-        "Gviz"
-    ],
+    "DMRforPairs": [],
     "dmrseq": [],
-    "ELMER": [
-        "Gviz"
-    ],
+    "ELMER": [],
     "ENmix": [],
     "epihet": [],
-    "epimutacions": [
-        "Gviz"
-    ],
+    "epimutacions": [],
     "epivizrStandalone": [],
     "erma": [],
     "EventPointer": [],
     "exomePeak2": [],
     "extraChIPs": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "ffpe": [
         "lumi",
@@ -164,25 +130,18 @@
     "flowCL": [],
     "funtooNorm": [],
     "GA4GHshiny": [],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
+    "GenomicInteractions": [],
     "GenomicOZone": [
         "ggbio"
     ],
     "ggbio": [],
     "GUIDEseq": [],
-    "Gviz": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HiContacts": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HTSeqGenie": [
         "VariantTools"
@@ -206,14 +165,9 @@
         "RnBeads",
         "methylumi"
     ],
-    "maser": [
-        "Gviz"
-    ],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "maser": [],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "methylumi",
         "missMethyl"
     ],
@@ -233,9 +187,7 @@
         "methylumi",
         "missMethyl"
     ],
-    "methylPipe": [
-        "Gviz"
-    ],
+    "methylPipe": [],
     "methylumi": [],
     "MineICA": [
         "lumi",
@@ -248,9 +200,7 @@
     "MMAPPR2": [
         "VariantTools"
     ],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "msgbsR": [
         "ggbio"
     ],
@@ -261,7 +211,6 @@
     "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
-        "Gviz",
         "trackViewer"
     ],
     "NBSplice": [],
@@ -273,26 +222,18 @@
     "ODER": [
         "derfinder"
     ],
-    "OGRE": [
-        "Gviz"
-    ],
+    "OGRE": [],
     "omada": [],
     "OMICsPCA": [],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "pram": [],
-    "primirTSS": [
-        "Gviz"
-    ],
+    "primirTSS": [],
     "PrInCE": [],
     "psichomics": [
         "derfinder",
         "recount"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "qrqc": [],
     "quantro": [],
     "QuasR": [],
@@ -307,9 +248,7 @@
     "regionReport": [
         "derfinder"
     ],
-    "regutools": [
-        "Gviz"
-    ],
+    "regutools": [],
     "REMP": [],
     "ReportingTools": [
         "ggbio"
@@ -324,19 +263,14 @@
         "derfinder",
         "recount"
     ],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "Gviz",
         "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "Gviz",
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
@@ -367,42 +301,26 @@
         "ggbio"
     ],
     "spatzie": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
-    "SPLINTER": [
-        "Gviz"
-    ],
-    "srnadiff": [
-        "Gviz"
-    ],
-    "STAN": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
+    "srnadiff": [],
+    "STAN": [],
     "standR": [],
     "svaNUMT": [],
     "svaRetro": [],
     "TCGAbiolinksGUI": [
-        "ELMER",
-        "Gviz"
+        "ELMER"
     ],
     "TDARACNE": [],
     "timeOmics": [],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "TraRe": [],
     "Travel": [],
     "tscR": [],
-    "TVTB": [
-        "Gviz"
-    ],
-    "uncoverappLib": [
-        "Gviz"
-    ],
-    "VariantFiltering": [
-        "Gviz"
-    ],
+    "TVTB": [],
+    "uncoverappLib": [],
+    "VariantFiltering": [],
     "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
