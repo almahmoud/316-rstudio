@@ -1,6 +1,5 @@
 {
     "affycoretools": [
-        "Glimma",
         "ReportingTools",
         "VariantAnnotation",
         "biovizBase",
@@ -8,7 +7,6 @@
         "ggbio"
     ],
     "AgiMicroRna": [
-        "Glimma",
         "ReportingTools",
         "VariantAnnotation",
         "affycoretools",
@@ -574,7 +572,6 @@
         "ensembldb"
     ],
     "ggspavis": [],
-    "Glimma": [],
     "gmapR": [
         "VariantAnnotation"
     ],
