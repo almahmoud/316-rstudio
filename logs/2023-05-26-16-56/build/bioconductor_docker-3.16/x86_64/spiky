@@ -1,0 +1,420 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''spiky'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'spiky'
+Warning: dependency ‘equatiomatic’ is not available
+also installing the dependencies ‘lazyeval’, ‘shape’, ‘coda’, ‘Formula’, ‘MBA’, ‘mvtnorm’, ‘sp’, ‘rex’, ‘RcppThread’, ‘kernlab’, ‘LiblineaR’, ‘apcluster’, ‘circlize’, ‘GetoptLong’, ‘GlobalOptions’, ‘BSgenome.Mmusculus.UCSC.mm10’, ‘BSgenome.Hsapiens.UCSC.hg38’, ‘bamlss’, ‘BlandAltmanLeh’, ‘covr’, ‘universalmotif’, ‘kebabs’, ‘ComplexHeatmap’, ‘markdown’, ‘BSgenome.Mmusculus.UCSC.mm10.masked’, ‘BSgenome.Hsapiens.UCSC.hg38.masked’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/lazyeval_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 162947 bytes (159 KB)
+==================================================
+downloaded 159 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/shape_1.4.6.tar.gz'
+Content type 'binary/octet-stream' length 783376 bytes (765 KB)
+==================================================
+downloaded 765 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/Formula_1.2-5.tar.gz'
+Content type 'binary/octet-stream' length 158324 bytes (154 KB)
+==================================================
+downloaded 154 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/MBA_0.1-0.tar.gz'
+Content type 'binary/octet-stream' length 175126 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/sp_1.6-0.tar.gz'
+Content type 'binary/octet-stream' length 1809441 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rex_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 122979 bytes (120 KB)
+==================================================
+downloaded 120 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/RcppThread_2.1.3.tar.gz'
+Content type 'binary/octet-stream' length 185576 bytes (181 KB)
+==================================================
+downloaded 181 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/kernlab_0.9-32.tar.gz'
+Content type 'binary/octet-stream' length 2210505 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/LiblineaR_2.10-22.tar.gz'
+Content type 'binary/octet-stream' length 79118 bytes (77 KB)
+==================================================
+downloaded 77 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/apcluster_1.4.10.tar.gz'
+Content type 'binary/octet-stream' length 1532076 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/circlize_0.4.15.tar.gz'
+Content type 'binary/octet-stream' length 3301355 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/GetoptLong_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1064905 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/GlobalOptions_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 461511 bytes (450 KB)
+==================================================
+downloaded 450 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10_1.4.3.tar.gz'
+Content type 'application/gzip' length 649827309 bytes (619.7 MB)
+==================================================
+downloaded 619.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+Content type 'application/gzip' length 731245539 bytes (697.4 MB)
+==================================================
+downloaded 697.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/bamlss_1.1-9.tar.gz'
+Content type 'binary/octet-stream' length 5097121 bytes (4.9 MB)
+==================================================
+downloaded 4.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/BlandAltmanLeh_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 404664 bytes (395 KB)
+==================================================
+downloaded 395 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/covr_3.6.2.tar.gz'
+Content type 'binary/octet-stream' length 320286 bytes (312 KB)
+==================================================
+downloaded 312 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/universalmotif_1.16.0.tar.gz'
+Content type 'application/gzip' length 3653757 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/kebabs_1.32.0.tar.gz'
+Content type 'application/gzip' length 2396180 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ComplexHeatmap_2.14.0.tar.gz'
+Content type 'application/gzip' length 1458689 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/markdown_1.6.tar.gz'
+Content type 'binary/octet-stream' length 191234 bytes (186 KB)
+==================================================
+downloaded 186 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10.masked_1.4.3.tar.gz'
+Content type 'application/gzip' length 88806 bytes (86 KB)
+==================================================
+downloaded 86 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38.masked_1.4.5.tar.gz'
+Content type 'application/gzip' length 23618742 bytes (22.5 MB)
+==================================================
+downloaded 22.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/spiky_1.4.0.tar.gz'
+Content type 'application/gzip' length 15003949 bytes (14.3 MB)
+==================================================
+downloaded 14.3 MB
+
+* installing *binary* package ‘lazyeval’ ...
+* ‘lazyeval’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lazyeval’ as ‘lazyeval_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lazyeval)
+* installing *binary* package ‘shape’ ...
+* ‘shape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shape’ as ‘shape_1.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shape)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘Formula’ ...
+* ‘Formula’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Formula’ as ‘Formula_1.2-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Formula)
+* installing *binary* package ‘MBA’ ...
+* ‘MBA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MBA’ as ‘MBA_0.1-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MBA)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.6-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *binary* package ‘RcppThread’ ...
+* ‘RcppThread’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppThread’ as ‘RcppThread_2.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppThread)
+* installing *binary* package ‘kernlab’ ...
+* ‘kernlab’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kernlab’ as ‘kernlab_0.9-32_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kernlab)
+* installing *binary* package ‘LiblineaR’ ...
+* ‘LiblineaR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘LiblineaR’ as ‘LiblineaR_2.10-22_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LiblineaR)
+* installing *binary* package ‘apcluster’ ...
+* ‘apcluster’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘apcluster’ as ‘apcluster_1.4.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (apcluster)
+* installing *binary* package ‘GlobalOptions’ ...
+* ‘GlobalOptions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GlobalOptions’ as ‘GlobalOptions_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GlobalOptions)
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm10’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm10’ as ‘BSgenome.Mmusculus.UCSC.mm10_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm10)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38’ as ‘BSgenome.Hsapiens.UCSC.hg38_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38)
+* installing *binary* package ‘BlandAltmanLeh’ ...
+* ‘BlandAltmanLeh’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BlandAltmanLeh’ as ‘BlandAltmanLeh_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BlandAltmanLeh)
+* installing *binary* package ‘markdown’ ...
+* ‘markdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘markdown’ as ‘markdown_1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (markdown)
+* installing *binary* package ‘rex’ ...
+* ‘rex’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rex’ as ‘rex_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rex)
+* installing *binary* package ‘circlize’ ...
+* ‘circlize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘circlize’ as ‘circlize_0.4.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (circlize)
+* installing *binary* package ‘GetoptLong’ ...
+* ‘GetoptLong’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GetoptLong’ as ‘GetoptLong_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GetoptLong)
+* installing *binary* package ‘bamlss’ ...
+* ‘bamlss’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bamlss’ as ‘bamlss_1.1-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bamlss)
+* installing *source* package ‘universalmotif’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c add_multifreq.cpp -o add_multifreq.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c calc_complexity.cpp -o calc_complexity.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compare_motifs.cpp -o compare_motifs.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c get_bkg.cpp -o get_bkg.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c motif_finder.cpp -o motif_finder.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c motif_peaks.cpp -o motif_peaks.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c motif_pvalue.cpp -o motif_pvalue.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c scan_sequences.cpp -o scan_sequences.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c shuffle_sequences.cpp -o shuffle_sequences.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c trim_motifs.cpp -o trim_motifs.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c universalmotif-class.cpp -o universalmotif-class.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils-exported.cpp -o utils-exported.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppThread/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils-internal.cpp -o utils-internal.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o universalmotif.so RcppExports.o add_multifreq.o calc_complexity.o compare_motifs.o get_bkg.o motif_finder.o motif_peaks.o motif_pvalue.o scan_sequences.o shuffle_sequences.o trim_motifs.o universalmotif-class.o utils-exported.o utils-internal.o -L/usr/local/lib/R/lib -lR
+if test -e "/usr/bin/strip" & test -e "/bin/uname" & [[ `uname` == "Linux" ]] ; then /usr/bin/strip --strip-debug universalmotif.so; fi
+installing to /tmp/tmp/built/00LOCK-universalmotif/00new/universalmotif/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘convert_motifs’ with signature ‘motifs="MotifList"’: no definition for class “MotifList”
+in method for ‘convert_motifs’ with signature ‘motifs="TFFMFirst"’: no definition for class “TFFMFirst”
+in method for ‘convert_motifs’ with signature ‘motifs="PFMatrix"’: no definition for class “PFMatrix”
+in method for ‘convert_motifs’ with signature ‘motifs="PWMatrix"’: no definition for class “PWMatrix”
+in method for ‘convert_motifs’ with signature ‘motifs="ICMatrix"’: no definition for class “ICMatrix”
+in method for ‘convert_motifs’ with signature ‘motifs="XMatrixList"’: no definition for class “XMatrixList”
+in method for ‘convert_motifs’ with signature ‘motifs="pwm"’: no definition for class “pwm”
+in method for ‘convert_motifs’ with signature ‘motifs="pcm"’: no definition for class “pcm”
+in method for ‘convert_motifs’ with signature ‘motifs="pfm"’: no definition for class “pfm”
+in method for ‘convert_motifs’ with signature ‘motifs="PWM"’: no definition for class “PWM”
+in method for ‘convert_motifs’ with signature ‘motifs="Motif"’: no definition for class “Motif”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘universalmotif’ as ‘universalmotif_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (universalmotif)
+* installing *source* package ‘kebabs’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Biostrings_stubs.c -o Biostrings_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ByteStringVector.c -o ByteStringVector.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ExplicitRepC.cpp -o ExplicitRepC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FeatureWeightsPosDepC.cpp -o FeatureWeightsPosDepC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c GappyPairC.cpp -o GappyPairC.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c IRanges_stubs.c -o IRanges_stubs.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c KernelUtils.cpp -o KernelUtils.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MismatchC.cpp -o MismatchC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MotifC.cpp -o MotifC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c PredictionC.cpp -o PredictionC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c PredictionProfileC.cpp -o PredictionProfileC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_kebabs.cpp -o R_init_kebabs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rsvm.c -o Rsvm.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SparseMatrixHash.cpp -o SparseMatrixHash.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SpectrumC.cpp -o SpectrumC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SymmetricPairC.cpp -o SymmetricPairC.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Utils.cpp -o Utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c XVector_stubs.c -o XVector_stubs.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -DSTRICT_R_HEADERS -I'/tmp/tmp/built/IRanges/include' -I'/tmp/tmp/built/XVector/include' -I'/tmp/tmp/built/Biostrings/include' -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c svm.cpp -o svm.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o kebabs.so Biostrings_stubs.o ByteStringVector.o ExplicitRepC.o FeatureWeightsPosDepC.o GappyPairC.o IRanges_stubs.o KernelUtils.o MismatchC.o MotifC.o PredictionC.o PredictionProfileC.o R_init_kebabs.o Rsvm.o SparseMatrixHash.o SpectrumC.o SymmetricPairC.o Utils.o XVector_stubs.o svm.o -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-kebabs/00new/kebabs/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘kebabs’ as ‘kebabs_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kebabs)
+* installing *source* package ‘BSgenome.Mmusculus.UCSC.mm10.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Mmusculus.UCSC.mm10.masked’ as ‘BSgenome.Mmusculus.UCSC.mm10.masked_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Mmusculus.UCSC.mm10.masked)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38.masked’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38.masked’ as ‘BSgenome.Hsapiens.UCSC.hg38.masked_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38.masked)
+* installing *binary* package ‘covr’ ...
+* ‘covr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘covr’ as ‘covr_3.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (covr)
+* installing *source* package ‘ComplexHeatmap’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ComplexHeatmap’ as ‘ComplexHeatmap_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ComplexHeatmap)
+* installing *source* package ‘spiky’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘spiky’ as ‘spiky_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spiky)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRqKDtI/downloaded_packages’
+
+real	9m10.843s
+user	8m19.922s
+sys	0m28.845s
