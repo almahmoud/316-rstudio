@@ -710,9 +710,7 @@
     ],
     "pipeComp": [],
     "pram": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz",
         "VariantAnnotation",
@@ -766,7 +764,6 @@
     "RareVariantVis": [
         "VariantAnnotation"
     ],
-    "rCGH": [],
     "recount": [
         "GenomicFiles",
         "VariantAnnotation",
