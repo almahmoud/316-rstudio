@@ -117,7 +117,6 @@
         "BASiCS",
         "scran"
     ],
-    "batchelor": [],
     "BayesSpace": [
         "scater",
         "scran"
@@ -328,7 +327,6 @@
         "frma"
     ],
     "ChromSCape": [
-        "batchelor",
         "scater",
         "scran"
     ],
@@ -1239,7 +1237,6 @@
         "clusterProfiler"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -1723,7 +1720,6 @@
     "singleCellTK": [
         "DropletUtils",
         "TSCAN",
-        "batchelor",
         "celda",
         "ensembldb",
         "scDblFinder",
