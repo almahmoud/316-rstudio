@@ -199,7 +199,6 @@
     ],
     "Gviz": [],
     "gwascat": [],
-    "HelloRanges": [],
     "HiCDCPlus": [
         "GenomicInteractions",
         "Gviz"
@@ -319,9 +318,7 @@
         "Gviz"
     ],
     "omada": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "PING": [
         "Gviz"
     ],
