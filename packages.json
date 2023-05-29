@@ -1171,7 +1171,6 @@
         "VariantAnnotation"
     ],
     "scp": [],
-    "scPipe": [],
     "scruff": [
         "VariantAnnotation",
         "biovizBase",
