@@ -21,9 +21,7 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "APAlyzer": [
         "VariantAnnotation"
     ],
@@ -50,8 +48,7 @@
         "rGREAT"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
     "atSNP": [],
@@ -96,8 +93,7 @@
     "biscuiteer": [
         "VariantAnnotation",
         "annotatr",
-        "dmrseq",
-        "regioneR"
+        "dmrseq"
     ],
     "BitSeq": [],
     "BOBaFIT": [
@@ -174,9 +170,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -198,15 +192,13 @@
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "CNVrd2": [
         "VariantAnnotation"
@@ -246,16 +238,14 @@
     "CopyNumberPlots": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "crisprDesign": [
         "VariantAnnotation"
     ],
     "crisprseekplus": [
         "ChIPpeakAnno",
-        "GUIDEseq",
-        "regioneR"
+        "GUIDEseq"
     ],
     "crisprVerse": [
         "Gviz",
@@ -312,8 +302,7 @@
         "ggbio"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DiffBind": [],
     "diffUTR": [],
@@ -334,8 +323,7 @@
         "biovizBase"
     ],
     "dmrseq": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "DominoEffect": [
         "VariantAnnotation"
@@ -461,8 +449,7 @@
     ],
     "GRaNIE": [],
     "GUIDEseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "Gviz": [
         "VariantAnnotation",
@@ -529,8 +516,7 @@
     ],
     "karyoploteR": [
         "VariantAnnotation",
-        "biovizBase",
-        "regioneR"
+        "biovizBase"
     ],
     "katdetectr": [
         "VariantAnnotation"
@@ -672,8 +658,7 @@
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "mumosa": [],
     "MungeSumstats": [
@@ -696,7 +681,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "regioneR",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -802,13 +786,9 @@
     ],
     "recoup": [],
     "REDseq": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -827,9 +807,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "RgnTX": [
-        "regioneR"
-    ],
+    "RgnTX": [],
     "rGREAT": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
@@ -842,13 +820,10 @@
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
-        "karyoploteR",
-        "regioneR"
+        "karyoploteR"
     ],
     "RITAN": [],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
@@ -904,8 +879,7 @@
     "scDD": [],
     "scGPS": [],
     "scmeth": [
-        "annotatr",
-        "regioneR"
+        "annotatr"
     ],
     "scone": [],
     "SCOPE": [],
@@ -1070,9 +1044,7 @@
     "Ularcirc": [
         "Organism.dplyr"
     ],
-    "UMI4Cats": [
-        "regioneR"
-    ],
+    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "VariantAnnotation",
@@ -1107,8 +1079,7 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "regioneR"
+        "DiffBind"
     ],
     "wateRmelon": [
         "lumi",
