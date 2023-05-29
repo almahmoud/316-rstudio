@@ -59,7 +59,6 @@
     ],
     "ATACCoGAPS": [
         "motifmatchr",
-        "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -1046,7 +1045,6 @@
     "profileplyr": [
         "rGREAT"
     ],
-    "projectR": [],
     "pRoloc": [],
     "pRolocGUI": [
         "pRoloc"
