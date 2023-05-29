@@ -521,7 +521,6 @@
     ],
     "DEFormats": [],
     "DegNorm": [],
-    "DEGreport": [],
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
@@ -959,9 +958,7 @@
         "ensembldb",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [],
     "IVAS": [],
     "karyoploteR": [
