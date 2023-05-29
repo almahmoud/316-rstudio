@@ -418,9 +418,7 @@
         "regioneR"
     ],
     "CopywriteR": [],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "countsimQC": [],
     "cpvSNP": [],
     "crisprBowtie": [],
@@ -858,7 +856,6 @@
         "VariantTools",
         "gmapR"
     ],
-    "HTSFilter": [],
     "icetea": [
         "VariantAnnotation"
     ],
