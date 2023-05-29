@@ -381,9 +381,7 @@
     "fcScan": [
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi",
@@ -906,7 +904,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "TSCAN",
         "celda",
         "scDblFinder"
     ],
@@ -1008,7 +1005,6 @@
     "Travel": [],
     "traviz": [],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "tscR": [],
     "TVTB": [
         "Gviz",
