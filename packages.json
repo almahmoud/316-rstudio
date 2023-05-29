@@ -462,7 +462,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "fcoex": [],
     "fcScan": [
         "VariantAnnotation"
     ],
