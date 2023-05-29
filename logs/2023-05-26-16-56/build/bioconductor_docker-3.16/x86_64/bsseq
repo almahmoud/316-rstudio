@@ -1,0 +1,176 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''bsseq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'bsseq'
+also installing the dependencies ‘R.oo’, ‘R.methodsS3’, ‘BBmisc’, ‘sendmailR’, ‘gtools’, ‘R.utils’, ‘permute’, ‘bsseqData’, ‘BSgenome.Hsapiens.UCSC.hg38’, ‘BatchJobs’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.oo_1.25.0.tar.gz'
+Content type 'binary/octet-stream' length 954776 bytes (932 KB)
+==================================================
+downloaded 932 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 80411 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/BBmisc_1.13.tar.gz'
+Content type 'binary/octet-stream' length 304092 bytes (296 KB)
+==================================================
+downloaded 296 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/sendmailR_1.4-0.tar.gz'
+Content type 'binary/octet-stream' length 59279 bytes (57 KB)
+==================================================
+downloaded 57 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/gtools_3.9.4.tar.gz'
+Content type 'binary/octet-stream' length 352174 bytes (343 KB)
+==================================================
+downloaded 343 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/R.utils_2.12.2.tar.gz'
+Content type 'binary/octet-stream' length 1394432 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/permute_0.9-7.tar.gz'
+Content type 'binary/octet-stream' length 221669 bytes (216 KB)
+==================================================
+downloaded 216 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/bsseqData_0.36.0.tar.gz'
+Content type 'application/gzip' length 133872870 bytes (127.7 MB)
+==================================================
+downloaded 127.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+Content type 'application/gzip' length 731245539 bytes (697.4 MB)
+==================================================
+downloaded 697.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/BatchJobs_1.9.tar.gz'
+Content type 'binary/octet-stream' length 496338 bytes (484 KB)
+==================================================
+downloaded 484 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/bsseq_1.34.0.tar.gz'
+Content type 'application/gzip' length 2856556 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘BBmisc’ ...
+* ‘BBmisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BBmisc’ as ‘BBmisc_1.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BBmisc)
+* installing *binary* package ‘sendmailR’ ...
+* ‘sendmailR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sendmailR’ as ‘sendmailR_1.4-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sendmailR)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *binary* package ‘permute’ ...
+* ‘permute’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘permute’ as ‘permute_0.9-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (permute)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38’ as ‘BSgenome.Hsapiens.UCSC.hg38_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.25.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *binary* package ‘BatchJobs’ ...
+* ‘BatchJobs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BatchJobs’ as ‘BatchJobs_1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BatchJobs)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘bsseq’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/beachmat/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c check_M_and_Cov.cpp -o check_M_and_Cov.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/beachmat/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.cpp -o init.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/beachmat/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c utils.cpp -o utils.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bsseq.so check_M_and_Cov.o init.o utils.o -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-bsseq/00new/bsseq/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bsseq’ as ‘bsseq_1.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bsseq)
+* installing *source* package ‘bsseqData’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bsseqData’ as ‘bsseqData_0.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bsseqData)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6QbbBb/downloaded_packages’
+
+real	4m58.465s
+user	4m15.480s
+sys	0m13.987s
+* installing *source* package ‘bsseqData’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bsseqData’ as ‘bsseqData_0.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bsseqData)
