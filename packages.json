@@ -35,7 +35,6 @@
         "ggbio"
     ],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
@@ -95,9 +94,7 @@
     ],
     "CytoGLMM": [],
     "deconvR": [],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DMCFB": [],
@@ -212,9 +209,7 @@
         "yarn"
     ],
     "nullranges": [],
-    "ODER": [
-        "derfinder"
-    ],
+    "ODER": [],
     "OGRE": [],
     "omada": [],
     "OMICsPCA": [],
@@ -223,7 +218,6 @@
     "primirTSS": [],
     "PrInCE": [],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "Pviz": [],
@@ -233,14 +227,10 @@
     "R3CPET": [
         "ggbio"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [],
     "REDseq": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [],
     "ReportingTools": [
@@ -253,7 +243,6 @@
         "karyoploteR"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAmodR": [],
@@ -267,7 +256,6 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "recount"
     ],
     "RnBeads": [
