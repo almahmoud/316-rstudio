@@ -204,7 +204,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ChIPanalyser": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
