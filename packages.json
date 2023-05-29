@@ -183,7 +183,6 @@
         "TCGAutils"
     ],
     "celda": [],
-    "cellHTS2": [],
     "ChAMP": [
         "DMRcate",
         "DSS",
@@ -578,9 +577,7 @@
     "GenVisR": [
         "VariantAnnotation"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "ggbio": [
         "VariantAnnotation",
         "biovizBase",
@@ -656,9 +653,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "imageHTS": [
-        "cellHTS2"
-    ],
+    "imageHTS": [],
     "IMAS": [],
     "imcRtools": [
         "cytomapper"
@@ -1097,9 +1092,7 @@
     "rnaEditr": [
         "bumphunter"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "VariantAnnotation",
@@ -1278,9 +1271,7 @@
         "ensembldb"
     ],
     "standR": [],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "stJoincount": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
