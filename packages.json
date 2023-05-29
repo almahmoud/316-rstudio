@@ -173,22 +173,17 @@
     "pram": [],
     "primirTSS": [],
     "PrInCE": [],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "Pviz": [],
     "qrqc": [],
     "quantro": [],
     "R3CPET": [],
-    "recount": [],
     "recountmethylation": [],
     "regutools": [],
     "REMP": [],
     "RiboProfiling": [],
     "RIPAT": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -199,9 +194,7 @@
     "RNAmodR.RiboMethSeq": [
         "RNAmodR"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [
         "methylumi"
     ],
