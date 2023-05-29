@@ -945,7 +945,6 @@
     "msImpute": [
         "scran"
     ],
-    "MSPrep": [],
     "msqrob2": [],
     "multicrispr": [
         "VariantAnnotation",
