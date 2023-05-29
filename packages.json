@@ -398,7 +398,6 @@
         "slingshot"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq",
         "ensembldb"
     ],
@@ -485,9 +484,7 @@
         "VariantAnnotation",
         "bumphunter"
     ],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "dasper": [],
     "debrowser": [
         "clusterProfiler"
@@ -590,7 +587,6 @@
     "EasyCellType": [
         "clusterProfiler"
     ],
-    "EDASeq": [],
     "edge": [],
     "eegc": [
         "clusterProfiler"
@@ -745,7 +741,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "MLSeq"
     ],
     "gcapc": [],
@@ -1023,7 +1018,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "bsseq"
     ],
     "metavizr": [
@@ -1247,7 +1241,6 @@
     "nullranges": [],
     "NxtIRFcore": [],
     "octad": [
-        "EDASeq",
         "RUVSeq"
     ],
     "ODER": [
@@ -1467,7 +1460,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -1552,9 +1544,7 @@
         "TCGAutils"
     ],
     "rTRMui": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
@@ -1579,7 +1569,6 @@
         "regioneR"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -1764,7 +1753,6 @@
     ],
     "standR": [
         "DropletUtils",
-        "EDASeq",
         "RUVSeq",
         "SpatialExperiment"
     ],
