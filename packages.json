@@ -79,16 +79,11 @@
     "bandle": [
         "pRoloc"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "BASiCStan": [
-        "BASiCS",
-        "scran"
+        "BASiCS"
     ],
-    "BayesSpace": [
-        "scran"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -115,9 +110,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
@@ -198,9 +191,7 @@
         "TCGAutils"
     ],
     "celaref": [],
-    "celda": [
-        "scran"
-    ],
+    "celda": [],
     "cellHTS2": [],
     "CellMixS": [],
     "ChAMP": [
@@ -243,9 +234,7 @@
     "ChIPXpress": [
         "frma"
     ],
-    "ChromSCape": [
-        "scran"
-    ],
+    "ChromSCape": [],
     "cicero": [
         "Gviz",
         "VariantAnnotation",
@@ -259,9 +248,7 @@
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -309,9 +296,7 @@
         "ensembldb",
         "methylPipe"
     ],
-    "conclus": [
-        "scran"
-    ],
+    "conclus": [],
     "condiments": [
         "distinct",
         "slingshot"
@@ -434,9 +419,7 @@
     "diffUTR": [
         "ensembldb"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "distinct": [],
     "DMCFB": [],
     "DMRcate": [
@@ -570,8 +553,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "scran"
+        "ggbio"
     ],
     "flowCL": [],
     "FRASER": [
@@ -718,9 +700,7 @@
         "ggbio"
     ],
     "interactiveDisplay": [],
-    "IRISFGM": [
-        "scran"
-    ],
+    "IRISFGM": [],
     "iSEEhex": [],
     "iSEEu": [
         "iSEEhex"
@@ -921,9 +901,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "msqrob2": [],
     "multicrispr": [
         "VariantAnnotation",
@@ -933,9 +911,7 @@
         "regioneR"
     ],
     "multiSight": [],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
@@ -1015,9 +991,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [
-        "scran"
-    ],
+    "pipeComp": [],
     "pipeFrame": [],
     "plotgardener": [],
     "POMA": [],
@@ -1236,12 +1210,8 @@
     ],
     "scBFA": [],
     "scCB2": [],
-    "scDblFinder": [
-        "scran"
-    ],
-    "scDD": [
-        "scran"
-    ],
+    "scDblFinder": [],
+    "scDD": [],
     "scGPS": [],
     "scmeth": [
         "annotatr",
@@ -1257,7 +1227,6 @@
     ],
     "scp": [],
     "scPipe": [],
-    "scran": [],
     "scruff": [
         "VariantAnnotation",
         "biovizBase",
@@ -1270,8 +1239,7 @@
         "bumphunter",
         "ensembldb",
         "epivizr",
-        "epivizrData",
-        "scran"
+        "epivizrData"
     ],
     "segmenter": [],
     "selectKSigs": [],
@@ -1302,15 +1270,12 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "TSCAN",
         "celda",
         "ensembldb",
-        "scDblFinder",
-        "scran"
+        "scDblFinder"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -1338,9 +1303,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [
-        "scran"
-    ],
+    "Spaniel": [],
     "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
@@ -1352,9 +1315,7 @@
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
-    "spatialHeatmap": [
-        "scran"
-    ],
+    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
