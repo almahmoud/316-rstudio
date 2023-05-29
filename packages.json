@@ -22,9 +22,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
@@ -35,8 +33,7 @@
     "amplican": [],
     "Anaquin": [],
     "ANCOMBC": [
-        "mia",
-        "scater"
+        "mia"
     ],
     "AneuFinder": [],
     "AnnotationHubData": [
@@ -111,7 +108,6 @@
         "scran"
     ],
     "BayesSpace": [
-        "scater",
         "scran"
     ],
     "BBCAnalyzer": [
@@ -119,8 +115,7 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "mia",
-        "scater"
+        "mia"
     ],
     "bigmelon": [
         "bumphunter",
@@ -230,9 +225,7 @@
         "VariantAnnotation"
     ],
     "casper": [],
-    "CATALYST": [
-        "scater"
-    ],
+    "CATALYST": [],
     "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
@@ -246,16 +239,11 @@
     ],
     "celaref": [],
     "celda": [
-        "scater",
         "scran"
     ],
     "cellHTS2": [],
-    "CelliD": [
-        "scater"
-    ],
-    "CellMixS": [
-        "scater"
-    ],
+    "CelliD": [],
+    "CellMixS": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -307,7 +295,6 @@
         "frma"
     ],
     "ChromSCape": [
-        "scater",
         "scran"
     ],
     "chromVAR": [
@@ -384,12 +371,10 @@
     ],
     "conclus": [
         "clusterProfiler",
-        "scater",
         "scran"
     ],
     "condiments": [
         "distinct",
-        "scater",
         "slingshot"
     ],
     "consensusDE": [
@@ -532,9 +517,7 @@
     "Dino": [
         "scran"
     ],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "DMCFB": [],
     "DMRcate": [
         "DSS",
@@ -707,7 +690,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "scater",
         "scran"
     ],
     "flowCL": [],
@@ -885,7 +867,6 @@
     "IPO": [],
     "IRISFGM": [
         "clusterProfiler",
-        "scater",
         "scran"
     ],
     "iSEEhex": [],
@@ -1051,19 +1032,15 @@
         "bumphunter",
         "minfi"
     ],
-    "mia": [
-        "scater"
-    ],
+    "mia": [],
     "miaSim": [],
     "miaViz": [
-        "mia",
-        "scater"
+        "mia"
     ],
     "microbiomeExplorer": [],
     "microbiomeMarker": [
         "ANCOMBC",
-        "mia",
-        "scater"
+        "mia"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -1163,9 +1140,7 @@
     "MungeSumstats": [
         "VariantAnnotation"
     ],
-    "muscat": [
-        "scater"
-    ],
+    "muscat": [],
     "musicatk": [
         "VariantAnnotation",
         "decompTumor2Sig"
@@ -1199,8 +1174,7 @@
         "clusterProfiler"
     ],
     "netSmooth": [
-        "clusterExperiment",
-        "scater"
+        "clusterExperiment"
     ],
     "netZooR": [
         "bumphunter",
@@ -1250,9 +1224,7 @@
     "PathoStat": [],
     "pcaExplorer": [],
     "pdInfoBuilder": [],
-    "peco": [
-        "scater"
-    ],
+    "peco": [],
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler"
@@ -1269,7 +1241,6 @@
         "ensembldb"
     ],
     "pipeComp": [
-        "scater",
         "scran"
     ],
     "pipeFrame": [],
@@ -1511,14 +1482,12 @@
     "scanMiRApp": [
         "ensembldb"
     ],
-    "scater": [],
     "scBFA": [],
     "scCB2": [
         "DropletUtils"
     ],
     "scClassify": [],
     "scDblFinder": [
-        "scater",
         "scran"
     ],
     "scDD": [
@@ -1560,7 +1529,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "scater",
         "scran"
     ],
     "segmenter": [],
@@ -1607,7 +1575,6 @@
         "celda",
         "ensembldb",
         "scDblFinder",
-        "scater",
         "scran"
     ],
     "SingleMoleculeFootprinting": [
@@ -1641,7 +1608,6 @@
     ],
     "Spaniel": [
         "DropletUtils",
-        "scater",
         "scran"
     ],
     "SparseSignatures": [],
@@ -1661,7 +1627,6 @@
         "SpatialExperiment"
     ],
     "spatialHeatmap": [
-        "scater",
         "scran"
     ],
     "spatzie": [
@@ -1683,9 +1648,7 @@
         "SpatialExperiment"
     ],
     "spiky": [],
-    "splatter": [
-        "scater"
-    ],
+    "splatter": [],
     "SpliceWiz": [],
     "SplicingGraphs": [],
     "SPLINTER": [
@@ -1790,9 +1753,7 @@
     ],
     "trena": [],
     "TRESS": [],
-    "tricycle": [
-        "scater"
-    ],
+    "tricycle": [],
     "trigger": [],
     "tRNAscanImport": [],
     "TSCAN": [],
@@ -1825,9 +1786,7 @@
     "Uniquorn": [
         "VariantAnnotation"
     ],
-    "VAExprs": [
-        "scater"
-    ],
+    "VAExprs": [],
     "VanillaICE": [],
     "VarCon": [],
     "VariantAnnotation": [],
