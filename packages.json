@@ -55,9 +55,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "BASiCS": [],
     "BASiCStan": [
         "BASiCS"
@@ -717,10 +715,7 @@
     "profileplyr": [
         "rGREAT"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "proteasy": [],
     "ProteoDisco": [
         "VariantAnnotation"
