@@ -68,9 +68,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "biovizBase",
@@ -107,7 +105,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "Gviz",
         "biovizBase",
         "lumi",
@@ -210,9 +207,7 @@
         "minfi"
     ],
     "deepSNV": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -228,7 +223,6 @@
     "DiffBind": [],
     "DMCFB": [],
     "DMRcate": [
-        "DSS",
         "Gviz",
         "biovizBase",
         "methylumi",
@@ -243,7 +237,6 @@
         "annotatr"
     ],
     "DominoEffect": [],
-    "DSS": [],
     "ELMER": [
         "Gviz",
         "biovizBase"
@@ -373,9 +366,7 @@
         "biovizBase"
     ],
     "katdetectr": [],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "lineagespot": [],
     "lisaClust": [
         "spicyR"
@@ -418,17 +409,13 @@
     "MetaboSignal": [],
     "metagene": [],
     "metaMS": [],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "metavizr": [
         "epivizr",
         "epivizrData",
         "epivizrStandalone"
     ],
-    "MethCP": [
-        "DSS"
-    ],
+    "MethCP": [],
     "MethylAid": [
         "minfi"
     ],
@@ -448,9 +435,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "minfi"
     ],
