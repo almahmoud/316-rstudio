@@ -965,7 +965,6 @@
     ],
     "pipeComp": [],
     "pipeFrame": [],
-    "plotgardener": [],
     "POMA": [],
     "pram": [],
     "preciseTAD": [
@@ -1382,8 +1381,7 @@
         "ensembldb"
     ],
     "Ularcirc": [
-        "Organism.dplyr",
-        "plotgardener"
+        "Organism.dplyr"
     ],
     "UMI4Cats": [
         "regioneR"
