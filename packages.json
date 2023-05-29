@@ -817,7 +817,6 @@
         "wateRmelon"
     ],
     "meshes": [],
-    "meshr": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "ensembldb",
@@ -1303,9 +1302,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "scTensor": [
-        "meshr"
-    ],
+    "scTensor": [],
     "scTGIF": [],
     "scTreeViz": [
         "bumphunter",
