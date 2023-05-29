@@ -467,9 +467,7 @@
         "minfi"
     ],
     "minfi": [],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "miRSM": [],
     "missMethyl": [
@@ -771,7 +769,6 @@
         "biovizBase"
     ],
     "Uniquorn": [],
-    "VanillaICE": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
