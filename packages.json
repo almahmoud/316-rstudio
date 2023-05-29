@@ -341,9 +341,7 @@
     "katdetectr": [],
     "kissDE": [],
     "lineagespot": [],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LowMACA": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -639,7 +637,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "spicyR": [],
     "SPLINTER": [
         "Gviz",
         "biovizBase"
