@@ -790,7 +790,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "MatrixRider": [],
     "mCSEA": [
         "Gviz",
         "VariantAnnotation",
