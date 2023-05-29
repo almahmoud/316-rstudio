@@ -49,7 +49,6 @@
         "ggbio"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "derfinder",
         "derfinderPlot",
         "ggbio"
@@ -59,7 +58,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -114,9 +112,7 @@
         "Gviz",
         "methylPipe"
     ],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -142,11 +138,8 @@
     "DAMEfinder": [],
     "deconvR": [],
     "deepSNV": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -178,9 +171,7 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "EventPointer": [],
     "exomePeak2": [],
     "extraChIPs": [
@@ -204,7 +195,6 @@
     "GeneStructureTools": [
         "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -340,7 +330,6 @@
     ],
     "nullranges": [],
     "ODER": [
-        "GenomicFiles",
         "derfinder"
     ],
     "OGRE": [
@@ -363,7 +352,6 @@
     "pRolocGUI": [],
     "ProteoDisco": [],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -373,16 +361,13 @@
     ],
     "qrqc": [],
     "quantro": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
     "R453Plus1Toolbox": [],
     "RareVariantVis": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [],
@@ -390,7 +375,6 @@
         "ChIPpeakAnno"
     ],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -407,7 +391,6 @@
         "karyoploteR"
     ],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -427,16 +410,13 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "RTCGAToolbox": [],
     "scmeth": [],
     "scoreInvHap": [],
@@ -454,7 +434,6 @@
     "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "skewr": [
@@ -515,9 +494,7 @@
         "Gviz"
     ],
     "VariantTools": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "Voyager": [],
     "vtpnet": [
         "gwascat"
