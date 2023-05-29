@@ -208,7 +208,6 @@
         "CytoGLMM"
     ],
     "CytoGLMM": [],
-    "cytomapper": [],
     "dagLogo": [],
     "DAMEfinder": [],
     "decompTumor2Sig": [],
@@ -374,9 +373,7 @@
     "igvR": [],
     "imageHTS": [],
     "IMAS": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "intansv": [
         "biovizBase",
         "ggbio"
@@ -693,9 +690,7 @@
     "signeR": [],
     "signifinder": [],
     "SigsPack": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "celda",
