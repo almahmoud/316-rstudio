@@ -106,7 +106,6 @@
     "biscuiteer": [
         "VariantAnnotation",
         "annotatr",
-        "bsseq",
         "dmrseq",
         "regioneR"
     ],
@@ -118,8 +117,7 @@
         "ggbio"
     ],
     "borealis": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "brainflowprobes": [
         "GenomicFiles",
@@ -130,7 +128,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "bsseq": [],
     "BubbleTree": [
         "VariantAnnotation",
         "biovizBase",
@@ -179,7 +176,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "ensembldb",
         "lumi",
         "methylumi",
@@ -241,8 +237,7 @@
         "VariantAnnotation"
     ],
     "COCOA": [
-        "MIRA",
-        "bsseq"
+        "MIRA"
     ],
     "comapr": [
         "Gviz",
@@ -339,8 +334,7 @@
         "VariantAnnotation"
     ],
     "DeMixT": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "derfinder": [
         "GenomicFiles",
@@ -370,7 +364,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "bsseq",
         "ensembldb",
         "methylumi",
         "minfi",
@@ -384,7 +377,6 @@
     ],
     "dmrseq": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "DominoEffect": [
@@ -393,9 +385,7 @@
     "drugTargetInteractions": [
         "ensembldb"
     ],
-    "DSS": [
-        "bsseq"
-    ],
+    "DSS": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -620,8 +610,7 @@
         "VariantAnnotation"
     ],
     "kissDE": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "lineagespot": [
         "VariantAnnotation"
@@ -683,8 +672,7 @@
     ],
     "metaMS": [],
     "metaseqR2": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "metavizr": [
         "ensembldb",
@@ -693,14 +681,12 @@
         "epivizrStandalone"
     ],
     "MethCP": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "MethylAid": [
         "minfi"
     ],
     "methylCC": [
-        "bsseq",
         "minfi"
     ],
     "methylclock": [
@@ -721,8 +707,7 @@
     ],
     "MethylSeekR": [],
     "methylSig": [
-        "DSS",
-        "bsseq"
+        "DSS"
     ],
     "methylumi": [
         "minfi"
@@ -741,9 +726,7 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "MIRA": [
-        "bsseq"
-    ],
+    "MIRA": [],
     "miRLAB": [],
     "miRSM": [
         "miRspongeR"
@@ -810,9 +793,7 @@
         "regioneR",
         "trackViewer"
     ],
-    "NanoMethViz": [
-        "bsseq"
-    ],
+    "NanoMethViz": [],
     "NBSplice": [],
     "nearBynding": [],
     "NetActivity": [],
@@ -1052,7 +1033,6 @@
     "scGPS": [],
     "scmeth": [
         "annotatr",
-        "bsseq",
         "regioneR"
     ],
     "scone": [],
