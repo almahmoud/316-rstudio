@@ -1,0 +1,198 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''GUIDEseq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'GUIDEseq'
+also installing the dependencies ‘vroom’, ‘tzdb’, ‘rematch’, ‘forcats’, ‘readr’, ‘cellranger’, ‘VennDiagram’, ‘haven’, ‘readxl’, ‘ChIPpeakAnno’, ‘rio’, ‘openxlsx’, ‘patchwork’, ‘BSgenome.Hsapiens.UCSC.hg38’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/vroom_1.6.1.tar.gz'
+Content type 'binary/octet-stream' length 958604 bytes (936 KB)
+==================================================
+downloaded 936 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/tzdb_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 1569245 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rematch_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 11986 bytes (11 KB)
+==================================================
+downloaded 11 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/forcats_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 422487 bytes (412 KB)
+==================================================
+downloaded 412 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/readr_2.1.4.tar.gz'
+Content type 'binary/octet-stream' length 862922 bytes (842 KB)
+==================================================
+downloaded 842 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/cellranger_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 100641 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/VennDiagram_1.7.3.tar.gz'
+Content type 'binary/octet-stream' length 248343 bytes (242 KB)
+==================================================
+downloaded 242 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/haven_2.5.2.tar.gz'
+Content type 'binary/octet-stream' length 386954 bytes (377 KB)
+==================================================
+downloaded 377 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/readxl_1.4.2.tar.gz'
+Content type 'binary/octet-stream' length 875340 bytes (854 KB)
+==================================================
+downloaded 854 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ChIPpeakAnno_3.32.0.tar.gz'
+Content type 'application/gzip' length 19278211 bytes (18.4 MB)
+==================================================
+downloaded 18.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rio_0.5.29.tar.gz'
+Content type 'binary/octet-stream' length 538653 bytes (526 KB)
+==================================================
+downloaded 526 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/openxlsx_4.2.5.2.tar.gz'
+Content type 'binary/octet-stream' length 2010804 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/patchwork_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 3236080 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+Content type 'application/gzip' length 731245539 bytes (697.4 MB)
+==================================================
+downloaded 697.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GUIDEseq_1.28.0.tar.gz'
+Content type 'application/gzip' length 6138476 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘rematch’ ...
+* ‘rematch’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rematch’ as ‘rematch_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rematch)
+* installing *binary* package ‘forcats’ ...
+* ‘forcats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘forcats’ as ‘forcats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (forcats)
+* installing *binary* package ‘VennDiagram’ ...
+* ‘VennDiagram’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘VennDiagram’ as ‘VennDiagram_1.7.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (VennDiagram)
+* installing *binary* package ‘openxlsx’ ...
+* ‘openxlsx’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘openxlsx’ as ‘openxlsx_4.2.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (openxlsx)
+* installing *binary* package ‘patchwork’ ...
+* ‘patchwork’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘patchwork’ as ‘patchwork_1.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (patchwork)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg38’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg38’ as ‘BSgenome.Hsapiens.UCSC.hg38_1.4.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg38)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘cellranger’ ...
+* ‘cellranger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cellranger’ as ‘cellranger_1.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cellranger)
+* installing *source* package ‘ChIPpeakAnno’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ChIPpeakAnno’ as ‘ChIPpeakAnno_3.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ChIPpeakAnno)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *binary* package ‘readxl’ ...
+* ‘readxl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readxl’ as ‘readxl_1.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readxl)
+* installing *binary* package ‘haven’ ...
+* ‘haven’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘haven’ as ‘haven_2.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (haven)
+* installing *binary* package ‘rio’ ...
+* ‘rio’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rio’ as ‘rio_0.5.29_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rio)
+* installing *source* package ‘GUIDEseq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GUIDEseq’ as ‘GUIDEseq_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GUIDEseq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpM3zZhO/downloaded_packages’
+
+real	4m18.331s
+user	3m56.217s
+sys	0m10.970s

@@ -76,9 +76,7 @@
         "methylPipe"
     ],
     "CopyNumberPlots": [],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz"
     ],
@@ -124,7 +122,6 @@
         "ggbio"
     ],
     "ggbio": [],
-    "GUIDEseq": [],
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
