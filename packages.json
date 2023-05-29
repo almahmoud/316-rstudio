@@ -1,8 +1,6 @@
 {
     "a4": [],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "affycoretools": [
         "Glimma",
         "OrganismDbi",
@@ -1584,7 +1582,6 @@
     ],
     "slingshot": [],
     "SMITE": [],
-    "snapCGH": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
