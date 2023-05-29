@@ -14,7 +14,6 @@
     "alpine": [],
     "amplican": [],
     "AneuFinder": [],
-    "annotatr": [],
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -43,7 +42,6 @@
         "Gviz"
     ],
     "biscuiteer": [
-        "annotatr",
         "dmrseq"
     ],
     "BitSeq": [],
@@ -165,9 +163,7 @@
     "DMRforPairs": [
         "Gviz"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "ELMER": [
         "Gviz"
@@ -446,9 +442,7 @@
         "GenomicFiles"
     ],
     "RTCGAToolbox": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scoreInvHap": [],
     "scruff": [
         "ggbio"
