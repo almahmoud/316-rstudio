@@ -145,7 +145,6 @@
     "blacksheepr": [
         "DEXSeq"
     ],
-    "bnbc": [],
     "BOBaFIT": [
         "VariantAnnotation",
         "biovizBase",
