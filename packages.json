@@ -100,7 +100,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "bambu": [],
     "bandle": [
         "pRoloc"
     ],
@@ -735,7 +734,6 @@
         "DropletUtils",
         "OrganismDbi",
         "VariantAnnotation",
-        "bambu",
         "biovizBase",
         "ensembldb",
         "ggbio",
