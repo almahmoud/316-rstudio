@@ -479,7 +479,6 @@
         "bumphunter"
     ],
     "DaMiRseq": [],
-    "dasper": [],
     "debrowser": [
         "clusterProfiler"
     ],
@@ -1225,7 +1224,6 @@
         "GenomicFiles",
         "VariantAnnotation",
         "bumphunter",
-        "dasper",
         "derfinder"
     ],
     "OGRE": [
