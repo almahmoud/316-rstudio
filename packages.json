@@ -278,7 +278,6 @@
         "bsseq",
         "bumphunter",
         "ensembldb",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -807,7 +806,6 @@
     ],
     "GmicR": [],
     "gmoviz": [],
-    "goseq": [],
     "goSorensen": [
         "clusterProfiler"
     ],
@@ -880,7 +878,6 @@
         "CODEX"
     ],
     "ideal": [
-        "goseq",
         "pcaExplorer"
     ],
     "igvR": [
@@ -1456,9 +1453,7 @@
         "regioneR"
     ],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "Rhisat2": [
         "SGSeq"
     ],
@@ -1684,9 +1679,7 @@
         "wateRmelon"
     ],
     "slingshot": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [],
     "SNPhood": [
         "VariantAnnotation"
