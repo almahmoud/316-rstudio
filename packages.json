@@ -224,9 +224,7 @@
         "ggbio"
     ],
     "CAGEr": [],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [
         "VariantAnnotation"
@@ -1272,7 +1270,6 @@
     ],
     "phantasus": [],
     "phemd": [],
-    "phenoTest": [],
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler"
