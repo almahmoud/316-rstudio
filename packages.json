@@ -240,7 +240,6 @@
         "biovizBase"
     ],
     "fcScan": [],
-    "FEAST": [],
     "ffpe": [
         "lumi",
         "methylumi"
