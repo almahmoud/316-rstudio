@@ -62,13 +62,10 @@
     "ATACseqQC": [
         "ChIPpeakAnno",
         "ensembldb",
-        "motifStack",
         "regioneR"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -358,9 +355,7 @@
     ],
     "CytoGLMM": [],
     "cytomapper": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DAMEfinder": [
         "VariantAnnotation",
         "bumphunter"
@@ -710,8 +705,7 @@
     "LowMACA": [
         "RTCGAToolbox",
         "TCGAutils",
-        "cBioPortalData",
-        "motifStack"
+        "cBioPortalData"
     ],
     "lumi": [
         "bumphunter",
@@ -864,10 +858,8 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "ensembldb",
-        "motifStack"
+        "ensembldb"
     ],
-    "motifStack": [],
     "msgbsR": [
         "VariantAnnotation",
         "biovizBase",
@@ -905,7 +897,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "motifStack",
         "regioneR",
         "trackViewer"
     ],
@@ -1085,9 +1076,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "RIPAT": [
         "VariantAnnotation",
         "biovizBase",
