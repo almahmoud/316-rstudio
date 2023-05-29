@@ -140,7 +140,6 @@
     ],
     "CytoGLMM": [],
     "DAMEfinder": [],
-    "decompTumor2Sig": [],
     "deconvR": [],
     "deepSNV": [],
     "derfinder": [
@@ -326,9 +325,7 @@
         "karyoploteR"
     ],
     "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
+    "musicatk": [],
     "MutationalPatterns": [],
     "myvariant": [],
     "NADfinder": [
