@@ -49,7 +49,6 @@
     ],
     "ASpediaFI": [
         "Gviz",
-        "IVAS",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -721,9 +720,7 @@
     "imageHTS": [
         "cellHTS2"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "SpatialExperiment",
         "cytomapper"
@@ -749,7 +746,6 @@
     ],
     "isomiRs": [],
     "ITALICS": [],
-    "IVAS": [],
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
