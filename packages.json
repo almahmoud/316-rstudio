@@ -224,9 +224,7 @@
         "methylPipe"
     ],
     "conclus": [],
-    "condiments": [
-        "slingshot"
-    ],
+    "condiments": [],
     "consensusDE": [],
     "contiBAIT": [
         "GenomicFiles",
@@ -931,7 +929,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [],
     "SNPhood": [
         "VariantAnnotation"
@@ -1017,15 +1014,11 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "TraRe": [],
     "Travel": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "tRNAscanImport": [],
     "TSCAN": [],
     "tscR": [],
