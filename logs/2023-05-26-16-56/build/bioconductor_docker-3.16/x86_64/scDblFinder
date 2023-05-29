@@ -178,8 +178,8 @@ packaged installation of ‘mbkmeans’ as ‘mbkmeans_1.14.0_R_x86_64-pc-linux-
 * DONE (mbkmeans)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp6VZMbE/downloaded_packages’
+	‘/tmp/RtmpvaYEde/downloaded_packages’
 
-real	2m20.418s
-user	2m2.061s
-sys	0m7.948s
+real	1m53.415s
+user	1m41.166s
+sys	0m6.484s
