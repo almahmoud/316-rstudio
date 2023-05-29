@@ -1114,7 +1114,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "RNASeqR": [],
     "RnaSeqSampleSize": [
         "GenomicFiles",
         "VariantAnnotation",
