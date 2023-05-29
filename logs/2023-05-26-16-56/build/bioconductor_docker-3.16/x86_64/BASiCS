@@ -1,0 +1,124 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''BASiCS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'BASiCS'
+also installing the dependencies ‘colourpicker’, ‘shinyjs’, ‘coda’, ‘cowplot’, ‘ggExtra’, ‘assertthat’, ‘hexbin’, ‘magick’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/colourpicker_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 1289581 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/shinyjs_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 1082708 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/cowplot_1.1.1.tar.gz'
+Content type 'binary/octet-stream' length 1376676 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/ggExtra_0.10.0.tar.gz'
+Content type 'binary/octet-stream' length 353744 bytes (345 KB)
+==================================================
+downloaded 345 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/assertthat_0.2.1.tar.gz'
+Content type 'binary/octet-stream' length 52507 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/hexbin_1.28.3.tar.gz'
+Content type 'binary/octet-stream' length 1593807 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/magick_2.7.4.tar.gz'
+Content type 'binary/octet-stream' length 5156724 bytes (4.9 MB)
+==================================================
+downloaded 4.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BASiCS_2.10.5.tar.gz'
+Content type 'application/gzip' length 3239484 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+* installing *binary* package ‘shinyjs’ ...
+* ‘shinyjs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shinyjs’ as ‘shinyjs_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shinyjs)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘cowplot’ ...
+* ‘cowplot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cowplot’ as ‘cowplot_1.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cowplot)
+* installing *binary* package ‘assertthat’ ...
+* ‘assertthat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘assertthat’ as ‘assertthat_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (assertthat)
+* installing *binary* package ‘hexbin’ ...
+* ‘hexbin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hexbin’ as ‘hexbin_1.28.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hexbin)
+* installing *binary* package ‘magick’ ...
+* ‘magick’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘magick’ as ‘magick_2.7.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (magick)
+* installing *binary* package ‘colourpicker’ ...
+* ‘colourpicker’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colourpicker’ as ‘colourpicker_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colourpicker)
+* installing *binary* package ‘ggExtra’ ...
+* ‘ggExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggExtra’ as ‘ggExtra_0.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggExtra)
+* installing *source* package ‘BASiCS’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppArmadillo/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BASiCS.cpp -o BASiCS.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/tmp/tmp/built/RcppArmadillo/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BASiCS.so BASiCS.o RcppExports.o -llapack -lblas -lgfortran -lm -lquadmath -fopenmp -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-BASiCS/00new/BASiCS/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BASiCS’ as ‘BASiCS_2.10.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BASiCS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpmTGtUF/downloaded_packages’
+
+real	1m20.280s
+user	1m8.638s
+sys	0m4.120s
