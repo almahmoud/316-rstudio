@@ -661,7 +661,6 @@
         "ensembldb",
         "tximeta"
     ],
-    "isomiRs": [],
     "karyoploteR": [
         "VariantAnnotation",
         "biovizBase",
