@@ -137,12 +137,10 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "celda": [],
     "ChAMP": [
@@ -519,7 +517,6 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "lumi": [
@@ -846,9 +843,7 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "scanMiRApp": [],
     "scDblFinder": [],
     "scDD": [],
@@ -965,11 +960,8 @@
         "VariantAnnotation",
         "biovizBase"
     ],
-    "TCGAutils": [],
     "TDARACNE": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFHAZ": [],
     "timeOmics": [],
     "TitanCNA": [
