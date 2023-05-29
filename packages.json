@@ -654,7 +654,6 @@
         "ggbio"
     ],
     "msImpute": [],
-    "msqrob2": [],
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
