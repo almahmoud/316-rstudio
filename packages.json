@@ -343,7 +343,6 @@
     ],
     "coseq": [],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprBowtie"
