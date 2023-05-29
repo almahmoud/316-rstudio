@@ -650,7 +650,6 @@
         "methylumi",
         "minfi"
     ],
-    "MAIT": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
