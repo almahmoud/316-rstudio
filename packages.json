@@ -16,7 +16,6 @@
     ],
     "alpine": [],
     "amplican": [],
-    "ANCOMBC": [],
     "AneuFinder": [],
     "annotatr": [],
     "APAlyzer": [],
@@ -45,9 +44,7 @@
     "bandle": [],
     "BASiCStan": [],
     "BBCAnalyzer": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "bigmelon": [
         "lumi",
         "methylumi",
@@ -475,9 +472,7 @@
         "minfi"
     ],
     "miaViz": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MineICA": [
         "lumi",
         "methylumi",
