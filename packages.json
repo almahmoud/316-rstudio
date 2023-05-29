@@ -539,7 +539,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "ribosomeProfilingQC": [],
     "RIPAT": [
         "biovizBase",
         "karyoploteR"
