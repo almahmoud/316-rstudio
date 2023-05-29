@@ -58,7 +58,6 @@
         "ensembldb"
     ],
     "ATACCoGAPS": [
-        "motifmatchr",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -67,9 +66,7 @@
         "motifStack",
         "regioneR"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -462,15 +459,12 @@
         "biovizBase",
         "ensembldb"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "bumphunter",
         "minfi"
     ],
     "enrichTF": [
-        "motifmatchr",
         "pipeFrame"
     ],
     "ensembldb": [],
@@ -516,7 +510,6 @@
         "VariantAnnotation"
     ],
     "esATAC": [
-        "motifmatchr",
         "pipeFrame"
     ],
     "EventPointer": [],
@@ -893,7 +886,6 @@
         "ensembldb",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "msgbsR": [
         "VariantAnnotation",
@@ -977,9 +969,7 @@
     ],
     "Organism.dplyr": [],
     "OUTRIDER": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [],
     "PathoStat": [],
     "pcaExplorer": [],
@@ -1321,8 +1311,7 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "ensembldb",
-        "motifmatchr"
+        "ensembldb"
     ],
     "SpectralTAD": [],
     "SPIAT": [
