@@ -141,9 +141,7 @@
     "HiContacts": [
         "GenomicInteractions"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "iCheck": [
         "lumi",
         "methylumi"
@@ -195,9 +193,7 @@
         "methylumi"
     ],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "motifbreakR": [],
     "msgbsR": [
         "ggbio"
@@ -319,7 +315,6 @@
     "TVTB": [],
     "uncoverappLib": [],
     "VariantFiltering": [],
-    "VariantTools": [],
     "VCFArray": [],
     "Voyager": [],
     "vtpnet": [],
