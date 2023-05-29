@@ -661,10 +661,7 @@
     ],
     "interactiveDisplay": [],
     "IRISFGM": [],
-    "iSEEhex": [],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "ensembldb",
         "tximeta"
