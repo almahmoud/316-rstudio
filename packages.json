@@ -189,7 +189,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [
         "VariantAnnotation"
