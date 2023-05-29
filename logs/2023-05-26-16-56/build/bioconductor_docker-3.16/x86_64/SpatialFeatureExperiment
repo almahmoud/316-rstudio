@@ -1,0 +1,114 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''SpatialFeatureExperiment'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'SpatialFeatureExperiment'
+also installing the dependencies ‘spData’, ‘deldir’, ‘sp’, ‘spdep’, ‘SFEData’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/spData_2.2.2.tar.gz'
+Content type 'binary/octet-stream' length 4023883 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/deldir_1.0-6.tar.gz'
+Content type 'binary/octet-stream' length 306171 bytes (298 KB)
+==================================================
+downloaded 298 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/sp_1.6-0.tar.gz'
+Content type 'binary/octet-stream' length 1809441 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/spdep_1.2-8.tar.gz'
+Content type 'binary/octet-stream' length 4727060 bytes (4.5 MB)
+==================================================
+downloaded 4.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/SFEData_1.0.2.tar.gz'
+Content type 'application/gzip' length 236708 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/SpatialFeatureExperiment_1.0.3.tar.gz'
+Content type 'application/gzip' length 2166343 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *binary* package ‘deldir’ ...
+* ‘deldir’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘deldir’ as ‘deldir_1.0-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (deldir)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.6-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *source* package ‘SFEData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+Warning: /tmp/Rtmp63W5Ot/R.INSTALL5a4590264d1/SFEData/man/SFEData.Rd:36: unexpected macro '\link', expecting '{'
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SFEData’ as ‘SFEData_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SFEData)
+* installing *binary* package ‘spData’ ...
+* ‘spData’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spData’ as ‘spData_2.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spData)
+* installing *binary* package ‘spdep’ ...
+* ‘spdep’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spdep’ as ‘spdep_1.2-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spdep)
+* installing *source* package ‘SpatialFeatureExperiment’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SpatialFeatureExperiment’ as ‘SpatialFeatureExperiment_1.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SpatialFeatureExperiment)
+
+The downloaded source packages are in
+	‘/tmp/RtmplQq41j/downloaded_packages’
+
+real	0m58.638s
+user	0m48.303s
+sys	0m3.419s
+* installing *source* package ‘SFEData’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+Warning: /tmp/RtmpeFW09x/R.INSTALL658632eb45b/SFEData/man/SFEData.Rd:36: unexpected macro '\link', expecting '{'
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SFEData’ as ‘SFEData_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SFEData)
