@@ -811,7 +811,6 @@
         "ensembldb"
     ],
     "omada": [],
-    "omicRexposome": [],
     "OMICsPCA": [
         "HelloRanges",
         "VariantAnnotation"
