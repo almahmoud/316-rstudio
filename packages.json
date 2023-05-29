@@ -1346,7 +1346,6 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "OrganismDbi",
         "VariantAnnotation",
