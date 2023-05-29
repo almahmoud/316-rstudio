@@ -1039,7 +1039,6 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "vidger": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
