@@ -470,7 +470,6 @@
     "OMICsPCA": [
         "HelloRanges"
     ],
-    "pageRank": [],
     "PING": [
         "Gviz",
         "biovizBase"
