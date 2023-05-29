@@ -246,16 +246,10 @@
         "biovizBase",
         "minfi"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "GenomicFiles"
@@ -397,7 +391,6 @@
     "metaseqR2": [],
     "metavizr": [
         "epivizr",
-        "epivizrData",
         "epivizrStandalone"
     ],
     "MethCP": [],
@@ -627,8 +620,7 @@
     ],
     "scTensor": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "seqCAT": [],
     "shinyepico": [
