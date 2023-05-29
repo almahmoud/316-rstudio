@@ -1047,7 +1047,6 @@
     "RTCGAToolbox": [
         "TCGAutils"
     ],
-    "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
     ],
