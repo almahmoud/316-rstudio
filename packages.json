@@ -101,7 +101,6 @@
     "ENmix": [],
     "epihet": [],
     "epimutacions": [],
-    "epivizrStandalone": [],
     "EventPointer": [],
     "exomePeak2": [],
     "extraChIPs": [
@@ -159,9 +158,7 @@
         "wateRmelon"
     ],
     "metaMS": [],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
