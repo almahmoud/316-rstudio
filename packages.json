@@ -105,7 +105,6 @@
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
-    "celda": [],
     "ChAMP": [
         "DMRcate",
         "DSS",
@@ -681,7 +680,6 @@
     "simpleSeg": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "celda",
         "scDblFinder"
     ],
     "SingleMoleculeFootprinting": [
