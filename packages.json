@@ -311,7 +311,6 @@
         "DiffBind",
         "GreyListChIP"
     ],
-    "ChIPseeker": [],
     "ChIPXpress": [
         "frma"
     ],
@@ -632,7 +631,6 @@
     ],
     "EpiCompare": [
         "BRGenomics",
-        "ChIPseeker",
         "genomation"
     ],
     "epigraHMM": [
@@ -680,7 +678,6 @@
         "VariantAnnotation"
     ],
     "esATAC": [
-        "ChIPseeker",
         "TFBSTools",
         "clusterProfiler",
         "motifmatchr",
@@ -1351,7 +1348,6 @@
     "proBAMr": [],
     "proBatch": [],
     "profileplyr": [
-        "ChIPseeker",
         "rGREAT",
         "soGGi"
     ],
@@ -1636,9 +1632,7 @@
         "scater",
         "scran"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [
         "HiLDA"
     ],
