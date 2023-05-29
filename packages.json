@@ -129,7 +129,6 @@
         "DiffBind"
     ],
     "ChIPXpress": [],
-    "ChromSCape": [],
     "cicero": [
         "Gviz",
         "biovizBase"
