@@ -745,7 +745,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "GeneTonic": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
