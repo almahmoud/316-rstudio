@@ -155,7 +155,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BioNERO": [],
     "BioTIP": [
         "scran"
     ],
@@ -228,7 +227,6 @@
         "ensembldb"
     ],
     "cageminer": [
-        "BioNERO",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
