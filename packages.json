@@ -186,7 +186,6 @@
     "Pviz": [],
     "qrqc": [],
     "quantro": [],
-    "QuasR": [],
     "R3CPET": [],
     "recount": [],
     "recountmethylation": [],
@@ -221,9 +220,7 @@
     "scTreeViz": [],
     "shinyepico": [],
     "shinyMethyl": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "methylumi",
