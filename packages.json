@@ -130,7 +130,6 @@
     "circRNAprofiler": [
         "gwascat"
     ],
-    "CircSeqAlignTk": [],
     "CiteFuse": [],
     "CNVfilteR": [
         "CopyNumberPlots",
