@@ -303,7 +303,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "coseq": [],
     "crisprBowtie": [],
     "crisprDesign": [
         "VariantAnnotation",
