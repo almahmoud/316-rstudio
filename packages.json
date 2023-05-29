@@ -180,7 +180,6 @@
         "ggbio"
     ],
     "ggbio": [],
-    "gmapR": [],
     "GUIDEseq": [],
     "Gviz": [],
     "HiCDCPlus": [
@@ -192,8 +191,7 @@
         "Gviz"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "iCheck": [
         "lumi",
@@ -259,8 +257,7 @@
     ],
     "mitoClone2": [],
     "MMAPPR2": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "motifbreakR": [
         "Gviz"
