@@ -384,7 +384,6 @@
         "methylumi",
         "minfi"
     ],
-    "flagme": [],
     "FLAMES": [
         "VariantAnnotation",
         "biovizBase",
