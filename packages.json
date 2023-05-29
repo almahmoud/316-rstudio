@@ -240,7 +240,6 @@
     "enrichTF": [],
     "ensemblVEP": [],
     "epialleleR": [],
-    "epigraHMM": [],
     "epihet": [],
     "epimutacions": [
         "Gviz",
