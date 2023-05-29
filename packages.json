@@ -289,7 +289,6 @@
     ],
     "clipper": [],
     "cliProfiler": [],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "cn.farms": [],
     "CNVfilteR": [
@@ -1094,9 +1093,7 @@
     "netboxr": [
         "clusterProfiler"
     ],
-    "netSmooth": [
-        "clusterExperiment"
-    ],
+    "netSmooth": [],
     "netZooR": [
         "bumphunter",
         "minfi",
