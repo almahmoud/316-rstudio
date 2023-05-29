@@ -350,9 +350,7 @@
         "VariantAnnotation",
         "crisprBowtie"
     ],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "GUIDEseq",
         "ensembldb",
@@ -660,7 +658,6 @@
     "GreyListChIP": [],
     "GSReg": [],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "ensembldb",
         "regioneR"
@@ -967,7 +964,6 @@
     "MSPrep": [],
     "msqrob2": [],
     "multicrispr": [
-        "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
