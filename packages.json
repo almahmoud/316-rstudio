@@ -77,7 +77,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "OrganismDbi",
         "TFBSTools",
@@ -1865,9 +1864,7 @@
     "systemPipeTools": [],
     "TADCompare": [],
     "TAPseq": [],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [],
     "TCGAbiolinksGUI": [
         "ELMER",
