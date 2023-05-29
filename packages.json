@@ -66,21 +66,17 @@
     "circRNAprofiler": [],
     "CiteFuse": [],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "comapr": [],
     "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "crisprseekplus": [
         "GUIDEseq"
     ],
@@ -145,7 +141,6 @@
         "ggbio"
     ],
     "IsoformSwitchAnalyzeR": [],
-    "karyoploteR": [],
     "LowMACA": [
         "cBioPortalData"
     ],
@@ -193,9 +188,7 @@
     "msgbsR": [
         "ggbio"
     ],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "MungeSumstats": [],
     "musicatk": [],
     "NADfinder": [
@@ -238,9 +231,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "RNAAgeCalc": [
         "recount"
     ],
