@@ -1016,7 +1016,6 @@
         "HelloRanges",
         "VariantAnnotation"
     ],
-    "ORFik": [],
     "Organism.dplyr": [],
     "OUTRIDER": [],
     "pageRank": [
@@ -1161,9 +1160,7 @@
     "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
-    "RiboCrypt": [
-        "ORFik"
-    ],
+    "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
         "VariantAnnotation",
@@ -1455,9 +1452,7 @@
         "TCGAutils"
     ],
     "TFEA.ChIP": [],
-    "TFHAZ": [
-        "ORFik"
-    ],
+    "TFHAZ": [],
     "timeOmics": [],
     "TimiRGeN": [],
     "TitanCNA": [
