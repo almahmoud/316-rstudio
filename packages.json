@@ -604,7 +604,6 @@
     "HelloRanges": [
         "VariantAnnotation"
     ],
-    "hermes": [],
     "hiAnnotator": [],
     "HiCDCPlus": [
         "GenomicInteractions",
