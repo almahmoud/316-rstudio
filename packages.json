@@ -396,9 +396,7 @@
     "ENmix": [
         "minfi"
     ],
-    "enrichTF": [
-        "pipeFrame"
-    ],
+    "enrichTF": [],
     "ensembldb": [],
     "ensemblVEP": [
         "VariantAnnotation"
@@ -436,9 +434,7 @@
         "GenomicFiles",
         "VariantAnnotation"
     ],
-    "esATAC": [
-        "pipeFrame"
-    ],
+    "esATAC": [],
     "EventPointer": [],
     "exomePeak2": [],
     "ExperimentHubData": [
@@ -828,7 +824,6 @@
         "ensembldb"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "pram": [],
     "preciseTAD": [
         "rCGH"
