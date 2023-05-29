@@ -104,7 +104,6 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [],
     "bambu": [],
     "bandle": [
         "pRoloc"
@@ -1581,7 +1580,6 @@
         "ensembldb"
     ],
     "RNASeqR": [
-        "ballgown",
         "clusterProfiler"
     ],
     "RnaSeqSampleSize": [
@@ -1952,9 +1950,7 @@
     "VariantTools": [
         "VariantAnnotation"
     ],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles",
         "VariantAnnotation"
