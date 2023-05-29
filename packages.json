@@ -163,11 +163,8 @@
     "epimutacions": [
         "Gviz"
     ],
-    "epivizr": [],
     "epivizrChart": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "EventPointer": [],
     "exomePeak2": [],
@@ -267,7 +264,6 @@
     "metaMS": [],
     "metaseqR2": [],
     "metavizr": [
-        "epivizr",
         "epivizrStandalone"
     ],
     "MethCP": [],
@@ -416,9 +412,7 @@
     "scruff": [
         "ggbio"
     ],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "seqCAT": [],
     "shinyepico": [],
     "shinyMethyl": [],
