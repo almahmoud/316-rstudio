@@ -35,9 +35,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "ATACCoGAPS": [
-        "rGREAT"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [
         "ChIPpeakAnno"
     ],
@@ -574,9 +572,7 @@
         "biovizBase"
     ],
     "PrInCE": [],
-    "profileplyr": [
-        "rGREAT"
-    ],
+    "profileplyr": [],
     "pRolocGUI": [],
     "proteasy": [],
     "ProteoDisco": [],
@@ -633,7 +629,6 @@
         "ggbio"
     ],
     "RgnTX": [],
-    "rGREAT": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
