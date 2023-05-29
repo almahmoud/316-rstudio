@@ -137,7 +137,6 @@
     "CytoGLMM": [],
     "DAMEfinder": [],
     "deconvR": [],
-    "deepSNV": [],
     "derfinder": [],
     "derfinderPlot": [
         "derfinder",
@@ -294,9 +293,7 @@
     "missMethyl": [
         "methylumi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
         "gmapR"
