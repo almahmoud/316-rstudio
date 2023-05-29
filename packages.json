@@ -249,7 +249,6 @@
         "ensembldb"
     ],
     "ChIPanalyser": [],
-    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
