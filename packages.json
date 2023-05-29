@@ -312,9 +312,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "karyoploteR": [
         "biovizBase"
     ],
@@ -618,7 +616,6 @@
         "biovizBase",
         "ensemblVEP"
     ],
-    "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
