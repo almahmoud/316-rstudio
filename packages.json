@@ -1247,8 +1247,7 @@
     ],
     "PrInCE": [],
     "profileplyr": [
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "projectR": [],
     "pRoloc": [],
@@ -1572,7 +1571,6 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "sojourner": [],
     "SomaticSignatures": [
         "OrganismDbi",
