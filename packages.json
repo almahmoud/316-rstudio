@@ -669,9 +669,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "HiContacts": [
         "GenomicInteractions",
         "Gviz",
@@ -934,7 +932,6 @@
         "karyoploteR",
         "regioneR"
     ],
-    "multiHiCcompare": [],
     "multiSight": [],
     "mumosa": [
         "scran"
