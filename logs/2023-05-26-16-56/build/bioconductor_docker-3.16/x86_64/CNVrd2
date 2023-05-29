@@ -1,0 +1,57 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''CNVrd2'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'CNVrd2'
+also installing the dependencies ‘coda’, ‘rjags’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rjags_4-13.tar.gz'
+Content type 'binary/octet-stream' length 387276 bytes (378 KB)
+==================================================
+downloaded 378 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/CNVrd2_1.36.0.tar.gz'
+Content type 'application/gzip' length 2652667 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘rjags’ ...
+* ‘rjags’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rjags’ as ‘rjags_4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rjags)
+* installing *source* package ‘CNVrd2’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CNVrd2’ as ‘CNVrd2_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CNVrd2)
+
+The downloaded source packages are in
+	‘/tmp/RtmpeAzIu9/downloaded_packages’
+
+real	0m48.724s
+user	0m41.629s
+sys	0m2.449s
