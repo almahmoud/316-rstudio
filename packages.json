@@ -21,7 +21,6 @@
     "amplican": [],
     "ANCOMBC": [],
     "AneuFinder": [],
-    "AnnotationHubData": [],
     "annotatr": [
         "regioneR"
     ],
@@ -387,9 +386,7 @@
     "esATAC": [],
     "EventPointer": [],
     "exomePeak2": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
@@ -614,7 +611,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "minfi"
     ],
