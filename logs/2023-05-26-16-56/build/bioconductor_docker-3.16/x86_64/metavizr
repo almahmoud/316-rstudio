@@ -1,0 +1,126 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''metavizr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'metavizr'
+also installing the dependencies ‘msd16s’, ‘etec16s’, ‘ExperimentHub’
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/msd16s_1.18.0.tar.gz'
+Content type 'application/gzip' length 1819655 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/etec16s_1.26.0.tar.gz'
+Content type 'application/gzip' length 240175 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ExperimentHub_2.6.0.tar.gz'
+Content type 'application/gzip' length 244618 bytes (238 KB)
+==================================================
+downloaded 238 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/metavizr_1.21.0.tar.gz'
+Content type 'application/gzip' length 1585709 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+* installing *source* package ‘msd16s’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msd16s’ as ‘msd16s_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msd16s)
+* installing *source* package ‘etec16s’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘etec16s’ as ‘etec16s_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (etec16s)
+* installing *source* package ‘ExperimentHub’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ExperimentHub’ as ‘ExperimentHub_2.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ExperimentHub)
+* installing *source* package ‘metavizr’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘metavizr’ as ‘metavizr_1.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (metavizr)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpni2ku1/downloaded_packages’
+
+real	1m35.623s
+user	1m21.461s
+sys	0m5.914s
+* installing *source* package ‘etec16s’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘etec16s’ as ‘etec16s_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (etec16s)
+* installing *source* package ‘msd16s’ ...
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘msd16s’ as ‘msd16s_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msd16s)
