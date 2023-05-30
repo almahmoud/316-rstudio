@@ -92,7 +92,6 @@
     "funtooNorm": [],
     "GeneStructureTools": [],
     "GenomicInteractions": [],
-    "GenomicOZone": [],
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
