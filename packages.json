@@ -18,9 +18,7 @@
     "BOBaFIT": [],
     "brainflowprobes": [],
     "CAFE": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [],
     "CancerInSilico": [],
     "cbaf": [
@@ -63,21 +61,14 @@
     "epihet": [],
     "EventPointer": [],
     "exomePeak2": [],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "ffpe": [],
     "FLAMES": [],
     "flowCL": [],
     "funtooNorm": [],
     "GeneStructureTools": [],
-    "GenomicInteractions": [],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
-    "HiContacts": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
+    "HiContacts": [],
     "HTSeqGenie": [],
     "iCheck": [],
     "LowMACA": [
@@ -116,9 +107,7 @@
         "wateRmelon"
     ],
     "sojourner": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "TCGAbiolinksGUI": [
         "ELMER"
     ],
