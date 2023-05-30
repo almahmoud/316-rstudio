@@ -21,9 +21,7 @@
     "CiteFuse": [],
     "CNVfilteR": [],
     "CNViz": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "crisprVerse": [],
     "CyTOFpower": [
         "CytoGLMM"
@@ -51,7 +49,6 @@
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [],
-    "methylPipe": [],
     "MineICA": [],
     "MungeSumstats": [],
     "NBSplice": [],
