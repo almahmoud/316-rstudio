@@ -4,15 +4,11 @@
     "AneuFinder": [],
     "ArrayExpressHTS": [],
     "ASpediaFI": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "BitSeq": [],
     "CAGEfightR": [],
     "CancerInSilico": [],
-    "ChAMP": [
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "ChIC": [],
     "CiteFuse": [],
     "CyTOFpower": [
@@ -25,23 +21,18 @@
     "exomePeak2": [],
     "ffpe": [],
     "flowCL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MungeSumstats": [],
     "NBSplice": [],
     "nullranges": [],
     "omada": [],
     "pram": [],
     "PrInCE": [],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sojourner": [],
     "TDARACNE": [],
     "timeOmics": [],
     "TraRe": [],
     "Travel": [],
-    "tscR": [],
-    "wateRmelon": []
+    "tscR": []
 }
