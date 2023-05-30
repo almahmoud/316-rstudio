@@ -5,13 +5,10 @@
     "amplican": [],
     "AneuFinder": [],
     "ArrayExpressHTS": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpediaFI": [],
     "ASpli": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -32,7 +29,6 @@
     "cBioPortalData": [],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -71,9 +67,7 @@
     "extraChIPs": [
         "GenomicInteractions"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FLAMES": [],
     "flowCL": [],
     "funtooNorm": [],
@@ -86,20 +80,16 @@
         "GenomicInteractions"
     ],
     "HTSeqGenie": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "LowMACA": [
         "cBioPortalData"
     ],
-    "lumi": [],
     "MAGAR": [
         "RnBeads"
     ],
     "maser": [],
     "MEAL": [],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "metaMS": [],
@@ -109,9 +99,7 @@
     "methylclock": [],
     "methylGSA": [],
     "methylPipe": [],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "motifbreakR": [],
     "MungeSumstats": [],
     "NADfinder": [],
@@ -126,7 +114,6 @@
     "RnBeads": [],
     "shinyepico": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "sojourner": [],
@@ -141,9 +128,7 @@
     "TraRe": [],
     "Travel": [],
     "tscR": [],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [],
     "yarn": []
 }
