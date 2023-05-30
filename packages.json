@@ -71,9 +71,7 @@
     "LowMACA": [
         "cBioPortalData"
     ],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MEAL": [],
     "MEAT": [
         "wateRmelon"
@@ -96,7 +94,6 @@
     "omada": [],
     "pram": [],
     "PrInCE": [],
-    "RnBeads": [],
     "shinyepico": [],
     "skewr": [
         "wateRmelon"
