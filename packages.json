@@ -22,9 +22,7 @@
     ],
     "BindingSiteFinder": [],
     "biomvRCNS": [],
-    "biscuiteer": [
-        "dmrseq"
-    ],
+    "biscuiteer": [],
     "BitSeq": [],
     "BOBaFIT": [],
     "brainflowprobes": [],
@@ -77,7 +75,6 @@
         "missMethyl"
     ],
     "DMRforPairs": [],
-    "dmrseq": [],
     "ELMER": [],
     "epihet": [],
     "epimutacions": [],
