@@ -85,9 +85,7 @@
     "motifbreakR": [],
     "MungeSumstats": [],
     "NBSplice": [],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "nullranges": [],
     "omada": [],
     "pram": [],
@@ -107,6 +105,5 @@
     "Travel": [],
     "tscR": [],
     "wateRmelon": [],
-    "YAPSA": [],
-    "yarn": []
+    "YAPSA": []
 }
