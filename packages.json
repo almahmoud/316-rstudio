@@ -41,7 +41,6 @@
     "CytoGLMM": [],
     "DMCFB": [],
     "DMRcate": [],
-    "ELMER": [],
     "epihet": [],
     "EventPointer": [],
     "exomePeak2": [],
@@ -82,9 +81,7 @@
     ],
     "sojourner": [],
     "spatzie": [],
-    "TCGAbiolinksGUI": [
-        "ELMER"
-    ],
+    "TCGAbiolinksGUI": [],
     "TDARACNE": [],
     "timeOmics": [],
     "TraRe": [],
