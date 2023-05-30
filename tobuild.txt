@@ -1,4 +1,0 @@
-yarn
-RNAmodR.AlkAnilineSeq
-RNAmodR.RiboMethSeq
-RNAmodR.ML
