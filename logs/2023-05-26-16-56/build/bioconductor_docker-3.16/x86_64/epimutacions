@@ -1,0 +1,322 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/tmp/tmp/built'\'', p); .libPaths(p); if(BiocManager::install('\''epimutacions'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20
+Bioconductor version 3.16 (BiocManager 1.30.20), R 4.2.3 (2023-03-15)
+Installing package(s) 'epimutacions'
+also installing the dependencies ‘shape’, ‘gtools’, ‘caTools’, ‘selectr’, ‘DEoptimR’, ‘a4Preproc’, ‘a4Core’, ‘annaffy’, ‘mpm’, ‘glmnet’, ‘gplots’, ‘rvest’, ‘webshot’, ‘svglite’, ‘epimutacionsData’, ‘isotree’, ‘robustbase’, ‘TxDb.Hsapiens.UCSC.hg18.knownGene’, ‘reshape2’, ‘ggrepel’, ‘a4Base’, ‘kableExtra’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/shape_1.4.6.tar.gz'
+Content type 'binary/octet-stream' length 783376 bytes (765 KB)
+==================================================
+downloaded 765 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/gtools_3.9.4.tar.gz'
+Content type 'binary/octet-stream' length 352174 bytes (343 KB)
+==================================================
+downloaded 343 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/caTools_1.18.2.tar.gz'
+Content type 'binary/octet-stream' length 245911 bytes (240 KB)
+==================================================
+downloaded 240 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/selectr_0.4-2.tar.gz'
+Content type 'binary/octet-stream' length 488540 bytes (477 KB)
+==================================================
+downloaded 477 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/DEoptimR_1.0-12.tar.gz'
+Content type 'binary/octet-stream' length 40463 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/a4Preproc_1.46.0.tar.gz'
+Content type 'application/gzip' length 280217 bytes (273 KB)
+==================================================
+downloaded 273 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/a4Core_1.46.0.tar.gz'
+Content type 'application/gzip' length 282286 bytes (275 KB)
+==================================================
+downloaded 275 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/annaffy_1.70.0.tar.gz'
+Content type 'application/gzip' length 204357 bytes (199 KB)
+==================================================
+downloaded 199 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/mpm_1.0-23.tar.gz'
+Content type 'binary/octet-stream' length 612627 bytes (598 KB)
+==================================================
+downloaded 598 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/glmnet_4.1-7.tar.gz'
+Content type 'binary/octet-stream' length 1987424 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/gplots_3.1.3.tar.gz'
+Content type 'binary/octet-stream' length 594297 bytes (580 KB)
+==================================================
+downloaded 580 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/rvest_1.0.3.tar.gz'
+Content type 'binary/octet-stream' length 209792 bytes (204 KB)
+==================================================
+downloaded 204 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/webshot_0.5.4.tar.gz'
+Content type 'binary/octet-stream' length 204200 bytes (199 KB)
+==================================================
+downloaded 199 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/svglite_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 204216 bytes (199 KB)
+==================================================
+downloaded 199 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/experiment/src/contrib/epimutacionsData_1.2.0.tar.gz'
+Content type 'application/gzip' length 59806308 bytes (57.0 MB)
+==================================================
+downloaded 57.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/isotree_0.5.19-1.tar.gz'
+Content type 'binary/octet-stream' length 1670262 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/robustbase_0.95-1.tar.gz'
+Content type 'binary/octet-stream' length 3053227 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg18.knownGene_3.2.2.tar.gz'
+Content type 'application/gzip' length 16032792 bytes (15.3 MB)
+==================================================
+downloaded 15.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/reshape2_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 115912 bytes (113 KB)
+==================================================
+downloaded 113 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/ggrepel_0.9.3.tar.gz'
+Content type 'binary/octet-stream' length 270934 bytes (264 KB)
+==================================================
+downloaded 264 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/a4Base_1.46.0.tar.gz'
+Content type 'application/gzip' length 375321 bytes (366 KB)
+==================================================
+downloaded 366 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/jammy/2023-04-20/src/contrib/kableExtra_1.3.4.tar.gz'
+Content type 'binary/octet-stream' length 1851365 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/epimutacions_1.2.0.tar.gz'
+Content type 'application/gzip' length 1809285 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+* installing *binary* package ‘shape’ ...
+* ‘shape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shape’ as ‘shape_1.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shape)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *binary* package ‘caTools’ ...
+* ‘caTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘caTools’ as ‘caTools_1.18.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (caTools)
+* installing *binary* package ‘selectr’ ...
+* ‘selectr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘selectr’ as ‘selectr_0.4-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (selectr)
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.0-12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *source* package ‘a4Preproc’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘a4Preproc’ as ‘a4Preproc_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (a4Preproc)
+* installing *source* package ‘annaffy’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annaffy’ as ‘annaffy_1.70.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annaffy)
+* installing *binary* package ‘mpm’ ...
+* ‘mpm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mpm’ as ‘mpm_1.0-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mpm)
+* installing *binary* package ‘webshot’ ...
+* ‘webshot’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webshot’ as ‘webshot_0.5.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webshot)
+* installing *binary* package ‘svglite’ ...
+* ‘svglite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘svglite’ as ‘svglite_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svglite)
+* installing *source* package ‘epimutacionsData’ ...
+** using staged installation
+** inst
+** help
+No man pages found in package  ‘epimutacionsData’ 
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘epimutacionsData’ as ‘epimutacionsData_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epimutacionsData)
+* installing *binary* package ‘isotree’ ...
+* ‘isotree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isotree’ as ‘isotree_0.5.19-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isotree)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg18.knownGene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg18.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg18.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg18.knownGene)
+* installing *binary* package ‘reshape2’ ...
+* ‘reshape2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reshape2’ as ‘reshape2_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reshape2)
+* installing *binary* package ‘ggrepel’ ...
+* ‘ggrepel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggrepel’ as ‘ggrepel_0.9.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggrepel)
+* installing *binary* package ‘glmnet’ ...
+* ‘glmnet’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘glmnet’ as ‘glmnet_4.1-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (glmnet)
+* installing *binary* package ‘gplots’ ...
+* ‘gplots’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gplots’ as ‘gplots_3.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gplots)
+* installing *binary* package ‘rvest’ ...
+* ‘rvest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rvest’ as ‘rvest_1.0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rvest)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.95-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *source* package ‘a4Core’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘a4Core’ as ‘a4Core_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (a4Core)
+* installing *binary* package ‘kableExtra’ ...
+* ‘kableExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kableExtra’ as ‘kableExtra_1.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kableExtra)
+* installing *source* package ‘epimutacions’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mlm_init.c -o mlm_init.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ruben.cpp -o ruben.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o epimutacions.so mlm_init.o ruben.o -L/usr/local/lib/R/lib -lR
+installing to /tmp/tmp/built/00LOCK-epimutacions/00new/epimutacions/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘epimutacions’ as ‘epimutacions_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epimutacions)
+* installing *source* package ‘a4Base’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘a4Base’ as ‘a4Base_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (a4Base)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOyaw33/downloaded_packages’
+
+real	4m25.111s
+user	3m33.573s
+sys	0m13.777s
