@@ -33,7 +33,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [],
@@ -63,9 +62,7 @@
     ],
     "CytoGLMM": [],
     "DMCFB": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "DMRforPairs": [],
     "ELMER": [],
     "epihet": [],
@@ -100,9 +97,7 @@
         "RnBeads"
     ],
     "maser": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "lumi",
         "wateRmelon"
@@ -112,14 +107,11 @@
     "MethylAid": [],
     "methylCC": [],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "methylPipe": [],
     "MineICA": [
         "lumi"
     ],
-    "missMethyl": [],
     "motifbreakR": [],
     "MungeSumstats": [],
     "NADfinder": [],
