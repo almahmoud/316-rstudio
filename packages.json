@@ -30,17 +30,12 @@
     "chimeraviz": [],
     "circRNAprofiler": [],
     "CiteFuse": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "coMET": [],
     "compEpiTools": [
         "methylPipe"
     ],
-    "CopyNumberPlots": [],
     "crisprVerse": [],
     "CyTOFpower": [
         "CytoGLMM"
