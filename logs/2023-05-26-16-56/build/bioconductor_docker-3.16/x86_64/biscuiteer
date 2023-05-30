@@ -130,11 +130,11 @@ packaged installation of ‘biscuiteer’ as ‘biscuiteer_1.12.0_R_x86_64-pc-li
 * DONE (biscuiteer)
 
 The downloaded source packages are in
-	‘/tmp/RtmpsrTE5F/downloaded_packages’
+	‘/tmp/RtmpQ8K7fD/downloaded_packages’
 
-real	4m27.395s
-user	3m52.477s
-sys	0m12.710s
+real	3m5.799s
+user	2m42.103s
+sys	0m9.069s
 * installing *source* package ‘QDNAseq.hg19’ ...
 ** using staged installation
 ** R
