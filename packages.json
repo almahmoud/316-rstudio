@@ -128,8 +128,7 @@
     "MungeSumstats": [],
     "musicatk": [],
     "NADfinder": [
-        "ATACseqQC",
-        "trackViewer"
+        "ATACseqQC"
     ],
     "NBSplice": [],
     "netZooR": [
@@ -168,7 +167,6 @@
     ],
     "TDARACNE": [],
     "timeOmics": [],
-    "trackViewer": [],
     "TraRe": [],
     "Travel": [],
     "tscR": [],
