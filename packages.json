@@ -9,15 +9,13 @@
     "AneuFinder": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpediaFI": [],
     "ASpli": [],
     "ATACseqQC": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -39,7 +37,6 @@
     "ChAMP": [
         "DMRcate",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -71,7 +68,6 @@
     "CytoGLMM": [],
     "DMCFB": [],
     "DMRcate": [
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [],
@@ -84,8 +80,7 @@
         "GenomicInteractions"
     ],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [],
     "flowCL": [],
@@ -100,28 +95,22 @@
     ],
     "HTSeqGenie": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "LowMACA": [
         "cBioPortalData"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "maser": [],
     "mCSEA": [],
     "MEAL": [
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "metaMS": [],
@@ -130,18 +119,13 @@
     "methylCC": [],
     "methylclock": [],
     "methylGSA": [
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
-    "methylumi": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
-    "missMethyl": [
-        "methylumi"
-    ],
+    "missMethyl": [],
     "MMAPPR2": [],
     "motifbreakR": [],
     "msgbsR": [],
@@ -185,9 +169,7 @@
         "RNAmodR"
     ],
     "RnaSeqSampleSize": [],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "scmeth": [],
     "scruff": [],
@@ -196,7 +178,6 @@
     "shinyMethyl": [],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "sojourner": [],
@@ -224,8 +205,7 @@
     "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "YAPSA": [
         "SomaticSignatures"
