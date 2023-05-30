@@ -776,11 +776,11 @@ packaged installation of ‘RnBeads’ as ‘RnBeads_2.16.0_R_x86_64-pc-linux-gn
 * DONE (RnBeads)
 
 The downloaded source packages are in
-	‘/tmp/Rtmps6a1sC/downloaded_packages’
+	‘/tmp/RtmpT8zjDA/downloaded_packages’
 
-real	17m53.300s
-user	16m24.507s
-sys	0m43.166s
+real	21m49.336s
+user	20m12.292s
+sys	0m52.813s
 * installing *source* package ‘RnBeads.mm9’ ...
 ** using staged installation
 ** R
