@@ -13,7 +13,6 @@
     ],
     "ASpediaFI": [],
     "ASpli": [],
-    "ATACseqQC": [],
     "bigmelon": [
         "lumi",
         "wateRmelon"
@@ -126,9 +125,7 @@
     "missMethyl": [],
     "motifbreakR": [],
     "MungeSumstats": [],
-    "NADfinder": [
-        "ATACseqQC"
-    ],
+    "NADfinder": [],
     "NBSplice": [],
     "netZooR": [
         "yarn"
