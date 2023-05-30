@@ -209,11 +209,11 @@ packaged installation of ‘SomaticSignatures’ as ‘SomaticSignatures_2.34.0_
 * DONE (SomaticSignatures)
 
 The downloaded source packages are in
-	‘/tmp/RtmpFrPbd7/downloaded_packages’
+	‘/tmp/RtmpAynA8g/downloaded_packages’
 
-real	5m29.056s
-user	4m34.781s
-sys	0m16.209s
+real	3m56.288s
+user	3m17.128s
+sys	0m11.704s
 * installing *source* package ‘SomaticCancerAlterations’ ...
 ** using staged installation
 ** R
