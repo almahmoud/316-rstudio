@@ -41,8 +41,8 @@ packaged installation of ‘yarn’ as ‘yarn_1.24.0_R_x86_64-pc-linux-gnu.tar.
 * DONE (yarn)
 
 The downloaded source packages are in
-	‘/tmp/Rtmp5WiAy0/downloaded_packages’
+	‘/tmp/RtmpSDWXlF/downloaded_packages’
 
-real	1m8.465s
-user	0m58.887s
-sys	0m2.996s
+real	0m47.632s
+user	0m42.056s
+sys	0m2.531s
